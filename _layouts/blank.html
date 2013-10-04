@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <style>
+    
+    
+    #thumbs {
+      line-height: 0;
+      
+      -webkit-column-width: 200px;
+      -moz-column-width: 200px;
+      column-width: 200px;
+      -webkit-column-gap: 0;
+    }
+    #thumbs .item {
+      /* Just in case there are inline attributes */
+      display: inline;
+      width: 100% !important;
+      height: auto !important;
+      -webkit-column-break-inside:avoid;
+      -moz-column-break-inside:avoid;
+      column-break-inside:avoid;
+    }
+    
+    #thumbs .item img {
+      width: 100% !important;
+    }
+    #thumbs li {
+      line-height: 20px;
+    }
+    </style>
+  </head>
+  <body>
+
+  	<section id="thumbs">
+
+      <div class="item">
+        <a class="thumbnail">
+          <img src="img/timemachine.jpg">
+        </a>
+        <div class="caption" style="display:none;">
+          <h4>The Time Machine</h4>
+          <ol class="list-unstyled">
+            {% for trackno in (1..23) %}
+            <li><a href="#">Track {{trackno}}</a></li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div><!-- item -->
+
+      <div class="item">
+        <a class="thumbnail">
+          <img src="img/timemachine.jpg">
+        </a>
+        <div class="caption">
+          <h4>The Time Machine</h4>
+          <ol class="list-unstyled">
+            {% for trackno in (1..23) %}
+            <li><a href="#">Track {{trackno}}</a></li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div><!-- item -->
+
+      {% for items in (1..30) %}
+      <div class="item">
+        <a class="thumbnail">
+          <img src="img/timemachine.jpg">
+        </a>
+        <div class="caption" style="display:none;">
+          <h4>The Time Machine</h4>
+          <ol class="list-unstyled">
+            {% for trackno in (1..23) %}
+            <li><a href="#">Track {{trackno}}</a></li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div><!-- item -->
+      {% endfor %}
+
+
+    </section>
+  
+  </body>
+</html>
