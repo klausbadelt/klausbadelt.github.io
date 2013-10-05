@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    htmlentities (4.3.1)
+    ruby-mp3info (0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  htmlentities (~> 4.3.1)
+  ruby-mp3info (~> 0.8)
