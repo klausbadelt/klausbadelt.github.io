@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "22 Bullets"
+poster: "22_bullets.jpg"
+categories: action film
+---
+1. [Eu minim ut veniam](#)
+2. [Adipiscing qui](#)
+3. [Te legere assum](#)
+4. [Lorem ipsum](#)
+5. [Minim ut veniam](#)

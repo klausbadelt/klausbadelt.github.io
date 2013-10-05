@@ -2,4 +2,22 @@
 layout: default
 title: Klaus Badelt
 ---
+<div class="accordion-group" id="thumbs">
 
+  {% for post in site.posts %}
+  <div class="item">
+    <div class="poster">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"  href="#item-{{post.poster | remove: '.jpg'}}">
+        <img src="/images/posters/{{post.poster}}">
+      </a>
+    </div>
+    <div id="item-{{post.poster | remove: '.jpg'}}" class="collapse">
+      <div class="caption">
+        <h4>{{ post.title }}</h4>
+        {{ post.excerpt }}
+      </div>
+    </div>
+  </div><!-- item -->
+  {% endfor %}
+
+</div>
