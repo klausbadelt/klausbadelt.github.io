@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "16 Blocks"
-poster: "16_blocks.jpg"
+poster: "16b.jpg"
 categories: action-adventure film
 ---
 1. [Eu minim ut veniam](#)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "22 Bullets"
-poster: "22_bullets.jpg"
+poster: "22b.jpg"
 categories: action film
 ---
 1. [Eu minim ut veniam](#)

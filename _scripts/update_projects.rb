@@ -32,16 +32,27 @@ Dir.glob('../mx/**') do |folder|
   postname = "../_posts/#{release.strftime("%Y-%m-%d")}-#{project}.markdown"
   puts "Writing #{album}"
   post = File.open(postname, 'w')
-  post.puts "---", "layout: post", "title: #{album}", "poster: #{project}.jpg", "date: #{release}", "categories: film","---","<ul class='tracklisting list-unstyled'>"
+  post.puts "---", "layout: post", "title: #{album}", "poster: #{project}.jpg", "date: #{release}",
+    "categories: film","---","<table class='tracklisting table table-condensed'>" #,
+    # "<thead><tr>",
+    # "<th><a href='#' data-playlist='#{project}' data-enqueue='no' class='fap-add-playlist'>Play All</th>",
+    # "</tr></thead><tbody id='#{project}'>"
 
   # write tracklisting
   audiofiles.each do |audiofile|
     TagLib::FileRef.open audiofile do |mp3|
       href = Base64.encode64("/mx/#{project}/#{File.basename(audiofile)}").chomp
       title = htmler.encode mp3.tag.title
-      post.puts "  <li><a href='#{href}' rel='/images/posters/#{project}.jpg' title='#{album_html.tr("'","_")} - #{title.tr("'","_")}'><span class='glyphicon glyphicon-play-circle'></a>"
-      post.puts " <a href='#{href}' rel='/images/posters/#{project}.jpg' title='#{album_html.tr("'","_")} - #{title.tr("'","_")}' data-enqueue='yes'><span class='glyphicon glyphicon-plus-sign'></a> #{title}</li>"
+      duration = Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
+      
+      post.puts "<tr>"
+#      post.puts "<td class='control'><a class='btn btn-default btn-sm' href='#{href}' rel='/images/posters/#{project}.jpg' title='#{album_html.tr("'","_")} - #{title.tr("'","_")}'><span class='track-btn track-play glyphicon glyphicon-play'></a></td>"
+      post.puts "<td class='track-title'><a href='#{href}' rel='/images/posters/#{project}.jpg' title='#{album_html.tr("'","_")} - #{title.tr("'","_")}' class='fap-single-track'>#{title}</a></td>"
+      post.puts "<td class='track-duration'><small class='text-muted'>#{duration}</small></td>"
+      post.puts "<td class='control'> <a href='#{href}' rel='/images/posters/#{project}.jpg' title='#{album_html.tr("'","_")} - #{title.tr("'","_")}' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>"
+      post.puts "</tr>"
+      
     end
   end
-  post.puts "</ol>"
+  post.puts "</tbody></table>"
 end

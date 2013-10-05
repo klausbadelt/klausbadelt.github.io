@@ -26,3 +26,16 @@ body {
 #thumbs li {
   line-height: 20px;
 }
+
+
+.tracklisting td.control {
+  width: 50px;
+}
+
+.tracklisting td.track-title {
+  vertical-align: middle;
+}
+
+.tracklisting a.control {
+  display: none;
+}
