@@ -1,0 +1,159 @@
+---
+layout: post
+title: L'Immortel (22 Bullets) 
+poster: 22b.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+---
+<table class='tracklisting table table-condensed'>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8xbTEgTW9tLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m1 Mom' class='fap-single-track'>1m1 Mom</a></td>
+<td class='track-duration'><small class='text-muted'>02:12</small></td>
+<td class='control'> <a href='L214LzIyYi8xbTEgTW9tLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m1 Mom' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8xbTIgVGhlIEFuY2llbnQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m2 The Ancient' class='fap-single-track'>1m2 The Ancient</a></td>
+<td class='track-duration'><small class='text-muted'>02:49</small></td>
+<td class='control'> <a href='L214LzIyYi8xbTIgVGhlIEFuY2llbnQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m2 The Ancient' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8xbTMgTmV3cy5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m3 News' class='fap-single-track'>1m3 News</a></td>
+<td class='track-duration'><small class='text-muted'>03:07</small></td>
+<td class='control'> <a href='L214LzIyYi8xbTMgTmV3cy5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m3 News' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8xbTQgQXNzYXNzaW5hdGlvbiBGbGFzaGJhY2subXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m4 Assassination Flashback' class='fap-single-track'>1m4 Assassination Flashback</a></td>
+<td class='track-duration'><small class='text-muted'>02:40</small></td>
+<td class='control'> <a href='L214LzIyYi8xbTQgQXNzYXNzaW5hdGlvbiBGbGFzaGJhY2subXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m4 Assassination Flashback' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8xbTUgTWFyaWUncyBNYWlsLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m5 Marie&apos;s Mail' class='fap-single-track'>1m5 Marie&apos;s Mail</a></td>
+<td class='track-duration'><small class='text-muted'>00:35</small></td>
+<td class='control'> <a href='L214LzIyYi8xbTUgTWFyaWUncyBNYWlsLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 1m5 Marie&apos;s Mail' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTEwIFBpc3RhY2hpZXIgSW50ZXJ2aWV3Lm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m10 Pistachier Interview' class='fap-single-track'>2m10 Pistachier Interview</a></td>
+<td class='track-duration'><small class='text-muted'>01:49</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTEwIFBpc3RhY2hpZXIgSW50ZXJ2aWV3Lm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m10 Pistachier Interview' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTExIENoYXJseSBIb3NwaXRhbCBFc2NhcGUubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m11 Charly Hospital Escape' class='fap-single-track'>2m11 Charly Hospital Escape</a></td>
+<td class='track-duration'><small class='text-muted'>01:37</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTExIENoYXJseSBIb3NwaXRhbCBFc2NhcGUubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m11 Charly Hospital Escape' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTYgSG9zcGl0YWwgQXNzYXNzaW5hdGlvbi5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m6 Hospital Assassination' class='fap-single-track'>2m6 Hospital Assassination</a></td>
+<td class='track-duration'><small class='text-muted'>01:14</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTYgSG9zcGl0YWwgQXNzYXNzaW5hdGlvbi5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m6 Hospital Assassination' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTcgWmFjIEFycml2ZXMubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m7 Zac Arrives' class='fap-single-track'>2m7 Zac Arrives</a></td>
+<td class='track-duration'><small class='text-muted'>01:33</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTcgWmFjIEFycml2ZXMubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m7 Zac Arrives' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTggRXZhJ3MgSG91c2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m8 Eva&apos;s House' class='fap-single-track'>2m8 Eva&apos;s House</a></td>
+<td class='track-duration'><small class='text-muted'>01:08</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTggRXZhJ3MgSG91c2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m8 Eva&apos;s House' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8ybTkgTW9tJ3MgSG9zcGl0YWwgVmlzaXQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m9 Mom&apos;s Hospital Visit' class='fap-single-track'>2m9 Mom&apos;s Hospital Visit</a></td>
+<td class='track-duration'><small class='text-muted'>01:15</small></td>
+<td class='control'> <a href='L214LzIyYi8ybTkgTW9tJ3MgSG9zcGl0YWwgVmlzaXQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 2m9 Mom&apos;s Hospital Visit' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8zbTEyIEhhcmJvciBXYXJlaG91c2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m12 Harbor Warehouse' class='fap-single-track'>3m12 Harbor Warehouse</a></td>
+<td class='track-duration'><small class='text-muted'>05:58</small></td>
+<td class='control'> <a href='L214LzIyYi8zbTEyIEhhcmJvciBXYXJlaG91c2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m12 Harbor Warehouse' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8zbTE0IEthcmltIEtpbGxlZC5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m14 Karim Killed' class='fap-single-track'>3m14 Karim Killed</a></td>
+<td class='track-duration'><small class='text-muted'>03:07</small></td>
+<td class='control'> <a href='L214LzIyYi8zbTE0IEthcmltIEtpbGxlZC5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m14 Karim Killed' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi8zbTE2IEJpcnRoZGF5IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m16 Birthday Killing' class='fap-single-track'>3m16 Birthday Killing</a></td>
+<td class='track-duration'><small class='text-muted'>03:17</small></td>
+<td class='control'> <a href='L214LzIyYi8zbTE2IEJpcnRoZGF5IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 3m16 Birthday Killing' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi80bTE3IENlbWV0YXJ5IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m17 Cemetary Killing' class='fap-single-track'>4m17 Cemetary Killing</a></td>
+<td class='track-duration'><small class='text-muted'>00:52</small></td>
+<td class='control'> <a href='L214LzIyYi80bTE3IENlbWV0YXJ5IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m17 Cemetary Killing' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi80bTE4IE1vbSdzIEFwYXJ0bWVudCBUcmFzaGVkLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m18 Mom&apos;s Apartment Trashed' class='fap-single-track'>4m18 Mom&apos;s Apartment Trashed</a></td>
+<td class='track-duration'><small class='text-muted'>02:21</small></td>
+<td class='control'> <a href='L214LzIyYi80bTE4IE1vbSdzIEFwYXJ0bWVudCBUcmFzaGVkLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m18 Mom&apos;s Apartment Trashed' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi80bTE5IE1vdG9yY3ljbGUgQ2hhc2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m19 Motorcycle Chase' class='fap-single-track'>4m19 Motorcycle Chase</a></td>
+<td class='track-duration'><small class='text-muted'>04:15</small></td>
+<td class='control'> <a href='L214LzIyYi80bTE5IE1vdG9yY3ljbGUgQ2hhc2UubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m19 Motorcycle Chase' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi80bTIwIENoYXJseSBJbnRlcnJvZ2F0aW9uLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m20 Charly Interrogation' class='fap-single-track'>4m20 Charly Interrogation</a></td>
+<td class='track-duration'><small class='text-muted'>02:43</small></td>
+<td class='control'> <a href='L214LzIyYi80bTIwIENoYXJseSBJbnRlcnJvZ2F0aW9uLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m20 Charly Interrogation' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi80bTIxIEZyYW5jayBLaWxsaW5nLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m21 Franck Killing' class='fap-single-track'>4m21 Franck Killing</a></td>
+<td class='track-duration'><small class='text-muted'>00:39</small></td>
+<td class='control'> <a href='L214LzIyYi80bTIxIEZyYW5jayBLaWxsaW5nLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 4m21 Franck Killing' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi81bTIyIFJhYmF1IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m22 Rabau Killing' class='fap-single-track'>5m22 Rabau Killing</a></td>
+<td class='track-duration'><small class='text-muted'>03:13</small></td>
+<td class='control'> <a href='L214LzIyYi81bTIyIFJhYmF1IEtpbGxpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m22 Rabau Killing' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi81bTIzIFVTQiBDYWZlLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m23 USB Cafe' class='fap-single-track'>5m23 USB Cafe</a></td>
+<td class='track-duration'><small class='text-muted'>01:20</small></td>
+<td class='control'> <a href='L214LzIyYi81bTIzIFVTQiBDYWZlLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m23 USB Cafe' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi81bTI0IEtpZCdzIEhpamFja2luZy5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m24 Kid&apos;s Hijacking' class='fap-single-track'>5m24 Kid&apos;s Hijacking</a></td>
+<td class='track-duration'><small class='text-muted'>04:50</small></td>
+<td class='control'> <a href='L214LzIyYi81bTI0IEtpZCdzIEhpamFja2luZy5tcDM=' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m24 Kid&apos;s Hijacking' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi81bTI1IENoYXJseSdzIFBsYW4ubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m25 Charly&apos;s Plan' class='fap-single-track'>5m25 Charly&apos;s Plan</a></td>
+<td class='track-duration'><small class='text-muted'>01:50</small></td>
+<td class='control'> <a href='L214LzIyYi81bTI1IENoYXJseSdzIFBsYW4ubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 5m25 Charly&apos;s Plan' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI2YSBTYXZpbmcgQW5hdG9sZSBQdDEubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26a Saving Anatole Pt1' class='fap-single-track'>6m26a Saving Anatole Pt1</a></td>
+<td class='track-duration'><small class='text-muted'>02:49</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI2YSBTYXZpbmcgQW5hdG9sZSBQdDEubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26a Saving Anatole Pt1' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI2YiBTYXZpbmcgQW5hdG9sZSBQdDIubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26b Saving Anatole Pt2' class='fap-single-track'>6m26b Saving Anatole Pt2</a></td>
+<td class='track-duration'><small class='text-muted'>04:50</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI2YiBTYXZpbmcgQW5hdG9sZSBQdDIubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26b Saving Anatole Pt2' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI2YyBEZWF0aCBNb250YWdlLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26c Death Montage' class='fap-single-track'>6m26c Death Montage</a></td>
+<td class='track-duration'><small class='text-muted'>00:42</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI2YyBEZWF0aCBNb250YWdlLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m26c Death Montage' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI3IEtpdGNoZW4gQ29udmVyc2F0aW9uLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m27 Kitchen Conversation' class='fap-single-track'>6m27 Kitchen Conversation</a></td>
+<td class='track-duration'><small class='text-muted'>04:14</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI3IEtpdGNoZW4gQ29udmVyc2F0aW9uLm1wMw==' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m27 Kitchen Conversation' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI4IEtpdGNoZW4gRmlnaHQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m28 Kitchen Fight' class='fap-single-track'>6m28 Kitchen Fight</a></td>
+<td class='track-duration'><small class='text-muted'>01:25</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI4IEtpdGNoZW4gRmlnaHQubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m28 Kitchen Fight' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi82bTI5IEZpbmFsIEludGVycm9nYXRpb24ubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m29 Final Interrogation' class='fap-single-track'>6m29 Final Interrogation</a></td>
+<td class='track-duration'><small class='text-muted'>03:51</small></td>
+<td class='control'> <a href='L214LzIyYi82bTI5IEZpbmFsIEludGVycm9nYXRpb24ubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 6m29 Final Interrogation' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+<tr>
+<td class='track-title'><a href='L214LzIyYi83bTMwIFBhcmtpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 7m30 Parking' class='fap-single-track'>7m30 Parking</a></td>
+<td class='track-duration'><small class='text-muted'>03:09</small></td>
+<td class='control'> <a href='L214LzIyYi83bTMwIFBhcmtpbmcubXAz' rel='/images/posters/22b.jpg' title='L&apos;Immortel (22 Bullets)  - 7m30 Parking' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
+</tr>
+</tbody></table>

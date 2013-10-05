@@ -27,9 +27,22 @@
     
     <script>
     $(document).ready(function(){
-      $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true, storePlaylist: true});
-      $('div.tracklisting a').addClass('fap-single-track');
+      $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
+      // $('div.tracklisting a').addClass('fap-single-track');
+      // $('.tracklisting a.btn').hide();
     });
+    
+    $('#fap').bind('onFapTrackSelect', function(evt, trackData) {
+        //output the title of the current track
+        console.log(trackData);
+    });
+    
+    $(".tracklisting tr").hover(
+      function() {
+        $( this ).find('a.control').toggle();
+      }
+    );
     </script>
+
   </body>
 </html>
