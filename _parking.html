@@ -1,0 +1,17 @@
+
+
+      {% for items in (1..30) %}
+      <div class="item">
+        <a class="thumbnail accordion-toggle" data-toggle="collapse" data-target="#item-{{items}}" data-parent="#thumbs">
+          <img src="img/timemachine.jpg">
+        </a>
+        <div class="caption collapse" id="item-{{items}}">
+          <h4>The Time Machine</h4>
+          <ol class="list-unstyled">
+            {% for trackno in (1..23) %}
+            <li><a href="#">Track {{trackno}}</a></li>
+            {% endfor %}
+          </ol>
+        </div>
+      </div><!-- item -->
+      {% endfor %}
