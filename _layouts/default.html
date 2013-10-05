@@ -7,6 +7,10 @@
     <link href="css/jquery.fullwidthAudioPlayer.css" rel="stylesheet" type="text/css">
     <link href="css/jquery.fullwidthAudioPlayer-responsive.css" rel="stylesheet" type="text/css">
     <link href="css/app.css" rel="stylesheet" media="screen">
+    <script src="js/jquery-2.0.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>  
+    <script src="js/holder.min.js"></script>
+    
   </head>
   <body>
     <div class="container">
@@ -17,32 +21,5 @@
 
     </div><!-- container -->
     
-    <script src="js/jquery-2.0.3.min.js"></script>
-    <script src="js/jquery-ui.js" type="text/javascript"></script>
-    <script src="https://connect.soundcloud.com/sdk.js" type="text/javascript"></script>
-    <script src="js/amplify.min.js" type="text/javascript"></script>
-    <script src="js/jquery.fullwidthAudioPlayer.min.js" type="text/javascript"></script>
-    <script src="js/bootstrap.min.js"></script>  
-    <script src="js/holder.min.js"></script>
-    
-    <script>
-    $(document).ready(function(){
-      $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
-      // $('div.tracklisting a').addClass('fap-single-track');
-      // $('.tracklisting a.btn').hide();
-    });
-    
-    $('#fap').bind('onFapTrackSelect', function(evt, trackData) {
-        //output the title of the current track
-        console.log(trackData);
-    });
-    
-    $(".tracklisting tr").hover(
-      function() {
-        $( this ).find('a.control').toggle();
-      }
-    );
-    </script>
-
   </body>
 </html>
