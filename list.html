@@ -5,16 +5,15 @@ title: Klaus Badelt
 <div class="panel-group" id="accordion">
 
   {% for post in site.posts %}
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
+  <div class="">
+    <div class="">
+      <h1 class="">
         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#item-{{post.poster | remove: '.jpg'}}">
           {{ post.title }}
         </a>
-      </h4>
+      </h1>
     </div>
-    <div id="item-{{post.poster | remove: '.jpg'}}" class="collapse
-    ">
+    <div id="item-{{post.poster | remove: '.jpg'}}" class="collapse">
       <div class="panel-body">
         <div class="col-md-3">
           <img src="/images/posters/{{post.poster}}" class="thumbnail">
