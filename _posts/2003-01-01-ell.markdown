@@ -1,7 +1,7 @@
 ---
 layout: post
-title: L'Immortel (22 Bullets) 
-poster: 22b.jpg
+title: Pour Elle (Anything for her) 
+poster: el.jpg
 categories: film
 tracks:
  - title: 1m1 Mom

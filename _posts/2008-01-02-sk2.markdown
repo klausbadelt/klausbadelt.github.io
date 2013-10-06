@@ -1,7 +1,7 @@
 ---
 layout: post
-title: L'Immortel (22 Bullets) 
-poster: 22b.jpg
+title: The Scorpion King 2
+poster: sk2.jpg
 categories: film
 tracks:
  - title: 1m1 Mom
