@@ -42,7 +42,12 @@ title: Klaus Badelt
 <script>
 $(function(){
   $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
-  console.log("list.html startup");
+  // show "add to playlist" button only on hover over track
+  $(".tracklisting tr").hover(
+    function() {
+      $( this ).find('a.control').toggle();
+    }
+  );
   // $('div.tracklisting a').addClass('fap-single-track');
   // $('.tracklisting a.btn').hide();
 });
@@ -52,9 +57,4 @@ $(function(){
     // console.log(trackData);
 // });
 
-$(".tracklisting tr").hover(
-  function() {
-    $( this ).find('a.control').toggle();
-  }
-);
 </script>
