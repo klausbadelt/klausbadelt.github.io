@@ -4,81 +4,50 @@ title: The Time Machine
 poster: tm.jpg
 date: 2002-01-01 00:00:00 -0800
 categories: film
+tracks:
+ - title: Professor Alexander Hartdegen
+   url: L214L3RtLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==
+   duration: 03:26
+ - title: Wish Me Luck
+   url: L214L3RtLzAyIFdpc2ggTWUgTHVjay5tcDM=
+   duration: 01:25
+ - title: Emma
+   url: L214L3RtLzAzIEVtbWEubXAz
+   duration: 02:37
+ - title: The Time Machine
+   url: L214L3RtLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz
+   duration: 03:12
+ - title: Bleeker Street
+   url: L214L3RtLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==
+   duration: 02:28
+ - title: I Don't Belong Here
+   url: L214L3RtLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz
+   duration: 03:49
+ - title: Time Travel
+   url: L214L3RtLzA3IFRpbWUgVHJhdmVsLm1wMw==
+   duration: 04:35
+ - title: Eloi
+   url: L214L3RtLzA4IEVsb2kubXAz
+   duration: 02:12
+ - title: Good Night
+   url: L214L3RtLzA5IEdvb2QgTmlnaHQubXAz
+   duration: 04:05
+ - title: Stone Language
+   url: L214L3RtLzEwIFN0b25lIExhbmd1YWdlLm1wMw==
+   duration: 04:54
+ - title: Morlocks Attack
+   url: L214L3RtLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=
+   duration: 04:23
+ - title: Where The Ghosts Are
+   url: L214L3RtLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==
+   duration: 01:37
+ - title: The Master
+   url: L214L3RtLzEzIFRoZSBNYXN0ZXIubXAz
+   duration: 07:15
+ - title: "What If?"
+   url: L214L3RtLzE0IF9XaGF0IElmX18ubXAz
+   duration: 06:16
+ - title: Godspeed
+   url: L214L3RtLzE1IEdvZHNwZWVkLm1wMw==
+   duration: 05:20
 ---
-<table class='tracklisting table table-condensed'>
-<tr>
-<td class='track-title'><a href='L214L3RtLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Professor Alexander Hartdegen' class='fap-single-track'>Professor Alexander Hartdegen</a></td>
-<td class='track-duration'><small class='text-muted'>03:26</small></td>
-<td class='control'> <a href='L214L3RtLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Professor Alexander Hartdegen' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzAyIFdpc2ggTWUgTHVjay5tcDM=' rel='/images/posters/tm.jpg' title='The Time Machine  - Wish Me Luck' class='fap-single-track'>Wish Me Luck</a></td>
-<td class='track-duration'><small class='text-muted'>01:25</small></td>
-<td class='control'> <a href='L214L3RtLzAyIFdpc2ggTWUgTHVjay5tcDM=' rel='/images/posters/tm.jpg' title='The Time Machine  - Wish Me Luck' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzAzIEVtbWEubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Emma' class='fap-single-track'>Emma</a></td>
-<td class='track-duration'><small class='text-muted'>02:37</small></td>
-<td class='control'> <a href='L214L3RtLzAzIEVtbWEubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Emma' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - The Time Machine' class='fap-single-track'>The Time Machine</a></td>
-<td class='track-duration'><small class='text-muted'>03:12</small></td>
-<td class='control'> <a href='L214L3RtLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - The Time Machine' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Bleeker Street' class='fap-single-track'>Bleeker Street</a></td>
-<td class='track-duration'><small class='text-muted'>02:28</small></td>
-<td class='control'> <a href='L214L3RtLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Bleeker Street' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - I Don&apos;t Belong Here' class='fap-single-track'>I Don&apos;t Belong Here</a></td>
-<td class='track-duration'><small class='text-muted'>03:49</small></td>
-<td class='control'> <a href='L214L3RtLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - I Don&apos;t Belong Here' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA3IFRpbWUgVHJhdmVsLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Time Travel' class='fap-single-track'>Time Travel</a></td>
-<td class='track-duration'><small class='text-muted'>04:35</small></td>
-<td class='control'> <a href='L214L3RtLzA3IFRpbWUgVHJhdmVsLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Time Travel' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA4IEVsb2kubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Eloi' class='fap-single-track'>Eloi</a></td>
-<td class='track-duration'><small class='text-muted'>02:12</small></td>
-<td class='control'> <a href='L214L3RtLzA4IEVsb2kubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Eloi' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzA5IEdvb2QgTmlnaHQubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Good Night' class='fap-single-track'>Good Night</a></td>
-<td class='track-duration'><small class='text-muted'>04:05</small></td>
-<td class='control'> <a href='L214L3RtLzA5IEdvb2QgTmlnaHQubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - Good Night' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzEwIFN0b25lIExhbmd1YWdlLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Stone Language' class='fap-single-track'>Stone Language</a></td>
-<td class='track-duration'><small class='text-muted'>04:54</small></td>
-<td class='control'> <a href='L214L3RtLzEwIFN0b25lIExhbmd1YWdlLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Stone Language' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=' rel='/images/posters/tm.jpg' title='The Time Machine  - Morlocks Attack' class='fap-single-track'>Morlocks Attack</a></td>
-<td class='track-duration'><small class='text-muted'>04:23</small></td>
-<td class='control'> <a href='L214L3RtLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=' rel='/images/posters/tm.jpg' title='The Time Machine  - Morlocks Attack' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Where The Ghosts Are' class='fap-single-track'>Where The Ghosts Are</a></td>
-<td class='track-duration'><small class='text-muted'>01:37</small></td>
-<td class='control'> <a href='L214L3RtLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Where The Ghosts Are' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzEzIFRoZSBNYXN0ZXIubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - The Master' class='fap-single-track'>The Master</a></td>
-<td class='track-duration'><small class='text-muted'>07:15</small></td>
-<td class='control'> <a href='L214L3RtLzEzIFRoZSBNYXN0ZXIubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - The Master' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzE0IF9XaGF0IElmX18ubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - &quot;What If?&quot;' class='fap-single-track'>&quot;What If?&quot;</a></td>
-<td class='track-duration'><small class='text-muted'>06:16</small></td>
-<td class='control'> <a href='L214L3RtLzE0IF9XaGF0IElmX18ubXAz' rel='/images/posters/tm.jpg' title='The Time Machine  - &quot;What If?&quot;' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-<tr>
-<td class='track-title'><a href='L214L3RtLzE1IEdvZHNwZWVkLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Godspeed' class='fap-single-track'>Godspeed</a></td>
-<td class='track-duration'><small class='text-muted'>05:20</small></td>
-<td class='control'> <a href='L214L3RtLzE1IEdvZHNwZWVkLm1wMw==' rel='/images/posters/tm.jpg' title='The Time Machine  - Godspeed' class='fap-single-track control' data-enqueue='yes'><span class='glyphicon glyphicon-plus'></a></td>
-</tr>
-</tbody></table>
