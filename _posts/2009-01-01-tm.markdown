@@ -4,50 +4,7 @@ title: The Time Machine
 poster: tm.jpg
 date: 2002-01-01 00:00:00 -0800
 categories: film
-tracks:
- - title: Professor Alexander Hartdegen
-   url: L214L3RtLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==
-   duration: 03:26
- - title: Wish Me Luck
-   url: L214L3RtLzAyIFdpc2ggTWUgTHVjay5tcDM=
-   duration: 01:25
- - title: Emma
-   url: L214L3RtLzAzIEVtbWEubXAz
-   duration: 02:37
- - title: The Time Machine
-   url: L214L3RtLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz
-   duration: 03:12
- - title: Bleeker Street
-   url: L214L3RtLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==
-   duration: 02:28
- - title: I Don't Belong Here
-   url: L214L3RtLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz
-   duration: 03:49
- - title: Time Travel
-   url: L214L3RtLzA3IFRpbWUgVHJhdmVsLm1wMw==
-   duration: 04:35
- - title: Eloi
-   url: L214L3RtLzA4IEVsb2kubXAz
-   duration: 02:12
- - title: Good Night
-   url: L214L3RtLzA5IEdvb2QgTmlnaHQubXAz
-   duration: 04:05
- - title: Stone Language
-   url: L214L3RtLzEwIFN0b25lIExhbmd1YWdlLm1wMw==
-   duration: 04:54
- - title: Morlocks Attack
-   url: L214L3RtLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=
-   duration: 04:23
- - title: Where The Ghosts Are
-   url: L214L3RtLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==
-   duration: 01:37
- - title: The Master
-   url: L214L3RtLzEzIFRoZSBNYXN0ZXIubXAz
-   duration: 07:15
- - title: "What If?"
-   url: L214L3RtLzE0IF9XaGF0IElmX18ubXAz
-   duration: 06:16
- - title: Godspeed
-   url: L214L3RtLzE1IEdvZHNwZWVkLm1wMw==
-   duration: 05:20
 ---
+This is a blog entry.
+
+New paragraph.
