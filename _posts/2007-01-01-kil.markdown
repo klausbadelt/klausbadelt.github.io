@@ -1,0 +1,89 @@
+---
+layout: post
+title: Killshot
+poster: kil.jpg
+date: 2007-01-01 00:00:00 -0800
+categories: film
+tracks:
+ - title: 1m0 1.10 KIL Drone Alt
+   url: L214L2tpbC8xbTAgMS4xMCBLSUwgRHJvbmUgQWx0Lm1wMw==
+   duration: 05:08
+ - title: 1m1 1.5 Hospital Accident
+   url: L214L2tpbC8xbTEgMS41IEhvc3BpdGFsIEFjY2lkZW50Lm1wMw==
+   duration: 01:28
+ - title: 1m2 1.8 One Last Job
+   url: L214L2tpbC8xbTIgMS44IE9uZSBMYXN0IEpvYi5tcDM=
+   duration: 02:19
+ - title: 1m4 1.6 Calling Gangsters
+   url: L214L2tpbC8xbTQgMS42IENhbGxpbmcgR2FuZ3N0ZXJzLm1wMw==
+   duration: 01:07
+ - title: 2m5 1.7 Driving Real Estate
+   url: L214L2tpbC8ybTUgMS43IERyaXZpbmcgUmVhbCBFc3RhdGUubXAz
+   duration: 02:15
+ - title: 2m6a 1.8 Real Estate Attack
+   url: L214L2tpbC8ybTZhIDEuOCBSZWFsIEVzdGF0ZSBBdHRhY2subXAz
+   duration: 01:06
+ - title: 2m6b 1.8 Attack
+   url: L214L2tpbC8ybTZiIDEuOCBBdHRhY2subXAz
+   duration: 01:39
+ - title: 2m7 1.10 Duck Hunting
+   url: L214L2tpbC8ybTcgMS4xMCBEdWNrIEh1bnRpbmcubXAz
+   duration: 02:18
+ - title: 2m8 1.6 Killing Lionel
+   url: L214L2tpbC8ybTggMS42IEtpbGxpbmcgTGlvbmVsLm1wMw==
+   duration: 02:59
+ - title: 2m8b 1.6 Killing Lionel pt2
+   url: L214L2tpbC8ybThiIDEuNiBLaWxsaW5nIExpb25lbCBwdDIubXAz
+   duration: 01:43
+ - title: 3m10 1.5 Stalking
+   url: L214L2tpbC8zbTEwIDEuNSBTdGFsa2luZy5tcDM=
+   duration: 01:18
+ - title: 3m10b 1.6 Stalking pt2
+   url: L214L2tpbC8zbTEwYiAxLjYgU3RhbGtpbmcgcHQyLm1wMw==
+   duration: 02:53
+ - title: 3m11 1.6 Store Shootout
+   url: L214L2tpbC8zbTExIDEuNiBTdG9yZSBTaG9vdG91dC5tcDM=
+   duration: 01:20
+ - title: 3m11a Annie's Song Overlay
+   url: L214L2tpbC8zbTExYSBBbm5pZSdzIFNvbmcgT3ZlcmxheS5tcDM=
+   duration: 01:35
+ - title: 4m12a 1.5 FBI Relocation pt1
+   url: L214L2tpbC80bTEyYSAxLjUgRkJJIFJlbG9jYXRpb24gcHQxLm1wMw==
+   duration: 01:56
+ - title: 4m12c 1.4 FBI Relocation pt3
+   url: L214L2tpbC80bTEyYyAxLjQgRkJJIFJlbG9jYXRpb24gcHQzLm1wMw==
+   duration: 01:14
+ - title: 5m15 1.4 Carmen Paranoia
+   url: L214L2tpbC81bTE1IDEuNCBDYXJtZW4gUGFyYW5vaWEubXAz
+   duration: 02:47
+ - title: 5m16 1.6 Mafia Meeting
+   url: L214L2tpbC81bTE2IDEuNiBNYWZpYSBNZWV0aW5nLm1wMw==
+   duration: 02:35
+ - title: 5m17 1.4 Hallway Kisses
+   url: L214L2tpbC81bTE3IDEuNCBIYWxsd2F5IEtpc3Nlcy5tcDM=
+   duration: 01:01
+ - title: 5m17b 1.4 Burying Brother
+   url: L214L2tpbC81bTE3YiAxLjQgQnVyeWluZyBCcm90aGVyLm1wMw==
+   duration: 01:10
+ - title: 5m18 1.4 Leaving Donna
+   url: L214L2tpbC81bTE4IDEuNCBMZWF2aW5nIERvbm5hLm1wMw==
+   duration: 01:56
+ - title: 5m19b 1.5 Going Home
+   url: L214L2tpbC81bTE5YiAxLjUgR29pbmcgSG9tZS5tcDM=
+   duration: 01:21
+ - title: 5m19b Alt 1.5 Going Home
+   url: L214L2tpbC81bTE5YiBBbHQgMS41IEdvaW5nIEhvbWUubXAz
+   duration: 01:21
+ - title: 6m21 1.7 Clothes Off
+   url: L214L2tpbC82bTIxIDEuNyBDbG90aGVzIE9mZi5tcDM=
+   duration: 04:32
+ - title: 6m22 1.4 Shooting Richie
+   url: L214L2tpbC82bTIyIDEuNCBTaG9vdGluZyBSaWNoaWUubXAz
+   duration: 02:03
+ - title: 6m23 1.5 Gun Upstairs
+   url: L214L2tpbC82bTIzIDEuNSBHdW4gVXBzdGFpcnMubXAz
+   duration: 02:45
+ - title: 6m24 1.8 Wayne Shootout
+   url: L214L2tpbC82bTI0IDEuOCBXYXluZSBTaG9vdG91dC5tcDM=
+   duration: 04:25
+---
