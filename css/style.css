@@ -4,11 +4,12 @@ body {
   margin: 0;
   font-family: Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 /*     color: #333; */
-	color: #888;
+	color: #aaa;
+  margin-left: 10%;
 }
 
 h1, h2, h3 {
-    margin: 1em 10% 0.5em;
+    margin: 1em 0 0.5em;
   	color: #a9aaa9;
     font-family: "Helvetica Neue", Helvetica, Arial,Montserrat;
     text-transform: lowercase;
@@ -17,7 +18,7 @@ h1, h2, h3 {
 h1 {
 /*    color: #475D4B; */
   font-size: 55px;
-  margin: 0.3em 10%;
+  margin: 0.3em 0;
 	line-height: 0.9em;
 }
 
@@ -38,7 +39,7 @@ h3 {
 }
 
 a {	
-  color: #888;
+  color: #aaa;
   opacity: 0.7;
   text-decoration: none;
 /*    color: #8D3E2D;*/
@@ -67,61 +68,59 @@ dt {
 }
 
 p, ul, ol, div.code, pre, dt, dd, table, div.urls {
-    margin: 1em 10%;
+    margin: 1em 0;
     line-height: 1.5em;
 }
 
 ul { 
   list-style-type: none;
   padding-left: 0;
+  line-height: 1em;
+  margin: 1em 0;
+}
+
+li {
+  margin-bottom: 0.5em;
 }
 
 img {
     display: block;
-    margin: 1em auto;
+    margin: 1em 0;
     border: 2px solid #9c9fa2;
 }
 
-#portfolio section {
-  margin: 1em 10%;
-  clear: both;
+section {
+  overflow: auto;
 }
 
-#portfolio img, ul {
-  position: relative;
+.col-left {
   float: left;
-  min-height: 300px;
-  margin-right: 0.5em;
-}
-
-#portfolio img {
   width: 200px;
 }
 
-#portfolio ul {
-  margin-left: 1em;
-  -webkit-columns: 2;
+.col-right {
+  margin-left: 200px;
+  padding-left: 1em;
 }
 
-#portfolio h1 {
-  clear: both;
-}
-.vcard img {
-    max-width: 60%;
+.col-left img {
+  width: 200px;
 }
 
-div.code,
-pre,
-p.code {
-    font-family: monospace;
-    padding: 10px;
-    background: #ddd;
-    overflow: auto;
-    white-space: pre;
+.col-right ul {
+  -webkit-column-width: 220px;
+  -webkit-column-gap: 0.5em;
+  -webkit-column-fill: auto;
+  -moz-column-width: 220px;
+  -moz-column-gap: 0.5em;
+  -moz-column-fill: auto;
+  column-width: 220px;
+  column-gap: 0.5em;
+  column-fill: auto;
 }
 
 blockquote {
-    margin: 1em 10%;
+/*    margin: 1em 10%;*/
     line-height: 1.5em;
     background: #ffd;
     overflow: auto;
@@ -134,21 +133,12 @@ li p {
 
 div.date, div.footer {
     text-align: right;
-    margin: 30px 10%;
+/*    margin: 30px 10%;*/
 }
-
 
 caption, div.caption {
     font-style: italic;
     text-align: center;
-}
-
-@media screen and (max-width: 720px) {
-
-    h1 {
-        font-size: 30px;
-    }
-
 }
 
 div.note {
@@ -179,6 +169,24 @@ div.section a {
 
 div.section > a {
     display: block;
-    margin: 0.5em 10%;
+    margin: 0.5em 0;
     text-align: right;
 }
+
+@media screen and (max-width: 520px) {
+
+  h1 {
+      font-size: 30px;
+  }
+  .col-left {
+    float: none;
+    width: 100%;
+  }
+  
+  .col-right {
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
+
