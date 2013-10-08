@@ -18,14 +18,14 @@ Dir.glob('../mx/**') do |folder|
   album = project
   TagLib::FileRef.open audiofiles.first do |mp3|
     unless mp3.null?
-      album = mp3.tag.album.gsub(/\[.*\]/, '') if mp3.tag.album
+      album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':','') if mp3.tag.album
       release = Time.local(mp3.tag.year) if mp3.tag.year > 0
     end
   end
   
   # write post front matter
   postname = "../_posts/#{release.strftime("%Y-%m-%d")}-#{project}.markdown"
-  puts "Writing #{album}"
+  puts "Writing \"#{album}\""
   File.open(postname, 'w') do |post|
     post.write(<<eos)
 ---
@@ -41,7 +41,7 @@ eos
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
         href = Base64.encode64("/mx/#{project}/#{File.basename(audiofile)}").chomp
-        title = mp3.tag.title
+        title = mp3.tag.title.tr(':','')
         duration = Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
       
         post.puts " - title: #{title}"

@@ -1,0 +1,29 @@
+---
+layout: post
+title: Pour Elle
+poster: ell.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+tracks:
+ - title: Elle
+   url: L214L2VsbC8wMSBFbGxlLm1wMw==
+   duration: 03:10
+ - title: Monsieur Tout-le-monde
+   url: L214L2VsbC8wMiBNb25zaWV1ciBUb3V0LWxlLW1vbmRlLm1wMw==
+   duration: 10:33
+ - title: Innocent
+   url: L214L2VsbC8wMyBJbm5vY2VudC5tcDM=
+   duration: 05:05
+ - title: The Plan
+   url: L214L2VsbC8wNCBUaGUgUGxhbi5tcDM=
+   duration: 05:34
+ - title: Escape
+   url: L214L2VsbC8wNSBFc2NhcGUubXAz
+   duration: 05:52
+ - title: Too Late
+   url: L214L2VsbC8wNiBUb28gTGF0ZS5tcDM=
+   duration: 03:34
+ - title: End Credits
+   url: L214L2VsbC8wNyBFbmQgQ3JlZGl0cy5tcDM=
+   duration: 05:12
+---
