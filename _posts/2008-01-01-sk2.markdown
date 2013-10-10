@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Scorpion King Rise of the Akkadian
+title: The Scorpion King 2
 poster: sk2.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film

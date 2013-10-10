@@ -1,28 +1,31 @@
 #!/usr/bin/env ruby
 require 'taglib'
 require 'base64'
+require 'uri'
 
+puts "This script will write all mp3 albums in ../mx as new posts."
+puts "Set ID3 tags for album, title, release and comment (as Buy URL)"
+print "Continue (y/n)? "
+exit unless gets == "y\n"
 # read all projects as subfolders in mx/*
 Dir.glob('../mx/**') do |folder|
   project = File.basename(folder)
   
-  # don't overwrite existing post - test for exact match (2013-10-03-project.markup)
+  # don't overwrite existing post - test for match with anyt date (2013-10-03-project.markup)
   # unless (match = Dir.glob(File.join('../_posts/*')).grep(/\d*-\d*-\d*-#{project}\./)).empty?
   #   puts "#{project} already exists: #{File.basename(match.first)}. Skip."
   #   next
   # end
   
-  # get global vars like from first mp3
+  # get global vars from first mp3
   audiofiles = Dir.glob(File.join(folder,'*.mp3'))
-  release = Time.now
-  album = project
-  TagLib::FileRef.open audiofiles.first do |mp3|
-    unless mp3.null?
-      album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':','') if mp3.tag.album
-      release = Time.local(mp3.tag.year) if mp3.tag.year > 0
-    end
-  end
-  
+  mp3 = TagLib::FileRef.new audiofiles.first
+  album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':','')
+  release = mp3.tag.year ? Time.local(mp3.tag.year) : Time.now
+  buy = mp3.tag.comment if mp3.tag.comment =~ /^#{URI::ABS_URI}$/ # check for valid URL
+  mp3.close
+
+    
   # write post front matter
   postname = "../_posts/#{release.strftime("%Y-%m-%d")}-#{project}.markdown"
   puts "Writing \"#{album}\""
@@ -34,8 +37,10 @@ title: #{album}
 poster: #{project}.jpg
 date: #{release}
 categories: film
-tracks:
 eos
+
+  post.puts "buy: #{buy}" if buy
+  post.puts "tracks:"
 
     # write tracklisting
     audiofiles.each do |audiofile|
