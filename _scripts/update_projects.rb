@@ -3,6 +3,8 @@ require 'taglib'
 require 'base64'
 require 'uri'
 
+POOL = "https://s3.amazonaws.com/pool.klausbadelt"
+
 puts "This script will write all mp3 albums in ../mx as new posts."
 puts "Set ID3 tags for album, title, release and comment (as Buy URL)"
 print "Continue (y/n)? "
@@ -45,7 +47,7 @@ eos
     # write tracklisting
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
-        href = Base64.encode64("/mx/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp
+        href = Base64.encode64("#{POOL}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp
         title = mp3.tag.title.tr(':','')
         duration = Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
       

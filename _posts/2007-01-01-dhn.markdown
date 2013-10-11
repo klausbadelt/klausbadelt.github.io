@@ -6,93 +6,93 @@ date: 2007-01-01 00:00:00 -0800
 categories: film
 tracks:
  - title: 1 Preamble
-   url: L214L2Robi8xIFByZWFtYmxlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzEgUHJlYW1ibGUubXAz
    duration: 00:40
  - title: 10 Red Cloud
-   url: L214L2Robi8xMCBSZWQgQ2xvdWQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzEwIFJlZCBDbG91ZC5tcDM=
    duration: 01:16
  - title: 11 West Side Bridge
-   url: L214L2Robi8xMSBXZXN0IFNpZGUgQnJpZGdlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzExIFdlc3QgU2lkZSBCcmlkZ2UubXAz
    duration: 02:18
  - title: 12 Bedtime Story
-   url: L214L2Robi8xMiBCZWR0aW1lIFN0b3J5Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzEyIEJlZHRpbWUgU3RvcnkubXAz
    duration: 00:57
  - title: 13 Gate
-   url: L214L2Robi8xMyBHYXRlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzEzIEdhdGUubXAz
    duration: 01:15
  - title: 14 Stinky Forest
-   url: L214L2Robi8xNCBTdGlua3kgRm9yZXN0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE0IFN0aW5reSBGb3Jlc3QubXAz
    duration: 02:06
  - title: 15 End of the World
-   url: L214L2Robi8xNSBFbmQgb2YgdGhlIFdvcmxkLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE1IEVuZCBvZiB0aGUgV29ybGQubXAz
    duration: 01:24
  - title: 16 Bats
-   url: L214L2Robi8xNiBCYXRzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE2IEJhdHMubXAz
    duration: 00:59
  - title: 17 Herding Sheep
-   url: L214L2Robi8xNyBIZXJkaW5nIFNoZWVwLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE3IEhlcmRpbmcgU2hlZXAubXAz
    duration: 02:24
  - title: 18 Herding pt 2
-   url: L214L2Robi8xOCBIZXJkaW5nIHB0IDIubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE4IEhlcmRpbmcgcHQgMi5tcDM=
    duration: 01:20
  - title: 19 Gwizdo Scolded
-   url: L214L2Robi8xOSBHd2l6ZG8gU2NvbGRlZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzE5IEd3aXpkbyBTY29sZGVkLm1wMw==
    duration: 01:30
  - title: 2 Childhood
-   url: L214L2Robi8yIENoaWxkaG9vZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzIgQ2hpbGRob29kLm1wMw==
    duration: 01:16
  - title: 20 Step Off
-   url: L214L2Robi8yMCBTdGVwIE9mZi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzIwIFN0ZXAgT2ZmLm1wMw==
    duration: 01:11
  - title: 21 Jet Dragons
-   url: L214L2Robi8yMSBKZXQgRHJhZ29ucy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzIxIEpldCBEcmFnb25zLm1wMw==
    duration: 04:38
  - title: 22 Zoe's Death
-   url: L214L2Robi8yMiBab2UncyBEZWF0aC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzIyIFpvZSdzIERlYXRoLm1wMw==
    duration: 01:47
  - title: 23 Cemetary World
-   url: L214L2Robi8yMyBDZW1ldGFyeSBXb3JsZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzIzIENlbWV0YXJ5IFdvcmxkLm1wMw==
    duration: 02:31
  - title: 24 World Gobbler
-   url: L214L2Robi8yNCBXb3JsZCBHb2JibGVyLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI0IFdvcmxkIEdvYmJsZXIubXAz
    duration: 02:38
  - title: 25 World Gobbler's Death
-   url: L214L2Robi8yNSBXb3JsZCBHb2JibGVyJ3MgRGVhdGgubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI1IFdvcmxkIEdvYmJsZXIncyBEZWF0aC5tcDM=
    duration: 04:14
  - title: 26 Bunnies
-   url: L214L2Robi8yNiBCdW5uaWVzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI2IEJ1bm5pZXMubXAz
    duration: 02:58
  - title: 27 Leaving the Castle
-   url: L214L2Robi8yNyBMZWF2aW5nIHRoZSBDYXN0bGUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI3IExlYXZpbmcgdGhlIENhc3RsZS5tcDM=
    duration: 02:06
  - title: 28 Leaving the Castle
-   url: L214L2Robi8yOCBMZWF2aW5nIHRoZSBDYXN0bGUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI4IExlYXZpbmcgdGhlIENhc3RsZS5tcDM=
    duration: 01:53
  - title: 29 End Credits
-   url: L214L2Robi8yOSBFbmQgQ3JlZGl0cy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzI5IEVuZCBDcmVkaXRzLm1wMw==
    duration: 01:09
  - title: 3 Opening
-   url: L214L2Robi8zIE9wZW5pbmcubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzMgT3BlbmluZy5tcDM=
    duration: 02:31
  - title: 4 Smoldering Knight
-   url: L214L2Robi80IFNtb2xkZXJpbmcgS25pZ2h0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzQgU21vbGRlcmluZyBLbmlnaHQubXAz
    duration: 01:15
  - title: 5 Mamular Fight
-   url: L214L2Robi81IE1hbXVsYXIgRmlnaHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzUgTWFtdWxhciBGaWdodC5tcDM=
    duration: 02:35
  - title: 6 Lian Chu Flashback
-   url: L214L2Robi82IExpYW4gQ2h1IEZsYXNoYmFjay5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzYgTGlhbiBDaHUgRmxhc2hiYWNrLm1wMw==
    duration: 02:31
  - title: 7 Jimbob Dragons
-   url: L214L2Robi83IEppbWJvYiBEcmFnb25zLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzcgSmltYm9iIERyYWdvbnMubXAz
    duration: 02:03
  - title: 8 Castle Arrival
-   url: L214L2Robi84IENhc3RsZSBBcnJpdmFsLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzggQ2FzdGxlIEFycml2YWwubXAz
    duration: 01:45
  - title: 9 Armored Room
-   url: L214L2Robi85IEFybW9yZWQgUm9vbS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuLzkgQXJtb3JlZCBSb29tLm1wMw==
    duration: 03:03
  - title: End Credits 1.1
-   url: L214L2Robi9FbmQgQ3JlZGl0cyAxLjEubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvZGhuL0VuZCBDcmVkaXRzIDEuMS5tcDM=
    duration: 04:39
 ---
