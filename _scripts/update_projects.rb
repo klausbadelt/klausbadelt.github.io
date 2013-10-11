@@ -20,7 +20,7 @@ Dir.glob('../mx/**') do |folder|
   # get global vars from first mp3
   audiofiles = Dir.glob(File.join(folder,'*.mp3'))
   mp3 = TagLib::FileRef.new audiofiles.first
-  album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':','')
+  album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':""','')
   release = mp3.tag.year ? Time.local(mp3.tag.year) : Time.now
   buy = mp3.tag.comment if mp3.tag.comment =~ /^#{URI::ABS_URI}$/ # check for valid URL
   mp3.close
@@ -33,7 +33,7 @@ Dir.glob('../mx/**') do |folder|
     post.write(<<eos)
 ---
 layout: post
-title: #{album}
+title: "#{album}"
 poster: #{project}.jpg
 date: #{release}
 categories: film
@@ -45,7 +45,7 @@ eos
     # write tracklisting
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
-        href = Base64.encode64("/mx/#{project}/#{File.basename(audiofile)}").chomp
+        href = Base64.encode64("/mx/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp
         title = mp3.tag.title.tr(':','')
         duration = Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
       

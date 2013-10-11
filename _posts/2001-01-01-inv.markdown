@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invincible
+title: "Invincible"
 poster: inv.jpg
 date: 2001-01-01 00:00:00 -0800
 categories: film
@@ -14,8 +14,8 @@ tracks:
  - title: 3m5 Master of the Occult
    url: L214L2ludi8zbTUgTWFzdGVyIG9mIHRoZSBPY2N1bHQubXAz
    duration: 08:19
- - title: 3m7 The Prophecy-NORM_01
-   url: L214L2ludi8zbTcgVGhlIFByb3BoZWN5LU5PUk1fMDEubXAz
+ - title: 3m7 The Prophecy
+   url: L214L2ludi8zbTcgVGhlIFByb3BoZWN5IDEubXAz
    duration: 01:48
  - title: 3m7 The Prophecy
    url: L214L2ludi8zbTcgVGhlIFByb3BoZWN5Lm1wMw==
@@ -24,16 +24,10 @@ tracks:
    url: L214L2ludi8zbTggU291bHMubXAz
    duration: 03:15
  - title: 4m10 Martha Lifts The Elephant
-   url: L214L2ludi80bTEwIE1hcnRoYSBMaWZ0cyBUaGUgRWxlcGgubXAz
-   duration: 02:10
- - title: 4m10 Martha Lifts The Elephant
    url: L214L2ludi80bTEwIE1hcnRoYSBMaWZ0cyBUaGUgRWxlcGhhbnQubXAz
    duration: 02:10
- - title: 5m11 Visions-NORM_01
-   url: L214L2ludi81bTExIFZpc2lvbnMtTk9STV8wMS5tcDM=
-   duration: 06:38
  - title: 5m11 Visions
-   url: L214L2ludi81bTExIFZpc2lvbnMubXAz
+   url: L214L2ludi81bTExIFZpc2lvbnMgMS5tcDM=
    duration: 06:38
  - title: 6m12 The Unknown Just
    url: L214L2ludi82bTEyIFRoZSBVbmtub3duIEp1c3QubXAz

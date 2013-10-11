@@ -1,0 +1,207 @@
+---
+layout: post
+title: "Pirates of the Caribbean"
+poster: poc.jpg
+date: 2003-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/pirates-caribbean-original/id191901880?uo=4
+tracks:
+ - title: 1m02-4 6_05
+   url: L214L3BvYy8xbTAyLTQgNl8wNS5tcDM=
+   duration: 05:38
+ - title: 1m05 6_05
+   url: L214L3BvYy8xbTA1IDZfMDUubXAz
+   duration: 01:04
+ - title: 1m06 6_05
+   url: L214L3BvYy8xbTA2IDZfMDUubXAz
+   duration: 01:40
+ - title: 2m09 6_06
+   url: L214L3BvYy8ybTA5IDZfMDYubXAz
+   duration: 00:25
+ - title: 2m10 6_06
+   url: L214L3BvYy8ybTEwIDZfMDYubXAz
+   duration: 01:04
+ - title: 2m12 6_06
+   url: L214L3BvYy8ybTEyIDZfMDYubXAz
+   duration: 01:51
+ - title: 2m13_14 6_06
+   url: L214L3BvYy8ybTEzXzE0IDZfMDYubXAz
+   duration: 02:37
+ - title: 2m15 6_06
+   url: L214L3BvYy8ybTE1IDZfMDYubXAz
+   duration: 00:41
+ - title: 2m17 6_06
+   url: L214L3BvYy8ybTE3IDZfMDYubXAz
+   duration: 01:33
+ - title: 2m18 6_06
+   url: L214L3BvYy8ybTE4IDZfMDYubXAz
+   duration: 02:45
+ - title: 2m20 6_06
+   url: L214L3BvYy8ybTIwIDZfMDYubXAz
+   duration: 00:23
+ - title: 3m21 6_07
+   url: L214L3BvYy8zbTIxIDZfMDcubXAz
+   duration: 01:03
+ - title: 3m21Alt 6_09
+   url: L214L3BvYy8zbTIxQWx0IDZfMDkubXAz
+   duration: 01:01
+ - title: 3m22 alt 6_03
+   url: L214L3BvYy8zbTIyIGFsdCA2XzAzLm1wMw==
+   duration: 03:53
+ - title: 3m22A 6_07
+   url: L214L3BvYy8zbTIyQSA2XzA3Lm1wMw==
+   duration: 00:54
+ - title: 3m22v20 F 6_11
+   url: L214L3BvYy8zbTIydjIwIEYgNl8xMS5tcDM=
+   duration: 03:53
+ - title: 3m23MoonFix 6_22
+   url: L214L3BvYy8zbTIzTW9vbkZpeCA2XzIyLm1wMw==
+   duration: 00:30
+ - title: 3m23w_ins 6_17
+   url: L214L3BvYy8zbTIzd19pbnMgNl8xNy5tcDM=
+   duration: 01:24
+ - title: 3m24.3ins 6_17
+   url: L214L3BvYy8zbTI0LjNpbnMgNl8xNy5tcDM=
+   duration: 00:19
+ - title: 3m24w_ins 6_17
+   url: L214L3BvYy8zbTI0d19pbnMgNl8xNy5tcDM=
+   duration: 04:23
+ - title: 3m25 6_10
+   url: L214L3BvYy8zbTI1IDZfMTAubXAz
+   duration: 01:37
+ - title: 3m26v39 6_10
+   url: L214L3BvYy8zbTI2djM5IDZfMTAubXAz
+   duration: 02:26
+ - title: 3m27v7 6_09
+   url: L214L3BvYy8zbTI3djcgNl8wOS5tcDM=
+   duration: 00:24
+ - title: 4m29.1ins 6_17
+   url: L214L3BvYy80bTI5LjFpbnMgNl8xNy5tcDM=
+   duration: 00:19
+ - title: 4m29MoonFix 6_22
+   url: L214L3BvYy80bTI5TW9vbkZpeCA2XzIyLm1wMw==
+   duration: 00:24
+ - title: 4m29w_ins 6_17
+   url: L214L3BvYy80bTI5d19pbnMgNl8xNy5tcDM=
+   duration: 02:01
+ - title: 4m30v4 6_11
+   url: L214L3BvYy80bTMwdjQgNl8xMS5tcDM=
+   duration: 00:44
+ - title: 4m31v4 6_11
+   url: L214L3BvYy80bTMxdjQgNl8xMS5tcDM=
+   duration: 03:11
+ - title: 4m32v16 6_11
+   url: L214L3BvYy80bTMydjE2IDZfMTEubXAz
+   duration: 01:26
+ - title: 4m33v1 6_11
+   url: L214L3BvYy80bTMzdjEgNl8xMS5tcDM=
+   duration: 01:16
+ - title: 4m34v1 6_12
+   url: L214L3BvYy80bTM0djEgNl8xMi5tcDM=
+   duration: 01:29
+ - title: 4m35v2 6_11
+   url: L214L3BvYy80bTM1djIgNl8xMS5tcDM=
+   duration: 01:59
+ - title: 4m36v5 6_12
+   url: L214L3BvYy80bTM2djUgNl8xMi5tcDM=
+   duration: 01:34
+ - title: 4m37v3 6_12
+   url: L214L3BvYy80bTM3djMgNl8xMi5tcDM=
+   duration: 01:01
+ - title: 5m38rev7 6_22
+   url: L214L3BvYy81bTM4cmV2NyA2XzIyLm1wMw==
+   duration: 04:00
+ - title: 5m39v13 6_20
+   url: L214L3BvYy81bTM5djEzIDZfMjAubXAz
+   duration: 02:32
+ - title: 5m40_41v2 6_14
+   url: L214L3BvYy81bTQwXzQxdjIgNl8xNC5tcDM=
+   duration: 00:49
+ - title: 5m42 6_14
+   url: L214L3BvYy81bTQyIDZfMTQubXAz
+   duration: 00:23
+ - title: 5m43v4 6_12
+   url: L214L3BvYy81bTQzdjQgNl8xMi5tcDM=
+   duration: 01:42
+ - title: 5m44 v37 6-14 StMix
+   url: L214L3BvYy81bTQ0IHYzNyA2LTE0IFN0TWl4Lm1wMw==
+   duration: 04:10
+ - title: 5m44v37 6_14
+   url: L214L3BvYy81bTQ0djM3IDZfMTQubXAz
+   duration: 04:11
+ - title: 5m45v18 6_14
+   url: L214L3BvYy81bTQ1djE4IDZfMTQubXAz
+   duration: 03:57
+ - title: 6m46_47v2 6_16
+   url: L214L3BvYy82bTQ2XzQ3djIgNl8xNi5tcDM=
+   duration: 01:33
+ - title: 6m48_49 6_20
+   url: L214L3BvYy82bTQ4XzQ5IDZfMjAubXAz
+   duration: 02:46
+ - title: 6m48rev 6_18
+   url: L214L3BvYy82bTQ4cmV2IDZfMTgubXAz
+   duration: 02:48
+ - title: 6m50 6_14
+   url: L214L3BvYy82bTUwIDZfMTQubXAz
+   duration: 00:14
+ - title: 6m52alt 6_16
+   url: L214L3BvYy82bTUyYWx0IDZfMTYubXAz
+   duration: 01:20
+ - title: 6m52v4 6_16
+   url: L214L3BvYy82bTUydjQgNl8xNi5tcDM=
+   duration: 01:21
+ - title: 6m53Av3 6_16
+   url: L214L3BvYy82bTUzQXYzIDZfMTYubXAz
+   duration: 01:16
+ - title: 7m54v5 6_15
+   url: L214L3BvYy83bTU0djUgNl8xNS5tcDM=
+   duration: 00:47
+ - title: 7m55v8 6_17
+   url: L214L3BvYy83bTU1djggNl8xNy5tcDM=
+   duration: 01:04
+ - title: 7m56v3 6_15
+   url: L214L3BvYy83bTU2djMgNl8xNS5tcDM=
+   duration: 01:03
+ - title: 7m57v7 6_15
+   url: L214L3BvYy83bTU3djcgNl8xNS5tcDM=
+   duration: 00:50
+ - title: 7m58 6_15
+   url: L214L3BvYy83bTU4IDZfMTUubXAz
+   duration: 01:12
+ - title: 7m58alt 6-19 StMix
+   url: L214L3BvYy83bTU4YWx0IDYtMTkgU3RNaXgubXAz
+   duration: 01:10
+ - title: 7m58alt1 6_17
+   url: L214L3BvYy83bTU4YWx0MSA2XzE3Lm1wMw==
+   duration: 01:11
+ - title: 7m59abcd 6_18
+   url: L214L3BvYy83bTU5YWJjZCA2XzE4Lm1wMw==
+   duration: 06:38
+ - title: 7m59d ins 6_22
+   url: L214L3BvYy83bTU5ZCBpbnMgNl8yMi5tcDM=
+   duration: 01:16
+ - title: 7m60AB 6_22AM
+   url: L214L3BvYy83bTYwQUIgNl8yMkFNLm1wMw==
+   duration: 02:35
+ - title: 7m60ABalt v.19 6_23
+   url: L214L3BvYy83bTYwQUJhbHQgdi4xOSA2XzIzLm1wMw==
+   duration: 02:36
+ - title: 7m60ABrev v.23 6_23
+   url: L214L3BvYy83bTYwQUJyZXYgdi4yMyA2XzIzLm1wMw==
+   duration: 02:36
+ - title: 7m61AB w_ins2 6_23
+   url: L214L3BvYy83bTYxQUIgd19pbnMyIDZfMjMubXAz
+   duration: 02:49
+ - title: 7m62AB 6_18
+   url: L214L3BvYy83bTYyQUIgNl8xOC5tcDM=
+   duration: 03:19
+ - title: 8m64v17 6_18
+   url: L214L3BvYy84bTY0djE3IDZfMTgubXAz
+   duration: 01:12
+ - title: 8m65Redo 6_23
+   url: L214L3BvYy84bTY1UmVkbyA2XzIzLm1wMw==
+   duration: 05:00
+ - title: 8m67v5 6_18
+   url: L214L3BvYy84bTY3djUgNl8xOC5tcDM=
+   duration: 01:32
+---
