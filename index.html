@@ -8,12 +8,12 @@ date: Oct 6, 2013
 <div id="portfolio">
 
 {% for post in site.posts %}
-  <h1><a href="#">{{ post.title }}</a></h1>
+  <h1><a href="#">{{ post.title | escape }}</a></h1>
   <section>
     <div class="col-left">
       <img src="images/posters/{{ post.poster }}">
       {% if post.buy %}
-        <caption><a href="{{ post.buy }}" rel="_blank">Buy Album</a></caption>
+        <caption><a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a></caption>
       {% endif %}
     </div>
     <div class="col-right">
@@ -22,7 +22,7 @@ date: Oct 6, 2013
         {% for track in post.tracks %}
         <li>
           <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
-            {{ track.title }}
+            {{ track.title | escape }}
           </a>
           &nbsp;
           <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes' style="display: none;">
@@ -55,6 +55,11 @@ $(function(){
   //     console.log('toggle');
   //   }
   // );
+  
+  // show long playlists as multi-column
+  $('.col-right ul').filter(function(){ return $(this).find("li").length > 15 }).addClass('columns');
+  
+  // accordion on the titles
   $('#portfolio').accordion({
     header: "h1",
     heightStyle: "content",

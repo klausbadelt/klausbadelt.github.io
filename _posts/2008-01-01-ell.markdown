@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pour Elle
+title: "Pour Elle"
 poster: ell.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film
