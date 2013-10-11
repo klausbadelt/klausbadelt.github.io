@@ -6,48 +6,48 @@ date: 2002-01-01 00:00:00 -0800
 categories: film
 tracks:
  - title: Professor Alexander Hartdegen
-   url: L214L3RtLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDEgUHJvZmVzc29yIEFsZXhhbmRlciBIYXJ0ZGVnZW4ubXAz
    duration: 03:26
  - title: Wish Me Luck
-   url: L214L3RtLzAyIFdpc2ggTWUgTHVjay5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDIgV2lzaCBNZSBMdWNrLm1wMw==
    duration: 01:25
  - title: Emma
-   url: L214L3RtLzAzIEVtbWEubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDMgRW1tYS5tcDM=
    duration: 02:37
  - title: The Time Machine
-   url: L214L3RtLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDQgVGhlIFRpbWUgTWFjaGluZS5tcDM=
    duration: 03:12
  - title: Bleeker Street
-   url: L214L3RtLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDUgQmxlZWtlciBTdHJlZXQubXAz
    duration: 02:28
  - title: I Don't Belong Here
-   url: L214L3RtLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDYgSSBEb24ndCBCZWxvbmcgSGVyZS5tcDM=
    duration: 03:49
  - title: Time Travel
-   url: L214L3RtLzA3IFRpbWUgVHJhdmVsLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDcgVGltZSBUcmF2ZWwubXAz
    duration: 04:35
  - title: Eloi
-   url: L214L3RtLzA4IEVsb2kubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDggRWxvaS5tcDM=
    duration: 02:12
  - title: Good Night
-   url: L214L3RtLzA5IEdvb2QgTmlnaHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMDkgR29vZCBOaWdodC5tcDM=
    duration: 04:05
  - title: Stone Language
-   url: L214L3RtLzEwIFN0b25lIExhbmd1YWdlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTAgU3RvbmUgTGFuZ3VhZ2UubXAz
    duration: 04:54
  - title: Morlocks Attack
-   url: L214L3RtLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTEgTW9ybG9ja3MgQXR0YWNrLm1wMw==
    duration: 04:23
  - title: Where The Ghosts Are
-   url: L214L3RtLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTIgV2hlcmUgVGhlIEdob3N0cyBBcmUubXAz
    duration: 01:37
  - title: The Master
-   url: L214L3RtLzEzIFRoZSBNYXN0ZXIubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTMgVGhlIE1hc3Rlci5tcDM=
    duration: 07:15
  - title: "What If?"
-   url: L214L3RtLzE0IF9XaGF0IElmX18ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTQgX1doYXQgSWZfXy5tcDM=
    duration: 06:16
  - title: Godspeed
-   url: L214L3RtLzE1IEdvZHNwZWVkLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3Bvb2wua2xhdXNiYWRlbHQvdG0vMTUgR29kc3BlZWQubXAz
    duration: 05:20
 ---
