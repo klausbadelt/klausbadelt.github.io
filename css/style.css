@@ -190,7 +190,7 @@ div.section > a {
   h1 {
       font-size: 40px;
   }
-}
+
 @media screen and (max-width: 520px) {
 
   h1 {
