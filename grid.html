@@ -15,7 +15,14 @@ portfolio: grid
   <div class="thumb {{ post.tags }}">
     <div class="image">
       <img src="images/posters/{{ post.poster }}" />
-      <h3><a href="#">{{post.title}}</a></h3>
+      <h3>{{post.title}}</h3>
+    </div>
+    <div class="caption">
+      <ul>
+        {% for track in post.tracks %}
+        <li>{{ track.title }}</li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
   {% endfor %}
@@ -45,16 +52,25 @@ $(function(){
   
   // hover effect
   $('#portfolio .image').hover(function(){
-    $(this).children('h3').fadeToggle();
+    $(this).children('h3').fadeIn('fast');
+    $(this).children('img').fadeTo('fast',0.7).css('cursor','pointer');
+    
+  }, function(){
+    $(this).children('h3').fadeOut('fast');
+    $(this).children('img').fadeTo('fast',1).css('cursor','default');    
   });
   
   // open playlist on selected thumbnail
-  $('#portfolio .thumb a').click(function(){
+  $('#portfolio .thumb').click(function(){
     // save current state
-    var $currentState = $(this).parents().eq(2).hasClass('selected');
-    console.log($currentState);
-    $('#portfolio .thumb.selected').removeClass('selected');
-    $(this).parents().eq(2).toggleClass('selected', !$currentState);
+    var $currentState = $(this).hasClass('selected');
+    // hide caption everywhere
+    // remove 'selected' class everywhere
+    $('#portfolio .thumb.selected').removeClass('selected').children('.caption').hide();
+    // toggle class 'selected' on clicked poster
+    $(this).toggleClass('selected', !$currentState);
+    // show tracklisting
+    $(this).children('.caption').show();
     $('#portfolio').isotope('reLayout');
   })
 });
