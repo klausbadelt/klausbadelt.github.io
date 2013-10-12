@@ -13,8 +13,10 @@ portfolio: grid
   
   {% for post in site.posts %}
   <div class="thumb {{ post.tags }}">
-    <img style="float: left;" src="images/posters/{{ post.poster }}">
-    <a href="#"><span >Movie Title</span></a>
+    <div class="image">
+      <img src="images/posters/{{ post.poster }}" />
+      <h3><a href="#">{{post.title}}</a></h3>
+    </div>
   </div>
   {% endfor %}
   
@@ -30,25 +32,29 @@ portfolio: grid
 
 <script>
 $(function(){
+  var $container = $('#portfolio');
+
   // start audio player
   $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
-  
-  // init isotope
-  $('#portfolio').isotope({
-    itemSelector : '.thumb',
+
+  $container.imagesLoaded( function(){
+    $container.isotope({
+      itemSelector : '.thumb',
+    });
   });
   
-  // // mouse pointer on hover over thumbs
-  // $('#portfolio .thumb img').hover(function(){
-  //   $(this).stop().animate({"opacity": 0.5});
-  // }, function(){
-  //   $(this).stop().animate({"opacity": 1});
-  // });
+  // hover effect
+  $('#portfolio .image').hover(function(){
+    $(this).children('h3').fadeToggle();
+  });
   
   // open playlist on selected thumbnail
-  $('#portfolio .thumb').click(function(){
+  $('#portfolio .thumb a').click(function(){
+    // save current state
+    var $currentState = $(this).parents().eq(2).hasClass('selected');
+    console.log($currentState);
     $('#portfolio .thumb.selected').removeClass('selected');
-    $(this).addClass('selected');
+    $(this).parents().eq(2).toggleClass('selected', !$currentState);
     $('#portfolio').isotope('reLayout');
   })
 });
