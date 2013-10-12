@@ -4,6 +4,7 @@ title: "Pirates of the Caribbean"
 poster: poc.jpg
 date: 2003-01-01 00:00:00 -0800
 categories: film
+tags: promoted
 buy: https://itunes.apple.com/us/album/pirates-caribbean-original/id191901880?uo=4
 tracks:
  - title: 1m02-4 6_05
