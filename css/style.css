@@ -1,10 +1,10 @@
 body {
   background: #040f21; 
   margin: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 200;
   font-size: 16px;
-  line-height: 1em;
+  line-height: 1.2em;
 	color: #a9aaa9;
   margin-left: 10%;
 }
@@ -15,7 +15,6 @@ body {
 
 h1, h2, h3 {
   margin: 1em 0 0.5em;
-  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial;
   font-weight: 200;
 /*    text-transform: lowercase;*/
 }
@@ -270,13 +269,14 @@ header nav {
 
 .thumb {
   width: 150px;
-  margin: 0.5em;
+  margin: 8px 16px 8px 0;
 }
 
-/*.thumb.promoted {
-  width: 300px;
+.thumb.promoted {
+  width: 316px;
 }
-*/
+
+
 .thumb img {
   width: 100%;
   margin: 0;
@@ -285,7 +285,7 @@ header nav {
 
 .thumb.selected {
 /*  transition: width 0.5s ease;*/
-  width: 300px;
+  width: 316px;
 }
 
 .image {
@@ -297,7 +297,7 @@ header nav {
   position:absolute;
   top: 0;
   left: 0;
-  width: 90%;
+/*  width: 90%;*/
   color: #a9aaa9; 
   background: rgb(0, 0, 0); /* fallback color */
   background: rgba(0, 0, 0, 0.7);
@@ -312,12 +312,11 @@ header nav {
 }
 
 .thumb .caption ul {
-  padding: 0 1em;  
+  padding: 0 16px;  
 }
 
 .thumb .caption ol {
-  padding: 0 1em 0 2em;
-/*  list-style-type: cjk-ideographic;*/
+  padding: 0 16px 0 32px;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial;
   margin-top: 0;
   padding-top: 1em;
