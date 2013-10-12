@@ -1,0 +1,55 @@
+---
+layout: simple
+title: Klaus Badelt
+date: Oct 10, 2013
+portfolio: grid
+---
+<header>
+  <h3>Klaus Badelt</h3>
+  <nav><a href="/">list</a> | grid</nav>
+</header>
+
+<div id="portfolio" class="grid">
+  
+  {% for post in site.posts %}
+  <div class="thumb {{ post.tags }}">
+    <img style="float: left;" src="images/posters/{{ post.poster }}">
+    <a href="#"><span >Movie Title</span></a>
+  </div>
+  {% endfor %}
+  
+</div>
+
+
+<script src="js/jquery-2.0.3.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/jquery-ui.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/soundcloud_sdk.js" type="text/javascript"></script>
+<!-- <script src="https://connect.soundcloud.com/sdk.js" type="text/javascript"></script> -->
+<script src="js/jquery.fullwidthAudioPlayer.min.js" type="text/javascript"></script>
+<script src="js/jquery.isotope.min.js" type="text/javascript" charset="utf-8"></script>
+
+<script>
+$(function(){
+  // start audio player
+  $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
+  
+  // init isotope
+  $('#portfolio').isotope({
+    itemSelector : '.thumb',
+  });
+  
+  // // mouse pointer on hover over thumbs
+  // $('#portfolio .thumb img').hover(function(){
+  //   $(this).stop().animate({"opacity": 0.5});
+  // }, function(){
+  //   $(this).stop().animate({"opacity": 1});
+  // });
+  
+  // open playlist on selected thumbnail
+  $('#portfolio .thumb').click(function(){
+    $('#portfolio .thumb.selected').removeClass('selected');
+    $(this).addClass('selected');
+    $('#portfolio').isotope('reLayout');
+  })
+});
+</script>
