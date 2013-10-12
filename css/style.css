@@ -88,7 +88,7 @@ section {
 }
 
 header {
-  margin: 1em 0 3em;
+  margin: 16px 0;
 }
 
 header h3, header nav {
@@ -263,8 +263,12 @@ header nav {
           transition-duration: 0s;
 }
 
-.grid #portfolio{
-  height: 80%;
+.grid#portfolio{
+  margin-top: 0px;
+}
+
+.list#portfolio {
+  margin-top: 32px;
 }
 
 .thumb {
