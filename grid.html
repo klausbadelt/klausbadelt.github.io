@@ -24,6 +24,10 @@ portfolio: grid
           <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
             {{ track.title | escape }}
           </a>
+          &nbsp;
+          <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes'>
+            <span class='glyphicon glyphicon-plus'>+</span>
+          </a>
         </li>
         {% endfor %}
       </ul>
@@ -88,7 +92,7 @@ $(function(){
     });
   });
   
-  // hover effect
+  // poster hover
   $('#portfolio .image').hover(function(){
     $(this).children('h3').fadeIn('fast');
     $(this).children('img').fadeTo('fast',0.7).css('cursor','pointer');
@@ -114,6 +118,11 @@ $(function(){
     // show tracklisting
     $thisThumb.children('.caption').toggle(!$alreadySelected);
     $('#portfolio').isotope('reLayout');
+  });
+  
+  // add button on hover
+  $('#portfolio li').hover(function(){    
+    $(this).find('.control').toggle();
   })
 });
 </script>
