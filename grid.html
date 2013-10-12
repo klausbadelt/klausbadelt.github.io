@@ -89,6 +89,10 @@ $(function(){
   $container.imagesLoaded( function(){
     $container.isotope({
       itemSelector : '.thumb',
+      masonry: {
+        gutterWidth: 10,
+        columnWidth: 160,
+      }
     });
   });
   
