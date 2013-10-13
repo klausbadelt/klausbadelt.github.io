@@ -4,7 +4,6 @@ body {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 200;
   font-size: 16px;
-  line-height: 1.2em;
 	color: #a9aaa9;
   margin-left: 10%;
 }
@@ -16,8 +15,7 @@ body {
 h1, h2, h3 {
   margin: 1em 0 0.5em;
   font-weight: 200;
-/*    text-transform: lowercase;*/
-}
+  }
 
 h1 {
 /*    color: #475D4B; */
@@ -280,7 +278,6 @@ header nav {
   width: 310px;
 }
 
-
 .thumb img {
   width: 100%;
   margin: 0;
@@ -313,17 +310,31 @@ header nav {
   display: none;
   border: 1px solid #333;
   border-top: none;
+  padding: 0 16px;
+}
+
+.thumb .buybtn {
+  margin: 0;
+}
+
+.thumb p.btn {
+  margin: 0 0 16px;
+}
+
+.thumb h2 span {
+  color: #555;
+  font-size: 16px;
 }
 
 .thumb .caption ul {
-  padding: 0 16px;  
+/*  padding: 0 16px;  */
 }
 
 .thumb .caption ol {
-  padding: 0 16px 0 32px;
+  padding-left: 16px;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial;
   margin-top: 0;
-  padding-top: 1em;
+/*  padding-top: 1em;*/
 }
 
 .thumb .caption ol li {
@@ -334,4 +345,26 @@ header nav {
 .thumb .caption ol li a {
   color: #bbb;
   font-size: 16px;
+}
+
+.glyphicons {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  margin-left: 10px;
+  opacity: 0.3;
+/*  margin-left: auto;
+  margin-right: auto;
+*/
+}
+
+.glyphicons-show-big-thumbnails {
+  background: url(/images/glyphicons/glyphicons_155_show_big_thumbnails-white.png) no-repeat left center;  
+}
+
+.glyphicons.glyphicons-show-lines {
+  background: url(/images/glyphicons/glyphicons_158_show_lines-white.png) no-repeat left center;  
 }
