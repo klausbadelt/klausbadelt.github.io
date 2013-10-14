@@ -102,6 +102,15 @@ header nav {
 
 /********* list view *********/
 
+.list#portfolio {
+  margin-top: 32px;
+}
+
+.list#portfolio img {
+  width: 200px;
+  height: 287px;
+}
+
 .col-left {
   float: left;
   width: 200px;
@@ -271,16 +280,7 @@ header nav {
 
 .grid#portfolio{
   margin-top: 0px;
-/*  opacity: 0;*/
-}
-
-.list#portfolio {
-  margin-top: 32px;
-}
-
-.list#portfolio img {
-  width: 200px;
-  height: 287px;
+  visibility: hidden;
 }
 
 .thumb {
