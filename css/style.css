@@ -85,6 +85,8 @@ section {
   overflow: auto;
 }
 
+/***** Navigation ****/
+
 header {
   margin: 16px 0;
 }
@@ -97,6 +99,8 @@ header nav {
   float: right;
   margin-right: 10%;
 }
+
+/********* list view *********/
 
 .col-left {
   float: left;
@@ -209,7 +213,11 @@ header nav {
   }
 }
 
-/**** grid view */
+#portfolio.list section {
+  display: none;
+}
+
+/*************** grid view ******************/
 
 /**** Isotope Filtering ****/
 
@@ -263,6 +271,7 @@ header nav {
 
 .grid#portfolio{
   margin-top: 0px;
+/*  opacity: 0;*/
 }
 
 .list#portfolio {
@@ -292,6 +301,10 @@ header nav {
 .thumb.selected {
 /*  transition: width 0.5s ease;*/
   width: 310px;
+}
+
+.thumb.selected img {
+  height: 444px; /* to avoid stretching */
 }
 
 .image {
