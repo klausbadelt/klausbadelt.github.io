@@ -85,6 +85,8 @@ section {
   overflow: auto;
 }
 
+/***** Navigation ****/
+
 header {
   margin: 16px 0;
 }
@@ -97,6 +99,8 @@ header nav {
   float: right;
   margin-right: 10%;
 }
+
+/********* list view *********/
 
 .col-left {
   float: left;
@@ -209,7 +213,11 @@ header nav {
   }
 }
 
-/**** grid view */
+#portfolio .list section {
+  display: none;
+}
+
+/*************** grid view ******************/
 
 /**** Isotope Filtering ****/
 
