@@ -71,6 +71,7 @@ $(function(){
   // start audio player
   $('#player').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
 
+  // lazyload images, see http://stackoverflow.com/questions/11337291/combining-jquery-isotope-and-lazy-load/13919010#13919010
   var $win = $(window),
       $con = $('#portfolio'),
       $imgs = $("img.lazy");
