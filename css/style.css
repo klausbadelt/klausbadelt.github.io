@@ -271,6 +271,7 @@ header nav {
 
 .grid#portfolio{
   margin-top: 0px;
+/*  opacity: 0;*/
 }
 
 .list#portfolio {
@@ -295,6 +296,10 @@ header nav {
 .thumb.selected {
 /*  transition: width 0.5s ease;*/
   width: 310px;
+}
+
+.thumb.selected img {
+  height: 444px; /* to avoid stretching */
 }
 
 .image {
