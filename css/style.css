@@ -213,7 +213,7 @@ header nav {
   }
 }
 
-#portfolio .list section {
+#portfolio.list section {
   display: none;
 }
 
