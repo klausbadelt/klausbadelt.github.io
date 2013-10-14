@@ -14,7 +14,9 @@ date: Oct 6, 2013
   <h1><a href="#">{{ post.title | escape }}</a></h1>
   <section>
     <div class="col-left">
-      <img src="images/posters/{{ post.poster }}">
+      <img class="lazy" 
+           src=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+           data-original="images/posters/{{ post.poster }}">
       {% if post.buy %}
         <caption><a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a></caption>
       {% endif %}
@@ -68,8 +70,16 @@ $(function(){
     heightStyle: "content",
     collapsible: true,
     active: false,
-    animate: true
+    animate: true,
+    activate: function( event, ui ) {
+      // lazy load image on activation of panel
+      var $poster = ui.newPanel.find('img.lazy');
+      $poster.attr('src', $poster.attr('data-original'));
+    }
   });
-
+  
+  // $("img.lazy").lazyload({
+  //   effect : "fadeIn"
+  // });
 });
 </script>

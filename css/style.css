@@ -269,6 +269,11 @@ header nav {
   margin-top: 32px;
 }
 
+.list#portfolio img {
+  width: 200px;
+  height: 287px;
+}
+
 .thumb {
   width: 150px;
   margin: 5px 0;
