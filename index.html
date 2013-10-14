@@ -44,7 +44,7 @@ date: Oct 6, 2013
 
 </div>
 
-<div id="fap"></div>
+<div id="player"></div>
 
 <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
 <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
@@ -53,7 +53,7 @@ date: Oct 6, 2013
 
 <script>
 $(function(){
-  $('#fap').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
+  $('#player').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
   
   // show long playlists as multi-column
   $('.col-right ul').filter(function(){ return $(this).find("li").length > 15 }).addClass('columns');
