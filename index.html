@@ -12,18 +12,25 @@ date: Oct 6, 2013
 <div class="list" id="portfolio">
 
 {% for post in site.posts %}
-  <h1><a href="#">{{ post.title | escape }}</a></h1>
+  <div class="header">
+    <h1>
+      <a href="#">{{ post.title | escape }}</a>
+    </h1>
+  </div>
   <section>
     <div class="col-left">
       <img class="lazy" 
            src=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
            data-original="images/posters/{{ post.poster }}">
+      <caption>     
+        <a href="#" data-playlist="playlist-{{ post.poster | remove: '.jpg' }}" data-enqueue="no" class="fap-add-playlist btn glyphicons glyphicons_173_play"> > </a>
       {% if post.buy %}
-        <caption><a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a></caption>
+        <a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a>
       {% endif %}
+      </caption>
     </div>
     <div class="col-right">
-      <ul data-playlist="playlist-tm">
+      <ul data-playlist="playlist-{{ post.poster | remove: '.jpg' }}">
         
         {% for track in post.tracks %}
         <li>
@@ -60,17 +67,17 @@ $(function(){
   
   // accordion on the titles
   $('#portfolio').accordion({
-    header: "h1",
+    header: "div.header",
     heightStyle: "content",
     collapsible: true,
     active: false,
     animate: true,
+    icons: false,
     activate: function( event, ui ) {
       // lazy load image on activation of panel
       var $poster = ui.newPanel.find('img.lazy');
       $poster.attr('src', $poster.attr('data-original'));
     }
   });
-  
 });
 </script>

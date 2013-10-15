@@ -114,6 +114,7 @@ header nav {
 .col-left {
   float: left;
   width: 200px;
+/*  margin-bottom: 16px;*/
 }
 
 .col-right {
@@ -152,8 +153,12 @@ header nav {
   display: none;
 }
 
+.ui-accordion-header-icon {
+  display: none;
+}
+
 .btn {
-  display: inline-block;
+/*  display: inline-block;*/
   padding: 6px 12px;
   margin-bottom: 0;
   font-size: 14px;
@@ -375,17 +380,35 @@ header nav {
   width: 25px;
   height: 25px;
   display: inline-block;
-  margin-left: 10px;
-  opacity: 0.3;
+  opacity: 0.7;
+  background-position: center;
+  background-repeat: no-repeat;
 /*  margin-left: auto;
   margin-right: auto;
 */
 }
 
 .glyphicons-show-big-thumbnails {
-  background: url(/images/glyphicons/glyphicons_155_show_big_thumbnails-white.png) no-repeat left center;  
+/*  margin-left: 10px;*/
+  background-image: url(/images/glyphicons/glyphicons_155_show_big_thumbnails-white.png);
+  width: 22px;
+  height: 22px;
 }
 
 .glyphicons.glyphicons-show-lines {
-  background: url(/images/glyphicons/glyphicons_158_show_lines-white.png) no-repeat left center;  
+/*  margin-left: 10px;*/
+  background-image: url(/images/glyphicons/glyphicons_158_show_lines-white.png);
+  width: 24px;
+  height: 15px;
 }
+
+.glyphicons.glyphicons_173_play {
+  background-image: url(/images/glyphicons/glyphicons_173_play-white.png);
+  width: 16px;
+  height: 18px;
+}
+
+.glyphicons.glyphicons_173_play:hover {
+  background-image: url(/images/glyphicons/glyphicons_173_play.png);
+}
+
