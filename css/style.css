@@ -389,17 +389,23 @@ header nav {
 }
 
 .glyphicons-show-big-thumbnails {
-/*  margin-left: 10px;*/
   background-image: url(/images/glyphicons/glyphicons_155_show_big_thumbnails-white.png);
-  width: 22px;
+  width: 24px;
   height: 22px;
 }
 
+.glyphicons-show-big-thumbnails:hover {
+  background-image: url(/images/glyphicons/glyphicons_155_show_big_thumbnails.png);
+}
+
 .glyphicons.glyphicons-show-lines {
-/*  margin-left: 10px;*/
   background-image: url(/images/glyphicons/glyphicons_158_show_lines-white.png);
   width: 24px;
-  height: 15px;
+  height: 22px;
+}
+
+.glyphicons.glyphicons-show-lines:hover {
+  background-image: url(/images/glyphicons/glyphicons_158_show_lines.png);
 }
 
 .glyphicons.glyphicons_173_play {
