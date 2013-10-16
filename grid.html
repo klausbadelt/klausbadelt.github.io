@@ -4,10 +4,7 @@ title: Klaus Badelt
 date: Oct 10, 2013
 portfolio: grid
 ---
-<header>
-  <h3>Klaus Badelt</h3>
-  <nav><a href="/" class="btn glyphicons glyphicons-show-lines">list</a> <span class="btn glyphicons glyphicons-show-big-thumbnails">grid</span></nav>
-</header>
+{% include navbar.html %}
 
 <div id="portfolio" class="grid">
   
@@ -38,11 +35,11 @@ portfolio: grid
       <ol>
         {% for track in post.tracks %}
         <li>
-          <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
             {{ track.title | escape }}
           </a>
           &nbsp;
-          <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes'>
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes'>
             <span class='glyphicon glyphicon-plus'>+</span>
           </a>
         </li>
