@@ -3,13 +3,9 @@ layout: simple
 title: Klaus Badelt
 date: Oct 6, 2013
 ---
-<header>
-  <h3>Klaus Badelt</h3>
-  <nav><span class="btn glyphicons glyphicons-show-lines">list</span> <a href="/grid.html" class="btn glyphicons glyphicons-show-big-thumbnails">grid</a></nav>
-</header>
+{% include navbar.html %}
 
-
-<div class="list" id="portfolio">
+<main class="list" id="portfolio">
 
 {% for post in site.posts %}
   <div class="header">
@@ -34,11 +30,11 @@ date: Oct 6, 2013
         
         {% for track in post.tracks %}
         <li>
-          <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
             {{ track.title | escape }}
           </a>
           &nbsp;
-          <a href="{{ track.url }}" rel='/images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes' style="display: none;">
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes' style="display: none;">
             <span class='glyphicon glyphicon-plus'></span>
           </a>
         </li>
@@ -49,7 +45,7 @@ date: Oct 6, 2013
   </section>
 {% endfor %}
 
-</div>
+</main>
 
 <div id="player"></div>
 

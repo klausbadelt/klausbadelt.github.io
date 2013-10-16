@@ -91,13 +91,22 @@ header {
   margin: 16px 0;
 }
 
-header h3, header nav {
+nav * {
   display: inline;
+  margin: 0;
 }
 
-header nav {
+nav ul.navbar-right {
   float: right;
   margin-right: 10%;
+}
+
+nav ul li {
+  margin-left: 16px;
+}
+
+main {
+  clear: both;
 }
 
 /********* list view *********/
@@ -133,19 +142,19 @@ header nav {
 .columns {
   -webkit-column-width: 300px;
   -webkit-column-gap: 0.5em;
-  -webkit-column-fill: auto;
+/*  -webkit-column-fill: auto;*/
   -moz-column-width: 300px;
   -moz-column-gap: 1em;
   -moz-column-fill: auto;
-  column-width: 300px;
+/*  column-width: 300px;
   column-gap: 1em;
   column-fill: auto;
-}
+*/}
 
 .columns ul li {
   -webkit-column-break-inside: avoid;
   -moz-column-break-inside: avoid;
-  column-break-inside: avoid;
+/*  column-break-inside: avoid;*/
   display: block; /* avoids column break within the div */
 }
 
@@ -268,7 +277,7 @@ header nav {
      -moz-transition-property:    -moz-transform, opacity;
       -ms-transition-property:     -ms-transform, opacity;
        -o-transition-property:      -o-transform, opacity;
-          transition-property:         transform, opacity;
+/*          transition-property:         transform, opacity;*/
 }
 
 /**** disabling Isotope CSS3 transitions ****/
@@ -297,13 +306,13 @@ header nav {
 }
 
 .thumb img {
-  width: 100%;
-  margin: 0;
-  border: none;
 }
 
 .thumb img.lazy {
   visibility: hidden;
+  width: 100%;
+  margin: 0;
+  border: none;
 }
 
 .thumb.selected {
@@ -383,38 +392,27 @@ header nav {
   opacity: 0.7;
   background-position: center;
   background-repeat: no-repeat;
-/*  margin-left: auto;
-  margin-right: auto;
-*/
 }
 
 .glyphicons-show-big-thumbnails {
-  background-image: url(/images/glyphicons/glyphicons_155_show_big_thumbnails-white.png);
+  background-image: url(../images/glyphicons/glyphicons_155_show_big_thumbnails-white.png);
   width: 24px;
   height: 22px;
-}
-
-.glyphicons-show-big-thumbnails:hover {
-  background-image: url(/images/glyphicons/glyphicons_155_show_big_thumbnails.png);
 }
 
 .glyphicons.glyphicons-show-lines {
-  background-image: url(/images/glyphicons/glyphicons_158_show_lines-white.png);
+  background-image: url(../images/glyphicons/glyphicons_158_show_lines-white.png);
   width: 24px;
   height: 22px;
 }
 
-.glyphicons.glyphicons-show-lines:hover {
-  background-image: url(/images/glyphicons/glyphicons_158_show_lines.png);
-}
-
 .glyphicons.glyphicons_173_play {
-  background-image: url(/images/glyphicons/glyphicons_173_play-white.png);
+  background-image: url(../images/glyphicons/glyphicons_173_play-white.png);
   width: 16px;
   height: 18px;
 }
 
 .glyphicons.glyphicons_173_play:hover {
-  background-image: url(/images/glyphicons/glyphicons_173_play.png);
+  background-image: url(../images/glyphicons/glyphicons_173_play.png);
 }
 
