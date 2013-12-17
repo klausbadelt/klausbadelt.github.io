@@ -1,0 +1,79 @@
+---
+layout: simple
+title: Klaus Badelt
+date: Oct 6, 2013
+---
+{% include navbar.html %}
+
+<main class="list" id="portfolio">
+
+{% for post in site.posts %}
+  <div class="header">
+    <h1>
+      <a href="#">{{ post.title | escape }}</a>
+    </h1>
+  </div>
+  <section>
+    <div class="col-left">
+      <img class="lazy" 
+           src=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
+           data-original="images/posters/{{ post.poster }}">
+      <caption>     
+        <a href="#" data-playlist="playlist-{{ post.poster | remove: '.jpg' }}" data-enqueue="no" class="fap-add-playlist btn glyphicons glyphicons_173_play"> > </a>
+      {% if post.buy %}
+        <a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a>
+      {% endif %}
+      </caption>
+    </div>
+    <div class="col-right">
+      <ul data-playlist="playlist-{{ post.poster | remove: '.jpg' }}">
+        
+        {% for track in post.tracks %}
+        <li>
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
+            {{ track.title | escape }}
+          </a>
+          &nbsp;
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes' style="display: none;">
+            <span class='glyphicon glyphicon-plus'></span>
+          </a>
+        </li>
+        {% endfor %}
+
+      </ul>
+    </div>
+  </section>
+{% endfor %}
+
+</main>
+
+<div id="player"></div>
+
+<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
+<script src="https://connect.soundcloud.com/sdk.js" type="text/javascript"></script>
+<script src="js/jquery.fullwidthAudioPlayer.min.js" type="text/javascript"></script>
+
+<script>
+$(function(){
+  $('#player').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
+  
+  // show long playlists as multi-column
+  $('.col-right ul').filter(function(){ return $(this).find("li").length > 15 }).addClass('columns');
+  
+  // accordion on the titles
+  $('#portfolio').accordion({
+    header: "div.header",
+    heightStyle: "content",
+    collapsible: true,
+    active: false,
+    animate: true,
+    icons: false,
+    activate: function( event, ui ) {
+      // lazy load image on activation of panel
+      var $poster = ui.newPanel.find('img.lazy');
+      $poster.attr('src', $poster.attr('data-original'));
+    }
+  });
+});
+</script>
