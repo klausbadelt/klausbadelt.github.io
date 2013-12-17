@@ -8,7 +8,8 @@ POOL = "https://s3.amazonaws.com/pool.klausbadelt"
 puts "This script will write all mp3 albums in ../mx as new posts."
 puts "Set ID3 tags for album, title, release and comment (as Buy URL)"
 print "Continue (y/n)? "
-exit unless gets == "y\n"
+exit 1 unless gets == "y\n"
+puts 'Scanning mp3s...'
 # read all projects as subfolders in mx/*
 Dir.glob('../mx/**') do |folder|
   project = File.basename(folder)
@@ -59,3 +60,6 @@ eos
     post.puts "---"
   end
 end
+
+puts 'Uploading site...'
+system 'cd .. && jekyll build && s3cmd sync --rr -P --delete-removed _site/ s3://www.klausbadelt.com'
