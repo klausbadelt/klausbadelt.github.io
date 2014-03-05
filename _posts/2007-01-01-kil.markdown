@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Killshot"
+poster: kil.jpg
+date: 2007-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Annie's Song Overlay
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQW5uaWUncyBTb25nIE92ZXJsYXkubXAz
+   duration: 01:35
+ - title: Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQXR0YWNrLm1wMw==
+   duration: 01:39
+ - title: Burying Brother
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQnVyeWluZyBCcm90aGVyLm1wMw==
+   duration: 01:10
+ - title: Calling Gangsters
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQ2FsbGluZyBHYW5nc3RlcnMubXAz
+   duration: 01:07
+ - title: Carmen Paranoia
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQ2FybWVuIFBhcmFub2lhLm1wMw==
+   duration: 02:47
+ - title: Clothes Off
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvQ2xvdGhlcyBPZmYubXAz
+   duration: 04:32
+ - title: Driving Real Estate
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvRHJpdmluZyBSZWFsIEVzdGF0ZS5tcDM=
+   duration: 02:15
+ - title: Duck Hunting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvRHVjayBIdW50aW5nLm1wMw==
+   duration: 02:18
+ - title: FBI Relocation pt1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvRkJJIFJlbG9jYXRpb24gcHQxLm1wMw==
+   duration: 01:56
+ - title: FBI Relocation pt3
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvRkJJIFJlbG9jYXRpb24gcHQzLm1wMw==
+   duration: 01:14
+ - title: Going Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvR29pbmcgSG9tZSAxLm1wMw==
+   duration: 01:21
+ - title: Going Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvR29pbmcgSG9tZS5tcDM=
+   duration: 01:21
+ - title: Gun Upstairs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvR3VuIFVwc3RhaXJzLm1wMw==
+   duration: 02:45
+ - title: Hallway Kisses
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvSGFsbHdheSBLaXNzZXMubXAz
+   duration: 01:01
+ - title: Hospital Accident
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvSG9zcGl0YWwgQWNjaWRlbnQubXAz
+   duration: 01:28
+ - title: KIL Drone
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvS0lMIERyb25lLm1wMw==
+   duration: 05:08
+ - title: Killing Lionel pt2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvS2lsbGluZyBMaW9uZWwgcHQyLm1wMw==
+   duration: 01:43
+ - title: Killing Lionel
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvS2lsbGluZyBMaW9uZWwubXAz
+   duration: 02:59
+ - title: Leaving Donna
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvTGVhdmluZyBEb25uYS5tcDM=
+   duration: 01:56
+ - title: Mafia Meeting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvTWFmaWEgTWVldGluZy5tcDM=
+   duration: 02:35
+ - title: One Last Job
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvT25lIExhc3QgSm9iLm1wMw==
+   duration: 02:19
+ - title: Real Estate Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvUmVhbCBFc3RhdGUgQXR0YWNrLm1wMw==
+   duration: 01:06
+ - title: Shooting Richie
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvU2hvb3RpbmcgUmljaGllLm1wMw==
+   duration: 02:03
+ - title: Stalking pt2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvU3RhbGtpbmcgcHQyLm1wMw==
+   duration: 02:53
+ - title: Stalking
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvU3RhbGtpbmcubXAz
+   duration: 01:18
+ - title: Store Shootout
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvU3RvcmUgU2hvb3RvdXQubXAz
+   duration: 01:20
+ - title: Wayne Shootout
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raWwvV2F5bmUgU2hvb3RvdXQubXAz
+   duration: 04:25
+---

@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The Birthday Gift"
+poster: gft.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title:  Job
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvX0pvYi5tcDM=
+   duration: 01:29
+ - title: Buying Glasses
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvQnV5aW5nIEdsYXNzZXMubXAz
+   duration: 01:15
+ - title: Ending and Credits
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvRW5kaW5nIGFuZCBDcmVkaXRzLm1wMw==
+   duration: 01:07
+ - title: Monkey King
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvTW9ua2V5IEtpbmcubXAz
+   duration: 00:19
+ - title: Opening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvT3BlbmluZy5tcDM=
+   duration: 00:38
+ - title: Shop
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvU2hvcC5tcDM=
+   duration: 01:49
+ - title: The Gift
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9nZnQvVGhlIEdpZnQubXAz
+   duration: 01:35
+---

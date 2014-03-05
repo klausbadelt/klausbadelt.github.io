@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Coyote Ugly"
+poster: coy.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/Coyote-Ugly-Various-Artists-Soundtrack/dp/B00004W1OR
+tracks:
+ - title: Birthday
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3kvQmlydGhkYXkubXAz
+   duration: 02:23
+ - title: Coyote ugly
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3kvQ295b3RlIHVnbHkubXAz
+   duration: 03:26
+---

@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Waking Madison"
+poster: mad.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: 1m1 cb 000820
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDEgMW0xIGNiIDAwMDgyMC5tcDM=
+   duration: 01:05
+ - title: Hospital
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDIgMW0yIDEuNyBIb3NwaXRhbC5tcDM=
+   duration: 02:10
+ - title: Going Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDMgMW0zIDEuOCBHb2luZyBIb21lLm1wMw==
+   duration: 02:01
+ - title: 1m4 cb 081902
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDQgMW00IGNiIDA4MTkwMi5tcDM=
+   duration: 00:56
+ - title: Don't Remember
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDUgMm01IDEuMyBEb24ndCBSZW1lbWJlci5tcDM=
+   duration: 00:36
+ - title: Prayer-Burning Books
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDYgMm02IDEuMTIgUHJheWVyLUJ1cm5pbmcgQm9va3MubXAz
+   duration: 02:09
+ - title: Locked In The Basement
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDcgMm03IDEuNCBMb2NrZWQgSW4gVGhlIEJhc2VtZW50Lm1wMw==
+   duration: 00:53
+ - title: Flushing Meds
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDggMm04IDEuMTAgRmx1c2hpbmcgTWVkcy5tcDM=
+   duration: 02:25
+ - title: 2m9 cb 180423
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMDkgMm05IGNiIDE4MDQyMy5tcDM=
+   duration: 01:18
+ - title: Video Journal 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTAgMm0xMCBWaWRlbyBKb3VybmFsIDIubXAz
+   duration: 01:26
+ - title: Voices Fighting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTEgM20xMiAxLjUgVm9pY2VzIEZpZ2h0aW5nLm1wMw==
+   duration: 01:10
+ - title: 3m13 rev2 cb 064618
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTIgM20xMyByZXYyIGNiIDA2NDYxOC5tcDM=
+   duration: 00:43
+ - title: 3m14rev cb 092820
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTMgM20xNHJldiBjYiAwOTI4MjAubXAz
+   duration: 00:57
+ - title: Getting High
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTQgM20xNSAxLjQgR2V0dGluZyBIaWdoLm1wMw==
+   duration: 01:23
+ - title: Mirror
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTUgM20xNiAxLjIgTWlycm9yLm1wMw==
+   duration: 00:53
+ - title: 3m17rev cb 160110
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTYgM20xN3JldiBjYiAxNjAxMTAubXAz
+   duration: 00:54
+ - title: My Name Isn't Madison
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTcgNG0xOSAxLjYgTXkgTmFtZSBJc24ndCBNYWRpc29uLm1wMw==
+   duration: 01:04
+ - title: She Is Going To Die 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTggNG0yMCBTaGUgSXMgR29pbmcgVG8gRGllIDEuNi5tcDM=
+   duration: 02:56
+ - title: Montage
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMTkgNG0yMSAxLjMgTW9udGFnZS5tcDM=
+   duration: 01:33
+ - title: 4m22 cb 095102
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjAgNG0yMiBjYiAwOTUxMDIubXAz
+   duration: 01:01
+ - title: 4m23 cb 113122
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjEgNG0yMyBjYiAxMTMxMjIubXAz
+   duration: 02:29
+ - title: Beth Drive
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjIgNW0yNCAxLjQgQmV0aCBEcml2ZS5tcDM=
+   duration: 03:05
+ - title: I Love My Daughter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjMgNW0yNSAxLjggSSBMb3ZlIE15IERhdWdodGVyLm1wMw==
+   duration: 04:20
+ - title: Say Goodbye
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjQgNW0yNiAxLjEgU2F5IEdvb2RieWUubXAz
+   duration: 02:26
+ - title: End Song Alright
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYWQvMjUgNW1pIDEuOCBFbmQgU29uZyBBbHJpZ2h0Lm1wMw==
+   duration: 05:29
+---

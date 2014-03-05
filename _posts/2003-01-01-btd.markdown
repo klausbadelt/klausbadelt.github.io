@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Beat The Drum"
+poster: btd.jpg
+date: 2003-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/beat-the-drum/id213986416
+tracks:
+ - title: The Village
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDEgVGhlIFZpbGxhZ2UubXAz
+   duration: 05:33
+ - title: Thandi/Sacrifice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDIgVGhhbmRpX1NhY3JpZmljZS5tcDM=
+   duration: 03:46
+ - title: The Journey
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDMgVGhlIEpvdXJuZXkubXAz
+   duration: 02:48
+ - title: Nobe & Musa
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDQgTm9iZSAmIE11c2EubXAz
+   duration: 02:25
+ - title: Jo'Burg
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDUgSm8nQnVyZy5tcDM=
+   duration: 01:31
+ - title: The Muthi Market
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDYgVGhlIE11dGhpIE1hcmtldC5tcDM=
+   duration: 01:43
+ - title: Wash For A Rand, Part 1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDcgV2FzaCBGb3IgQSBSYW5kLCBQYXJ0IDEubXAz
+   duration: 02:33
+ - title: On The Streets
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDggT24gVGhlIFN0cmVldHMubXAz
+   duration: 02:09
+ - title: We Do Not Talk About it
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMDkgV2UgRG8gTm90IFRhbGsgQWJvdXQgaXQubXAz
+   duration: 02:08
+ - title: Wash For A Rand, Part 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTAgV2FzaCBGb3IgQSBSYW5kLCBQYXJ0IDIubXAz
+   duration: 02:54
+ - title: Musa's Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTEgTXVzYSdzIFRoZW1lLm1wMw==
+   duration: 02:42
+ - title: Have You Seen It?
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTIgSGF2ZSBZb3UgU2VlbiBJdF8ubXAz
+   duration: 01:21
+ - title: Stephan Passed Away
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTMgU3RlcGhhbiBQYXNzZWQgQXdheS5tcDM=
+   duration: 00:45
+ - title: One More Stop
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTQgT25lIE1vcmUgU3RvcC5tcDM=
+   duration: 02:00
+ - title: Returning Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTUgUmV0dXJuaW5nIEhvbWUubXAz
+   duration: 01:55
+ - title: What Has Happened
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTYgV2hhdCBIYXMgSGFwcGVuZWQubXAz
+   duration: 01:21
+ - title: Wait For Elder
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTcgV2FpdCBGb3IgRWxkZXIubXAz
+   duration: 01:11
+ - title: Hallucination
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTggSGFsbHVjaW5hdGlvbi5tcDM=
+   duration: 01:16
+ - title: Lauren's Revelation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMTkgTGF1cmVuJ3MgUmV2ZWxhdGlvbi5tcDM=
+   duration: 02:37
+ - title: Thandi's Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMjAgVGhhbmRpJ3MgVGhlbWUubXAz
+   duration: 02:27
+ - title: Did God Send You?
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMjEgRGlkIEdvZCBTZW5kIFlvdV8ubXAz
+   duration: 03:12
+ - title: Brand New Day
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9idGQvMjIgQnJhbmQgTmV3IERheS5tcDM=
+   duration: 05:15
+---

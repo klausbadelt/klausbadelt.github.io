@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Redline"
+poster: red.jpg
+date: 2007-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Redline Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDEgUmVkbGluZSBUaGVtZS5tcDM=
+   duration: 03:00
+ - title: Opening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDIgT3BlbmluZy5tcDM=
+   duration: 01:27
+ - title: Racing To Vegas
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDMgUmFjaW5nIFRvIFZlZ2FzLm1wMw==
+   duration: 01:44
+ - title: Garage
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDQgR2FyYWdlLm1wMw==
+   duration: 01:22
+ - title: Bus Station Gun
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDUgQnVzIFN0YXRpb24gR3VuLm1wMw==
+   duration: 00:20
+ - title: Father Crash
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDYgRmF0aGVyIENyYXNoLm1wMw==
+   duration: 02:05
+ - title: Club Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDcgQ2x1YiBGaWdodC5tcDM=
+   duration: 02:30
+ - title: Maniacal Michael
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDggTWFuaWFjYWwgTWljaGFlbC5tcDM=
+   duration: 01:40
+ - title: Brothers
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMDkgQnJvdGhlcnMubXAz
+   duration: 01:37
+ - title: Natasha Race
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTAgTmF0YXNoYSBSYWNlLm1wMw==
+   duration: 02:32
+ - title: Jason Dies
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTEgSmFzb24gRGllcy5tcDM=
+   duration: 02:37
+ - title: Guns and Ammo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTIgR3VucyBhbmQgQW1tby5tcDM=
+   duration: 01:45
+ - title: Michael and Natasha
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTMgTWljaGFlbCBhbmQgTmF0YXNoYS5tcDM=
+   duration: 04:31
+ - title: Escape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTQgRXNjYXBlLm1wMw==
+   duration: 04:04
+ - title: 25 Million
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTUgMjUgTWlsbGlvbi5tcDM=
+   duration: 01:53
+ - title: Nat Flashback
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTYgTmF0IEZsYXNoYmFjay5tcDM=
+   duration: 00:43
+ - title: Big Showdown
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTcgQmlnIFNob3dkb3duLm1wMw==
+   duration: 06:01
+ - title: Finding Mom
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTggRmluZGluZyBNb20ubXAz
+   duration: 01:30
+ - title: Michael Done
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMTkgTWljaGFlbCBEb25lLm1wMw==
+   duration: 02:10
+ - title: Last Race
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZWQvMjAgTGFzdCBSYWNlLm1wMw==
+   duration: 01:32
+---

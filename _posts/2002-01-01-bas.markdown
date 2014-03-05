@@ -1,0 +1,141 @@
+---
+layout: post
+title: "Basic"
+poster: bas.jpg
+date: 2002-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Limit
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvQmFzaWMgMW0zIExpbWl0Lm1wMw==
+   duration: 01:50
+ - title: Panama
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0yQS4yIFBhbmFtYSBTdE1peC5tcDM=
+   duration: 01:24
+ - title: Panama
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0yQS4zIFBhbmFtYSBTdE1peC5tcDM=
+   duration: 01:23
+ - title: Panama
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0yQi4xIFBhbmFtYSBTdE1peC5tcDM=
+   duration: 01:19
+ - title: Panama
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0ycmV2LjFyIFBhbmFtYSBTdE1peC5tcDM=
+   duration: 01:19
+ - title: Mission
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0zLjIgTWlzc2lvbiBTdE1peC5tcDM=
+   duration: 02:10
+ - title: Mission
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW0zLjIgTWlzc2lvblN0TWl4LU5PUk1fMDEubXAz
+   duration: 02:10
+ - title: Helicopter Search
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW00LjMgSGVsaWNvcHRlclNlYXJjaCBTdE1peC5tcDM=
+   duration: 02:28
+ - title: Interrogation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW01LjAgSW50ZXJyb2dhdGlvbiBTdE1peC5tcDM=
+   duration: 01:43
+ - title: Are There Spooks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW02LjEgQXJlVGhlcmVTcG9va3MgU3RNaXgubXAz
+   duration: 00:55
+ - title: Are there Spooks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW02LjIgQXJlIHRoZXJlIFNwb29rcyBTdE1peC5tcDM=
+   duration: 00:58
+ - title: Are There Spooks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW02LjUgQXJlVGhlcmVTcG9va3NTdE1peC5tcDM=
+   duration: 00:58
+ - title: Untitled
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMW03LjEgU3RNaXgubXAz
+   duration: 01:46
+ - title: Take Off Your Pack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xMC4zIFRha2VPZmZZb3VyUGFjayBTdE1peC5tcDM=
+   duration: 01:01
+ - title: 40 Days
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xMS4zIDQwRGF5cyBTdE1peC5tcDM=
+   duration: 00:56
+ - title: Drive To Kendell
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xMi4yIERyaXZlVG9LZW5kZWxsIFN0TWl4Lm1wMw==
+   duration: 00:50
+ - title: Levy Kendell
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xMy40IExldnlLZW5kZWxsIFN0TWl4Lm1wMw==
+   duration: 01:22
+ - title: Levy Kendell
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xMy41IExldnlLZW5kZWxsIFN0TWl4Lm1wMw==
+   duration: 01:21
+ - title: He Was Threat
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xNC4wICBIZVdhc1RocmVhdCBTdE1peC5tcDM=
+   duration: 00:48
+ - title: Jungle Landing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm0xNS43IEp1bmdsZUxhbmRpbmcgU3RNaXgubXAz
+   duration: 02:19
+ - title: JungleTraining StMix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMm05LjQgSnVuZ2xlVHJhaW5pbmcgU3RNaXgubXAz
+   duration: 01:20
+ - title: Dead West
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20xNi4yIERlYWRXZXN0IFN0TWl4Lm1wMw==
+   duration: 01:22
+ - title: Limit
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvQmFzaWMgMW0yIExpbWl0Lm1wMw==
+   duration: 01:19
+ - title: IK Now West Is Dead
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20xOCBJS05vd1dlc3RJc0RlYWQgU3RNaXgubXAz
+   duration: 00:27
+ - title: Shooting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20xOS4wIFNob290aW5nIFN0TWl4Lm1wMw==
+   duration: 01:27
+ - title: Drugs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20yMC4yIERydWdzIFN0TWl4Lm1wMw==
+   duration: 01:13
+ - title: Pikes Pack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20yMS4xIFBpa2VzUGFjayBTdE1peC5tcDM=
+   duration: 01:26
+ - title: Pikes Version
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20yMi4yIFBpa2VzIFZlcnNpb24gU3RNaXgubXAz
+   duration: 01:12
+ - title: Shooting/Kendell
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yMy4xIFNob290aW5nX0tlbmRlbGwgU3RNaXgubXAz
+   duration: 00:55
+ - title: Vilmer
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yNC4yIFZpbG1lciBTdE1peC5tcDM=
+   duration: 00:59
+ - title: Vilmer
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yNC40IFZpbG1lciBTdE1peC5tcDM=
+   duration: 00:58
+ - title: It Doesnt Add Up
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yNS42IEl0RG9lc250QWRkVXAgU3RNaXgubXAz
+   duration: 00:37
+ - title: Kendell Kicks It
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yNi4xIEtlbmRlbGxLaWNrc0l0IFN0TWl4Lm1wMw==
+   duration: 00:55
+ - title: Section8 Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yNy4xIFNlY3Rpb244IE1peC5tcDM=
+   duration: 02:13
+ - title: Ray Dunbars Black
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNG0yOS4yIFJheUR1bmJhcnNCbGFjayBTdE1peC5tcDM=
+   duration: 02:07
+ - title: Fight With West
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zMC4wIEZpZ2h0V2l0aFdlc3QgU3RNaXgubXAz
+   duration: 00:51
+ - title: Dunbars Dog Tags
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zMi4xIER1bmJhcnNEb2dUYWdzIFN0TWl4Lm1wMw==
+   duration: 01:00
+ - title: I Think That You
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zMy4wIElUaGlua1RoYXRZb3UgU3RNaXgubXAz
+   duration: 01:19
+ - title: Styles Shot
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zNC4wIFN0eWxlc1Nob3QgU3RNaXgubXAz
+   duration: 00:27
+ - title: Tell The Story Right
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zNS4yIFRlbGxUaGVTdG9yeVJpZ2h0IFN0TWl4Lm1wMw==
+   duration: 01:24
+ - title: 8 Ball
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zNi4yIDhCYWxsIFN0TWl4Lm1wMw==
+   duration: 03:29
+ - title: None Of Ya'all Exist
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvNW0zOC4xIE5vbmVPZllhJ2FsbEV4aXN0IFN0TWl4Lm1wMw==
+   duration: 00:45
+ - title: Do Somthing OK
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvM20xNy4xIERvU29tdGhpbmdPSyBTdE1peC5tcDM=
+   duration: 00:34
+ - title: Sex Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9iYXMvMDggNG0yOC4wIFNleEZpZ2h0IFN0TWl4Lm1wMw==
+   duration: 00:43
+---

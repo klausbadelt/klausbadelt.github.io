@@ -1,0 +1,114 @@
+---
+layout: post
+title: "Shanghai"
+poster: sha.jpg
+date: 2009-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Torture
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDEgVG9ydHVyZS5tcDM=
+   duration: 01:33
+ - title: Where Is She
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDIgV2hlcmUgSXMgU2hlLm1wMw==
+   duration: 02:08
+ - title: Harbor Chase
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDMgSGFyYm9yIENoYXNlLm1wMw==
+   duration: 01:36
+ - title: Conner Killed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDQgQ29ubmVyIEtpbGxlZC5tcDM=
+   duration: 01:37
+ - title: Enter Anna
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDUgRW50ZXIgQW5uYS5tcDM=
+   duration: 01:00
+ - title: Conner's Coffin
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDYgQ29ubmVyJ3MgQ29mZmluLm1wMw==
+   duration: 01:38
+ - title: Bamboo Tea House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDcgQmFtYm9vIFRlYSBIb3VzZS5tcDM=
+   duration: 02:12
+ - title: Captain Tanaka
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDggQ2FwdGFpbiBUYW5ha2EubXAz
+   duration: 01:16
+ - title: Sumiko's Apartment
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMDkgU3VtaWtvJ3MgQXBhcnRtZW50Lm1wMw==
+   duration: 02:48
+ - title: Fashion Show
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTAgRmFzaGlvbiBTaG93Lm1wMw==
+   duration: 02:06
+ - title: Teatime
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTEgVGVhdGltZS5tcDM=
+   duration: 01:40
+ - title: Moving Sumiko
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTIgTW92aW5nIFN1bWlrby5tcDM=
+   duration: 02:51
+ - title: Anna Tea Date
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTMgQW5uYSBUZWEgRGF0ZS5tcDM=
+   duration: 00:57
+ - title: Grammaphone
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTQgR3JhbW1hcGhvbmUubXAz
+   duration: 00:41
+ - title: Archive Flashback
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTUgQXJjaGl2ZSBGbGFzaGJhY2subXAz
+   duration: 01:14
+ - title: Dead Guests
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTYgRGVhZCBHdWVzdHMubXAz
+   duration: 00:29
+ - title: Night Spy
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTcgTmlnaHQgU3B5Lm1wMw==
+   duration: 01:28
+ - title: Will You Confirm
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTggV2lsbCBZb3UgQ29uZmlybS5tcDM=
+   duration: 01:26
+ - title: Tanaka Lie
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMTkgVGFuYWthIExpZS5tcDM=
+   duration: 01:05
+ - title: Opium House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjAgT3BpdW0gSG91c2UubXAz
+   duration: 02:14
+ - title: Ships Missing 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjEgU2hpcHMgTWlzc2luZy5tcDM=
+   duration: 01:03
+ - title: Counterfeiter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjIgQ291bnRlcmZlaXRlci5tcDM=
+   duration: 01:03
+ - title: Passport Pickup
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjMgUGFzc3BvcnQgUGlja3VwLm1wMw==
+   duration: 01:21
+ - title: Barn Talk
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjQgQmFybiBUYWxrLm1wMw==
+   duration: 01:34
+ - title: Train Station
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjUgVHJhaW4gU3RhdGlvbi5tcDM=
+   duration: 04:01
+ - title: Tanaka Torture
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjYgVGFuYWthIFRvcnR1cmUubXAz
+   duration: 01:22
+ - title: Kita Killed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjcgS2l0YSBLaWxsZWQubXAz
+   duration: 01:52
+ - title: Get Out
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjggR2V0IE91dC5tcDM=
+   duration: 01:52
+ - title: Paul Escape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMjkgUGF1bCBFc2NhcGUubXAz
+   duration: 01:34
+ - title: Lang Ting's Deal
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzAgTGFuZyBUaW5nJ3MgRGVhbC5tcDM=
+   duration: 01:41
+ - title: Sumiko's Death
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzEgU3VtaWtvJ3MgRGVhdGgubXAz
+   duration: 03:47
+ - title: Car Escape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzIgQ2FyIEVzY2FwZS5tcDM=
+   duration: 03:16
+ - title: Saving Lang Tin
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzMgU2F2aW5nIExhbmcgVGluLm1wMw==
+   duration: 02:34
+ - title: Evacuation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzQgRXZhY3VhdGlvbi5tcDM=
+   duration: 03:28
+ - title: Leaving Shanghai
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zaGEvMzUgTGVhdmluZyBTaGFuZ2hhaS5tcDM=
+   duration: 03:57
+---

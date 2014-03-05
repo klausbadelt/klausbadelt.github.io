@@ -1,0 +1,66 @@
+---
+layout: post
+title: "30 Degres Couleur"
+poster: 30c.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Call From Far
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDEgQ2FsbCBGcm9tIEZhci5tcDM=
+   duration: 01:06
+ - title: Airport Arrival
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDIgQWlycG9ydCBBcnJpdmFsLm1wMw==
+   duration: 00:54
+ - title: Airport Arrival
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDMgQWlycG9ydCBBcnJpdmFsIChhbHQpLm1wMw==
+   duration: 01:02
+ - title: Family Arrival
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDQgRmFtaWx5IEFycml2YWwubXAz
+   duration: 01:30
+ - title: Family Arrival
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDUgRmFtaWx5IEFycml2YWwgKGFsdCkubXAz
+   duration: 01:34
+ - title: Mother Talk
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDYgTW90aGVyIFRhbGsubXAz
+   duration: 00:54
+ - title: Mum's Gone
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDcgTXVtJ3MgR29uZS5tcDM=
+   duration: 01:58
+ - title: Old Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDggT2xkIEJvb2subXAz
+   duration: 01:20
+ - title: Visiting The Neighbors
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMDkgVmlzaXRpbmcgVGhlIE5laWdoYm9ycy5tcDM=
+   duration: 00:17
+ - title: Au Police
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTAgQXUgUG9saWNlLm1wMw==
+   duration: 00:13
+ - title: Wild Land
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTEgV2lsZCBMYW5kLm1wMw==
+   duration: 01:50
+ - title: Sorcerer
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTIgU29yY2VyZXIubXAz
+   duration: 00:41
+ - title: Moving Fridge
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTMgTW92aW5nIEZyaWRnZS5tcDM=
+   duration: 01:17
+ - title: Dance
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTQgRGFuY2UubXAz
+   duration: 01:10
+ - title: Lost
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTUgTG9zdC5tcDM=
+   duration: 02:16
+ - title: Guitar Aftermath
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTYgR3VpdGFyIEFmdGVybWF0aC5tcDM=
+   duration: 01:16
+ - title: Found
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTcgRm91bmQubXAz
+   duration: 01:22
+ - title: Funeral
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTggRnVuZXJhbC5tcDM=
+   duration: 01:22
+ - title: Main Theme v9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8zMGMvMTkgTWFpbiBUaGVtZS5tcDM=
+   duration: 02:42
+---

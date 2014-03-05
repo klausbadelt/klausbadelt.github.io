@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Chill Factor"
+poster: chl.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Chill Factor
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jaGwvQ2hpbGwgRmFjdG9yLm1wMw==
+   duration: 03:07
+---

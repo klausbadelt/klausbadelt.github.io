@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Rescue Dawn"
+poster: res.jpg
+date: 2007-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/rescue-dawn-music-from-motion/id257820391
+tracks:
+ - title: Dieter's Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDEgRGlldGVyJ3MgVGhlbWUubXAz
+   duration: 03:21
+ - title: Journey
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDIgSm91cm5leS5tcDM=
+   duration: 01:22
+ - title: Hope
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDMgSG9wZS5tcDM=
+   duration: 05:26
+ - title: Sign This
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDQgU2lnbiBUaGlzLm1wMw==
+   duration: 01:32
+ - title: Gathering Rice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDUgR2F0aGVyaW5nIFJpY2UubXAz
+   duration: 01:46
+ - title: The Plan
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDYgVGhlIFBsYW4ubXAz
+   duration: 02:23
+ - title: After The Fire
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDcgQWZ0ZXIgVGhlIEZpcmUubXAz
+   duration: 01:54
+ - title: Rain
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDggUmFpbi5tcDM=
+   duration: 02:56
+ - title: Operation Rescue Dawn
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMDkgT3BlcmF0aW9uIFJlc2N1ZSBEYXduLm1wMw==
+   duration: 02:42
+ - title: It's Him
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTAgSXQncyBIaW0ubXAz
+   duration: 04:06
+ - title: Keep Your Head Down
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTEgS2VlcCBZb3VyIEhlYWQgRG93bi5tcDM=
+   duration: 00:53
+ - title: America Gave Me Wings
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTIgQW1lcmljYSBHYXZlIE1lIFdpbmdzLm1wMw==
+   duration: 01:57
+ - title: Mirror
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTMgTWlycm9yLm1wMw==
+   duration: 01:44
+ - title: Sleepwalkers
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTQgU2xlZXB3YWxrZXJzLm1wMw==
+   duration: 02:41
+ - title: Rescue
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTUgUmVzY3VlLm1wMw==
+   duration: 04:44
+ - title: Lights (Rescue Dawn Version)
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTYgTGlnaHRzIChSZXNjdWUgRGF3biBWZXJzaW9uKS5tcDM=
+   duration: 04:20
+ - title: Dieter's Theme Reprise
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTcgRGlldGVyJ3MgVGhlbWUgUmVwcmlzZS5tcDM=
+   duration: 01:47
+ - title: This Is How I Remember Him
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9yZXMvMTggVGhpcyBJcyBIb3cgSSBSZW1lbWJlciBIaW0ubXAz
+   duration: 02:36
+---

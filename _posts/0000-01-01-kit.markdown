@@ -1,0 +1,147 @@
+---
+layout: post
+title: "Kingdom In Twilight"
+poster: kit.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: 12 Years Later
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvMTIgWWVhcnMgTGF0ZXIubXAz
+   duration: 02:40
+ - title: A Toast
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQSBUb2FzdC5tcDM=
+   duration: 02:53
+ - title: Battle Planning
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQmF0dGxlIFBsYW5uaW5nLm1wMw==
+   duration: 02:43
+ - title: Belt Removal
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQmVsdCBSZW1vdmFsLm1wMw==
+   duration: 03:40
+ - title: Boy Sleeps/Army Attacks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQm95IFNsZWVwc19Bcm15IEF0dGFja3MubXAz
+   duration: 07:01
+ - title: Brunhild Confronts Sigf
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQnJ1bmhpbGQgQ29uZnJvbnRzIFNpZ2YubXAz
+   duration: 03:56
+ - title: Brunhild Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQnJ1bmhpbGQgRmlnaHQubXAz
+   duration: 01:11
+ - title: Come To Iceland
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQ29tZSBUbyBJY2VsYW5kLm1wMw==
+   duration: 01:08
+ - title: Confession
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQ29uZmVzc2lvbi5tcDM=
+   duration: 05:01
+ - title: Confrontation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvQ29uZnJvbnRhdGlvbi5tcDM=
+   duration: 02:10
+ - title: Dark Gold Noble Blood
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRGFyayBHb2xkIE5vYmxlIEJsb29kLm1wMw==
+   duration: 04:36
+ - title: Dark Powers
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRGFyayBQb3dlcnMubXAz
+   duration: 01:00
+ - title: Destiny
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRGVzdGlueS5tcDM=
+   duration: 04:34
+ - title: Dragon Feast
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRHJhZ29uIEZlYXN0Lm1wMw==
+   duration: 02:21
+ - title: Dragons Blood
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRHJhZ29ucyBCbG9vZC5tcDM=
+   duration: 02:45
+ - title: Eriks Dream
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRXJpa3MgRHJlYW0ubXAz
+   duration: 03:19
+ - title: Father Dies
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRmF0aGVyIERpZXMubXAz
+   duration: 03:42
+ - title: Fight Part 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRmlnaHQgUGFydCAyLm1wMw==
+   duration: 03:03
+ - title: Final Death
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRmluYWwgRGVhdGgubXAz
+   duration: 03:05
+ - title: Forest Killing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRm9yZXN0IEtpbGxpbmcubXAz
+   duration: 01:30
+ - title: Forest
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvRm9yZXN0Lm1wMw==
+   duration: 03:08
+ - title: Ghosts And Gold
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvR2hvc3RzIEFuZCBHb2xkLm1wMw==
+   duration: 04:41
+ - title: Going To Church
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvR29pbmcgVG8gQ2h1cmNoLm1wMw==
+   duration: 03:16
+ - title: Hagen Killed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvSGFnZW4gS2lsbGVkLm1wMw==
+   duration: 01:07
+ - title: Hagens Herbs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvSGFnZW5zIEhlcmJzLm1wMw==
+   duration: 01:53
+ - title: Journey To Iceland
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvSm91cm5leSBUbyBJY2VsYW5kLm1wMw==
+   duration: 05:21
+ - title: King Queen Return
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvS2luZyBRdWVlbiBSZXR1cm4ubXAz
+   duration: 03:02
+ - title: King Returning
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvS2luZyBSZXR1cm5pbmcubXAz
+   duration: 02:12
+ - title: Long Live Dragon Slayer
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvTG9uZyBMaXZlIERyYWdvbiBTbGF5ZXIubXAz
+   duration: 03:11
+ - title: Ore
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvT3JlLm1wMw==
+   duration: 03:22
+ - title: Remembering Brunhild
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvUmVtZW1iZXJpbmcgQnJ1bmhpbGQubXAz
+   duration: 02:15
+ - title: Return To Forrest
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvUmV0dXJuIFRvIEZvcnJlc3QubXAz
+   duration: 02:57
+ - title: Sigfried Killed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvU2lnZnJpZWQgS2lsbGVkLm1wMw==
+   duration: 06:36
+ - title: Slaying The Dragon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvU2xheWluZyBUaGUgRHJhZ29uLm1wMw==
+   duration: 06:42
+ - title: Sneaking Back To Bed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvU25lYWtpbmcgQmFjayBUbyBCZWQubXAz
+   duration: 02:01
+ - title: Sword Fight Against Two
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvU3dvcmQgRmlnaHQgQWdhaW5zdCBUd28ubXAz
+   duration: 01:18
+ - title: Sword Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvU3dvcmQgRmlnaHQubXAz
+   duration: 00:44
+ - title: The Gods
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvVGhlIEdvZHMubXAz
+   duration: 04:16
+ - title: The Hunt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvVGhlIEh1bnQubXAz
+   duration: 01:54
+ - title: Traveling To Devistation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvVHJhdmVsaW5nIFRvIERldmlzdGF0aW9uLm1wMw==
+   duration: 02:31
+ - title: Treasure Is Yours
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvVHJlYXN1cmUgSXMgWW91cnMubXAz
+   duration: 02:05
+ - title: Two Against One
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvVHdvIEFnYWluc3QgT25lLm1wMw==
+   duration: 03:57
+ - title: Wedding alt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvV2VkZGluZyBhbHQubXAz
+   duration: 02:52
+ - title: Wedding Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvV2VkZGluZyBGaWdodC5tcDM=
+   duration: 02:17
+ - title: Wedding Party
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvV2VkZGluZyBQYXJ0eS5tcDM=
+   duration: 01:20
+ - title: Wedding
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9raXQvV2VkZGluZy5tcDM=
+   duration: 02:58
+---

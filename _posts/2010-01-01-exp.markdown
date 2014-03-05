@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Expo Shanghai 2010"
+poster: exp.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: IOF A 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvSU9GIEEubXAz
+   duration: 01:45
+ - title: IOF B
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvSU9GIEIubXAz
+   duration: 02:22
+ - title: IOF C
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvSU9GIEMubXAz
+   duration: 01:45
+ - title: Loading Area
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvTG9hZGluZyBBcmVhLm1wMw==
+   duration: 06:32
+ - title: Pre A
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvUHJlIEEubXAz
+   duration: 02:28
+ - title: Pre C 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvUHJlIEMubXAz
+   duration: 00:52
+ - title: Preshow B 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvUHJlc2hvdyBCLm1wMw==
+   duration: 08:50
+ - title: Walk In Out
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leHAvV2FsayBJbiBPdXQubXAz
+   duration: 00:54
+---

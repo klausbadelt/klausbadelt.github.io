@@ -1,0 +1,123 @@
+---
+layout: post
+title: "Starship Troopers Marauder"
+poster: stm.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Fed Net Intro
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDEgRmVkIE5ldCBJbnRyby5tcDM=
+   duration: 01:58
+ - title: Rico Intro
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDIgUmljbyBJbnRyby5tcDM=
+   duration: 01:00
+ - title: Old Friends
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDMgT2xkIEZyaWVuZHMubXAz
+   duration: 01:56
+ - title: Talking About Bugs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDQgVGFsa2luZyBBYm91dCBCdWdzLm1wMw==
+   duration: 01:14
+ - title: Bugs Are Restless
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDUgQnVncyBBcmUgUmVzdGxlc3MubXAz
+   duration: 00:54
+ - title: Bar Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDYgQmFyIEZpZ2h0Lm1wMw==
+   duration: 02:21
+ - title: Fence Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDcgRmVuY2UgQXR0YWNrLm1wMw==
+   duration: 02:57
+ - title: Inoke Injured
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDggSW5va2UgSW5qdXJlZC5tcDM=
+   duration: 02:13
+ - title: Holed Up
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMDkgSG9sZWQgVXAubXAz
+   duration: 01:53
+ - title: Aboard Geronimo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTAgQWJvYXJkIEdlcm9uaW1vLm1wMw==
+   duration: 00:42
+ - title: Bug Plasma
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTEgQnVnIFBsYXNtYS5tcDM=
+   duration: 01:51
+ - title: Fed Net Report
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTIgRmVkIE5ldCBSZXBvcnQubXAz
+   duration: 01:25
+ - title: Sky Marshall Speech
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTMgU2t5IE1hcnNoYWxsIFNwZWVjaC5tcDM=
+   duration: 02:14
+ - title: Distress Call File
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTQgRGlzdHJlc3MgQ2FsbCBGaWxlLm1wMw==
+   duration: 01:08
+ - title: Stranded
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTUgU3RyYW5kZWQubXAz
+   duration: 03:01
+ - title: Rico Execution
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTYgUmljbyBFeGVjdXRpb24ubXAz
+   duration: 01:30
+ - title: They're Herding Us
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTcgVGhleSdyZSBIZXJkaW5nIFVzLm1wMw==
+   duration: 02:42
+ - title: Fed Net of the Q Bomb
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTggRmVkIE5ldCBvZiB0aGUgUSBCb21iLm1wMw==
+   duration: 01:54
+ - title: Landing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMTkgTGFuZGluZy5tcDM=
+   duration: 00:30
+ - title: Marauder Power Suits
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjAgTWFyYXVkZXIgUG93ZXIgU3VpdHMubXAz
+   duration: 00:26
+ - title: We Could Both Hang
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjEgV2UgQ291bGQgQm90aCBIYW5nLm1wMw==
+   duration: 01:25
+ - title: Checking the Perimeter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjIgQ2hlY2tpbmcgdGhlIFBlcmltZXRlci5tcDM=
+   duration: 02:05
+ - title: Earth Shaking
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjMgRWFydGggU2hha2luZy5tcDM=
+   duration: 01:58
+ - title: A Good Day to Die
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjQgQSBHb29kIERheSB0byBEaWUubXAz
+   duration: 00:55
+ - title: Dix Discovers
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjUgRGl4IERpc2NvdmVycy5tcDM=
+   duration: 01:36
+ - title:  Jingo Dies
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjYgIEppbmdvIERpZXMubXAz
+   duration: 04:45
+ - title: Please Remove Your Clothing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjcgUGxlYXNlIFJlbW92ZSBZb3VyIENsb3RoaW5nLm1wMw==
+   duration: 02:00
+ - title: Visiting the Bug
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjggVmlzaXRpbmcgdGhlIEJ1Zy5tcDM=
+   duration: 02:27
+ - title: Bug Religion
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMjkgQnVnIFJlbGlnaW9uLm1wMw==
+   duration: 02:06
+ - title: Haunted House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzAgSGF1bnRlZCBIb3VzZS5tcDM=
+   duration: 01:41
+ - title: The Big One Attacks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzEgVGhlIEJpZyBPbmUgQXR0YWNrcy5tcDM=
+   duration: 03:02
+ - title: Behemecoytal
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzIgQmVoZW1lY295dGFsLm1wMw==
+   duration: 04:56
+ - title: Salvation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzMgU2FsdmF0aW9uLm1wMw==
+   duration: 01:16
+ - title: Marauders
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzQgTWFyYXVkZXJzLm1wMw==
+   duration: 01:35
+ - title: Burn Em
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzUgQnVybiBFbS5tcDM=
+   duration: 02:40
+ - title: Planet Bomb
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzYgUGxhbmV0IEJvbWIubXAz
+   duration: 02:54
+ - title: Final Fednet
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzcgRmluYWwgRmVkbmV0Lm1wMw==
+   duration: 01:40
+ - title: End Credits
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zdG0vMzggRW5kIENyZWRpdHMubXAz
+   duration: 01:34
+---

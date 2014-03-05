@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Dylan Dog Dead Of Night"
+poster: don.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/dylan-dog-dead-of-night
+tracks:
+ - title: Meet Dylan
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDEgTWVldCBEeWxhbi5tcDM=
+   duration: 01:45
+ - title: Gabriel
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDIgR2FicmllbC5tcDM=
+   duration: 01:09
+ - title: New Job
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDMgTmV3IEpvYi5tcDM=
+   duration: 01:50
+ - title: Final Fight Pt. 3
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDQgRmluYWwgRmlnaHQgUHQuIDMubXAz
+   duration: 03:02
+ - title: Father's Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDUgRmF0aGVyJ3MgQm9vay5tcDM=
+   duration: 01:26
+ - title: Wolfgang Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDYgV29sZmdhbmcgRmlnaHQubXAz
+   duration: 01:56
+ - title: Butcher
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDcgQnV0Y2hlci5tcDM=
+   duration: 01:14
+ - title: Marcus Comes Back
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDggTWFyY3VzIENvbWVzIEJhY2subXAz
+   duration: 01:36
+ - title: Zombie Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMDkgWm9tYmllIEF0dGFjay5tcDM=
+   duration: 02:00
+ - title: Funeral
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTAgRnVuZXJhbC5tcDM=
+   duration: 02:19
+ - title: Dylan Flashback Story
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTEgRHlsYW4gRmxhc2hiYWNrIFN0b3J5Lm1wMw==
+   duration: 02:04
+ - title: Screamer Client
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTIgU2NyZWFtZXIgQ2xpZW50Lm1wMw==
+   duration: 01:12
+ - title: The Story
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTMgVGhlIFN0b3J5Lm1wMw==
+   duration: 02:50
+ - title: Final Fight Pt. 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTQgRmluYWwgRmlnaHQgUHQuIDIubXAz
+   duration: 03:03
+ - title: Final Fight Pt. 1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTUgRmluYWwgRmlnaHQgUHQuIDEubXAz
+   duration: 02:16
+ - title: Beetle Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTYgQmVldGxlIEZpZ2h0Lm1wMw==
+   duration: 02:19
+ - title: Gabriel Dying
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTcgR2FicmllbCBEeWluZy5tcDM=
+   duration: 01:27
+ - title: Buried Alive
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTggQnVyaWVkIEFsaXZlLm1wMw==
+   duration: 03:16
+ - title: Kiss
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMTkgS2lzcy5tcDM=
+   duration: 01:43
+ - title: Taking The Case
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjAgVGFraW5nIFRoZSBDYXNlLm1wMw==
+   duration: 02:27
+ - title: Power Plant
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjEgUG93ZXIgUGxhbnQubXAz
+   duration: 04:07
+ - title: Dangerous Daylight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjIgRGFuZ2Vyb3VzIERheWxpZ2h0Lm1wMw==
+   duration: 02:07
+ - title: Sleeper
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjMgU2xlZXBlci5tcDM=
+   duration: 02:50
+ - title: Dad's Dinner
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjQgRGFkJ3MgRGlubmVyLm1wMw==
+   duration: 01:41
+ - title: Dylan's Eulogy
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjUgRHlsYW4ncyBFdWxvZ3kubXAz
+   duration: 03:06
+ - title: Marcus Attacked Pt. 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjYgTWFyY3VzIEF0dGFja2VkIFB0LiAyLm1wMw==
+   duration: 02:08
+ - title: Final Walk
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9kb24vMjcgRmluYWwgV2Fsay5tcDM=
+   duration: 01:07
+---

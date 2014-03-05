@@ -1,0 +1,117 @@
+---
+layout: post
+title: "The Scorpion King Rise of the Akkadian"
+poster: sk2.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Titles
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDEgVGl0bGVzLm1wMw==
+   duration: 02:19
+ - title: Training
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDIgVHJhaW5pbmcubXAz
+   duration: 03:49
+ - title: Black Mist
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDMgQmxhY2sgTWlzdC5tcDM=
+   duration: 01:41
+ - title: Ways Of The Warrior
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDQgV2F5cyBPZiBUaGUgV2Fycmlvci5tcDM=
+   duration: 00:48
+ - title: Returning Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDUgUmV0dXJuaW5nIEhvbWUubXAz
+   duration: 02:49
+ - title: Sargon's Assignment
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDYgU2FyZ29uJ3MgQXNzaWdubWVudC5tcDM=
+   duration: 02:09
+ - title: Palace
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDcgUGFsYWNlLm1wMw==
+   duration: 00:43
+ - title: Sargon's Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDggU2FyZ29uJ3MgRmlnaHQubXAz
+   duration: 02:59
+ - title: Pick One
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMDkgUGljayBPbmUubXAz
+   duration: 00:40
+ - title: Don't Flinch
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTAgRG9uJ3QgRmxpbmNoLm1wMw==
+   duration: 05:38
+ - title: Special Plans
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTEgU3BlY2lhbCBQbGFucy5tcDM=
+   duration: 01:27
+ - title: On The Ship
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTIgT24gVGhlIFNoaXAubXAz
+   duration: 00:35
+ - title: Scribe
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTMgU2NyaWJlLm1wMw==
+   duration: 03:10
+ - title: Going To The Castle
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTQgR29pbmcgVG8gVGhlIENhc3RsZS5tcDM=
+   duration: 01:45
+ - title: Prison
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTUgUHJpc29uLm1wMw==
+   duration: 05:15
+ - title: Scribe's Tale
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTYgU2NyaWJlJ3MgVGFsZS5tcDM=
+   duration: 01:17
+ - title: Looking For The Portal
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTcgTG9va2luZyBGb3IgVGhlIFBvcnRhbC5tcDM=
+   duration: 02:39
+ - title: Leap Of Faith
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTggTGVhcCBPZiBGYWl0aC5tcDM=
+   duration: 01:28
+ - title: Underworld
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMTkgVW5kZXJ3b3JsZC5tcDM=
+   duration: 01:26
+ - title: Dead Persons
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjAgRGVhZCBQZXJzb25zLm1wMw==
+   duration: 02:30
+ - title: Stinky Forest
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjEgU3Rpbmt5IEZvcmVzdC5tcDM=
+   duration: 02:57
+ - title: Worth My While
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjIgV29ydGggTXkgV2hpbGUubXAz
+   duration: 02:10
+ - title: Her Inner What
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjMgSGVyIElubmVyIFdoYXQubXAz
+   duration: 04:22
+ - title: Bitches
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjQgQml0Y2hlcy5tcDM=
+   duration: 03:36
+ - title: Seduction
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjUgU2VkdWN0aW9uLm1wMw==
+   duration: 03:14
+ - title: He Took Something
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjYgSGUgVG9vayBTb21ldGhpbmcubXAz
+   duration: 01:59
+ - title: Love To Sargon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjcgTG92ZSBUbyBTYXJnb24ubXAz
+   duration: 01:17
+ - title: To The Arena
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjggVG8gVGhlIEFyZW5hLm1wMw==
+   duration: 02:01
+ - title: Back And Forth
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMjkgQmFjayBBbmQgRm9ydGgubXAz
+   duration: 03:04
+ - title: Contraption
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzAgQ29udHJhcHRpb24ubXAz
+   duration: 07:18
+ - title: Wrong Sword
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzEgV3JvbmcgU3dvcmQubXAz
+   duration: 02:19
+ - title: Taking Arena
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzIgVGFraW5nIEFyZW5hLm1wMw==
+   duration: 00:38
+ - title: Scorpion Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzMgU2NvcnBpb24gRmlnaHQubXAz
+   duration: 06:36
+ - title: Soon Enough
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzQgU29vbiBFbm91Z2gubXAz
+   duration: 02:00
+ - title: New King
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzUgTmV3IEtpbmcubXAz
+   duration: 03:23
+ - title: Credits Start
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zazIvMzYgQ3JlZGl0cyBTdGFydC5tcDM=
+   duration: 01:18
+---

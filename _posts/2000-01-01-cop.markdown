@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Cops 2000"
+poster: cop.jpg
+date: 2000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Action
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3AvQ29wcyAyMDAwIEFjdGlvbiBMMS5tcDM=
+   duration: 01:58
+ - title: Slow
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3AvQ29wcyAyMDAwIFNsb3cgTDEubXAz
+   duration: 02:27
+ - title: Suspense 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3AvQ29wcyAyMDAwIFN1c3BlbnNlIEwxLm1wMw==
+   duration: 01:31
+---
