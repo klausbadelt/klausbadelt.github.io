@@ -3,14 +3,21 @@ require 'taglib'
 require 'base64'
 require 'uri'
 
-POOL = "https://s3.amazonaws.com/klausbadelt-pool"
+SITE_URL = 'https://s3.amazonaws.com/klausbadelt-com'
+MX_FOLDER = 'mx'
 
-puts "This script will write all mp3 albums in ../_website as new posts."
-puts "Set ID3 tags for album, title, release and comment (as Buy URL)"
-print "Continue (y/n)? "
+print "This script will write all mp3 albums in ../#{MX_FOLDER} as new posts,
+generate the site html and sync it to S3.
+Put all mp3s in folders under ../#{MX_FOLDER} named after the project ID (3 letter code).
+Set ID3 tags for album, title, release and comment (as Buy URL).
+Each album needs a poster sized 300×430px named <project-ID>.jpg
+stored in the folder ../images/posters.
+
+Continue (y/n)? "
 exit unless gets == "y\n"
-# read all projects as subfolders in _website/*
-Dir.glob('../_website/**') do |folder|
+
+# read all projects as subfolders in MX_FOLDER /*
+Dir.glob("../#{MX_FOLDER}/**") do |folder|
   project = File.basename(folder)
   print "#{project}: "
   if project[0,1] == '_'
@@ -18,13 +25,13 @@ Dir.glob('../_website/**') do |folder|
     next
   end
   
-  # don't overwrite Writing post - test for match with anyt date (2013-10-03-project.markup)
-  # unless (match = Dir.glob(File.join('../_posts/*')).grep(/\d*-\d*-\d*-#{project}\./)).empty?
-  #   puts "#{project} already exists: #{File.basename(match.first)}. Skip."
-  #   next
-  # end
+  # don't overwrite Writing post - test for match with any date (2013-10-03-project.markup)
+  unless (match = Dir.glob(File.join('../_posts/*')).grep(/\d*-\d*-\d*-#{project}\./)).empty?
+    puts "#{project} already exists: #{File.basename(match.first)}. Skipping."
+    next
+  end
   
-  # get global vars from first mp3
+  # get 'global' vars from first mp3
   audiofiles = Dir.glob(File.join(folder,'*.mp3'))
   mp3 = TagLib::FileRef.new audiofiles.first
   abort "Error in #{folder}" if mp3.tag.nil?
@@ -34,7 +41,6 @@ Dir.glob('../_website/**') do |folder|
   buy = mp3.tag.comment if mp3.tag.comment =~ /^#{URI::ABS_URI}$/ # check for valid URL
   mp3.close
 
-  
   # write post front matter
   postname = "../_posts/#{release.strftime("%Y-%m-%d")}-#{project}.markdown"
   File.open(postname, 'w') do |post|
@@ -55,7 +61,7 @@ eos
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
         tracks << {
-          href: Base64.encode64("#{POOL}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp,
+          href: Base64.encode64("#{SITE_URL}/#{MX_FOLDER}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp,
           title: mp3.tag.title.tr(':',''), 
           duration: Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
         }
