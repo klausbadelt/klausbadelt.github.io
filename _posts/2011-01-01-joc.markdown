@@ -7,54 +7,54 @@ categories: film
 buy: http://store.klausbadelt.com/album/jock-of-the-bushveld-original-motion-picture-soundtrack
 tracks:
  - title: Golden Country
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDEgR29sZGVuIENvdW50cnkubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzAxIEdvbGRlbiBDb3VudHJ5Lm1wMw==
    duration: 03:26
  - title: Way Oh
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDIgV2F5IE9oLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzAyIFdheSBPaC5tcDM=
    duration: 03:03
  - title: You Shouldn't of Done It
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDMgWW91IFNob3VsZG4ndCBvZiBEb25lIEl0Lm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzAzIFlvdSBTaG91bGRuJ3Qgb2YgRG9uZSBJdC5tcDM=
    duration: 01:30
  - title: Howling At The Moon
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDQgSG93bGluZyBBdCBUaGUgTW9vbi5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA0IEhvd2xpbmcgQXQgVGhlIE1vb24ubXAz
    duration: 01:43
  - title: Perfect Morning
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDUgUGVyZmVjdCBNb3JuaW5nLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA1IFBlcmZlY3QgTW9ybmluZy5tcDM=
    duration: 02:28
  - title: Hessian Blues
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDYgSGVzc2lhbiBCbHVlcy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA2IEhlc3NpYW4gQmx1ZXMubXAz
    duration: 01:49
  - title: Too Close To Call
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDcgVG9vIENsb3NlIFRvIENhbGwubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA3IFRvbyBDbG9zZSBUbyBDYWxsLm1wMw==
    duration: 03:57
  - title: By Your Side
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDggQnkgWW91ciBTaWRlLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA4IEJ5IFlvdXIgU2lkZS5tcDM=
    duration: 03:02
  - title: Camptown Races
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDkgQ2FtcHRvd24gUmFjZXMubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzA5IENhbXB0b3duIFJhY2VzLm1wMw==
    duration: 02:29
  - title: Adventure Begins
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTAgQWR2ZW50dXJlIEJlZ2lucy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzEwIEFkdmVudHVyZSBCZWdpbnMubXAz
    duration: 04:19
  - title: The Big Race
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTEgVGhlIEJpZyBSYWNlLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzExIFRoZSBCaWcgUmFjZS5tcDM=
    duration: 02:23
  - title: Hunting Leopard
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTIgSHVudGluZyBMZW9wYXJkLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzEyIEh1bnRpbmcgTGVvcGFyZC5tcDM=
    duration: 03:40
  - title: George Escapes Seedling
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTMgR2VvcmdlIEVzY2FwZXMgU2VlZGxpbmcubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzEzIEdlb3JnZSBFc2NhcGVzIFNlZWRsaW5nLm1wMw==
    duration: 01:51
  - title: Celebration
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTQgQ2VsZWJyYXRpb24ubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzE0IENlbGVicmF0aW9uLm1wMw==
    duration: 02:06
  - title: Too Close To Call (version 2)
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTUgVG9vIENsb3NlIFRvIENhbGwgKHZlcnNpb24gMikubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzE1IFRvbyBDbG9zZSBUbyBDYWxsICh2ZXJzaW9uIDIpLm1wMw==
    duration: 03:57
  - title: Howling At The Moon (version 2)
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTYgSG93bGluZyBBdCBUaGUgTW9vbiAodmVyc2lvbiAyKS5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzE2IEhvd2xpbmcgQXQgVGhlIE1vb24gKHZlcnNpb24gMikubXAz
    duration: 03:10
  - title: Golden Country (Radio Edit)
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTcgR29sZGVuIENvdW50cnkgKFJhZGlvIEVkaXQpLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvam9jLzE3IEdvbGRlbiBDb3VudHJ5IChSYWRpbyBFZGl0KS5tcDM=
    duration: 02:43
 ---

@@ -7,24 +7,24 @@ categories: film
 buy: https://itunes.apple.com/us/album/hannibal-original-motion-picture/id371624981
 tracks:
  - title: Valse Tartar
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVmFsc2UgVGFydGFyLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL1ZhbHNlIFRhcnRhci5tcDM=
    duration: 02:54
  - title: Allegra
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vQWxsZWdyYS5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL0FsbGVncmEubXAz
    duration: 02:10
  - title: Face Peeling
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vRmFjZSBQZWVsaW5nLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL0ZhY2UgUGVlbGluZy5tcDM=
    duration: 01:41
  - title: Valse Tartar alt
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVmFsc2UgVGFydGFyIGFsdC5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL1ZhbHNlIFRhcnRhciBhbHQubXAz
    duration: 09:04
  - title: The Awakening
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVGhlIEF3YWtlbmluZy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL1RoZSBBd2FrZW5pbmcubXAz
    duration: 02:12
  - title: Gourmet Valse
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vR291cm1ldCBWYWxzZS5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuL0dvdXJtZXQgVmFsc2UubXAz
    duration: 01:36
  - title: Gourmet Valse Tartare
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vMDQgR291cm1ldCBWYWxzZSBUYXJ0YXJlLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaGFuLzA0IEdvdXJtZXQgVmFsc2UgVGFydGFyZS5tcDM=
    duration: 06:50
 ---

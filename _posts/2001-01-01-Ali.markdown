@@ -7,9 +7,9 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Ali-no voc 
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9BbGkvQWxpLW5vIHZvYy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvQWxpL0FsaS1ubyB2b2MubXAz
    duration: 02:51
  - title: Liston Fight
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9BbGkvTGlzdG9uIEZpZ2h0Lm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvQWxpL0xpc3RvbiBGaWdodC5tcDM=
    duration: 02:55
 ---

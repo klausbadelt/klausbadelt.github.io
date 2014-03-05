@@ -7,18 +7,18 @@ categories: film
 buy: http://www.amazon.com/Miami-Vice/dp/B000GH3CWA
 tracks:
  - title: A-500
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvQS01MDAubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbWl2L0EtNTAwLm1wMw==
    duration: 02:34
  - title: Dope on a Rope
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvRG9wZSBvbiBhIFJvcGUubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbWl2L0RvcGUgb24gYSBSb3BlLm1wMw==
    duration: 01:36
  - title: One of These
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvT25lIG9mIFRoZXNlLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbWl2L09uZSBvZiBUaGVzZS5tcDM=
    duration: 03:57
  - title: Sonny Showers
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvU29ubnkgU2hvd2Vycy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbWl2L1Nvbm55IFNob3dlcnMubXAz
    duration: 01:01
  - title: Too Big For Your Skin
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvVG9vIEJpZyBGb3IgWW91ciBTa2luLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbWl2L1RvbyBCaWcgRm9yIFlvdXIgU2tpbi5tcDM=
    duration: 02:02
 ---

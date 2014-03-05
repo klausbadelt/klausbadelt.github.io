@@ -35,13 +35,8 @@ portfolio: grid
       <ol>
         {% for track in post.tracks %}
         <li>
-          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
-            {{ track.title | escape }}
-          </a>
-          &nbsp;
-          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes'>
-            <span class='glyphicon glyphicon-plus'>+</span>
-          </a>
+          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">{{ track.title | escape }}</a>&nbsp;<a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes'>
+            <span class='glyphicon glyphicon-plus'>+</span></a>
         </li>
         {% endfor %}
       </ul>
@@ -89,7 +84,7 @@ $(function(){
   // poster hover
   $('#portfolio .image').hover(function(){
     $(this).children('h3').fadeIn('fast');
-    $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',0.4);
+    $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',0.8);
     $(this).css('cursor','pointer');
     
   }, function(){
