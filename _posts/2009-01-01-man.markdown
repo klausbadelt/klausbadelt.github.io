@@ -1,0 +1,117 @@
+---
+layout: post
+title: "The Extra Man"
+poster: man.jpg
+date: 2009-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: 232 E. 91st
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vMjMyIEUuIDkxc3QubXAz
+   duration: 00:58
+ - title: Beautiful Dreamer
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vQmVhdXRpZnVsIERyZWFtZXIubXAz
+   duration: 00:32
+ - title: Brassiere Incident
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vQnJhc3NpZXJlIEluY2lkZW50Lm1wMw==
+   duration: 00:43
+ - title: Burglar
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vQnVyZ2xhci5tcDM=
+   duration: 00:18
+ - title: Daydream
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRGF5ZHJlYW0ubXAz
+   duration: 01:46
+ - title: Dreaming of Russia
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRHJlYW1pbmcgb2YgUnVzc2lhLm1wMw==
+   duration: 00:48
+ - title: Driving to SH
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRHJpdmluZyB0byBTSC5tcDM=
+   duration: 00:53
+ - title: Duck Girl
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRHVjayBHaXJsLm1wMw==
+   duration: 00:46
+ - title: End of First Day
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRW5kIG9mIEZpcnN0IERheS5tcDM=
+   duration: 00:29
+ - title: Fired
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRmlyZWQubXAz
+   duration: 01:24
+ - title: First Date
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vRmlyc3QgRGF0ZS5tcDM=
+   duration: 00:49
+ - title: Gatsby
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vR2F0c2J5Lm1wMw==
+   duration: 00:59
+ - title: Gershon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vR2Vyc2hvbi5tcDM=
+   duration: 00:35
+ - title: Henry Returns
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vSGVucnkgUmV0dXJucy5tcDM=
+   duration: 00:28
+ - title: Homeless Montage
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vSG9tZWxlc3MgTW9udGFnZS5tcDM=
+   duration: 02:19
+ - title: Kiss
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vS2lzcy5tcDM=
+   duration: 01:00
+ - title: Lagerfeld to Gallery 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vTGFnZXJmZWxkIHRvIEdhbGxlcnkubXAz
+   duration: 00:21
+ - title: Louis Car
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vTG91aXMgQ2FyLm1wMw==
+   duration: 00:41
+ - title: Louis Promotion
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vTG91aXMgUHJvbW90aW9uLm1wMw==
+   duration: 00:35
+ - title: Mary
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vTWFyeS5tcDM=
+   duration: 01:13
+ - title: Mirror, Mirror
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vTWlycm9yLCBNaXJyb3IubXAz
+   duration: 01:18
+ - title: Odd Henry Story
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vT2RkIEhlbnJ5IFN0b3J5Lm1wMw==
+   duration: 00:25
+ - title: Opera Entrance
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vT3BlcmEgRW50cmFuY2UubXAz
+   duration: 00:32
+ - title: Otto Bellman Pt1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vT3R0byBCZWxsbWFuIFB0MS5tcDM=
+   duration: 00:31
+ - title: Otto Bellman Pt2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vT3R0byBCZWxsbWFuIFB0Mi5tcDM=
+   duration: 00:38
+ - title: Pissing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vUGlzc2luZy5tcDM=
+   duration: 01:02
+ - title: Rejection
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vUmVqZWN0aW9uLm1wMw==
+   duration: 00:23
+ - title: Rice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vUmljZS5tcDM=
+   duration: 01:23
+ - title: Russian Tea Room 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vUnVzc2lhbiBUZWEgUm9vbSAyLm1wMw==
+   duration: 00:46
+ - title: Russian Tea Room
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vUnVzc2lhbiBUZWEgUm9vbS5tcDM=
+   duration: 00:46
+ - title: Somewhere My Love
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vU29tZXdoZXJlIE15IExvdmUubXAz
+   duration: 01:12
+ - title: Spankologist
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vU3BhbmtvbG9naXN0Lm1wMw==
+   duration: 00:53
+ - title: Toy Lion
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vVG95IExpb24ubXAz
+   duration: 00:36
+ - title: Vivian to Bed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vVml2aWFuIHRvIEJlZC5tcDM=
+   duration: 01:37
+ - title: Vivian's Funeral
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vVml2aWFuJ3MgRnVuZXJhbC5tcDM=
+   duration: 00:54
+ - title: Wallpaper
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9tYW4vV2FsbHBhcGVyLm1wMw==
+   duration: 01:38
+---

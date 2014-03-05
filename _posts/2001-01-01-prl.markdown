@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Pearl Harbor"
+poster: prl.jpg
+date: 2001-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/Pearl-Harbor-Martin-Tillman/dp/B00005JYBD
+tracks:
+ - title: 4M28B St Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvNE0yOEIgU3QgTWl4Lm1wMw==
+   duration: 00:57
+ - title: 4M34 St Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvNE0zNCBTdCBNaXgubXAz
+   duration: 02:00
+ - title: 4M35 St Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvNE0zNSBTdCBNaXgubXAz
+   duration: 01:54
+ - title: 6M46 AM St Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvNk00NiBBTSBTdCBNaXgubXAz
+   duration: 08:38
+ - title: 6M46rev.13 Mix
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvNk00NnJldi4xMyBNaXgubXAz
+   duration: 08:34
+ - title: Pearl Harbor Theme 1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvUGVhcmwgSGFyYm9yIFRoZW1lIDEubXAz
+   duration: 01:54
+ - title: Pearl Harbor Theme 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmwvUGVhcmwgSGFyYm9yIFRoZW1lIDIubXAz
+   duration: 02:51
+---

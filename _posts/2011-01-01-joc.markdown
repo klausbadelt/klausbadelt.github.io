@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Jock"
+poster: joc.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/jock-of-the-bushveld-original-motion-picture-soundtrack
+tracks:
+ - title: Golden Country
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDEgR29sZGVuIENvdW50cnkubXAz
+   duration: 03:26
+ - title: Way Oh
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDIgV2F5IE9oLm1wMw==
+   duration: 03:03
+ - title: You Shouldn't of Done It
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDMgWW91IFNob3VsZG4ndCBvZiBEb25lIEl0Lm1wMw==
+   duration: 01:30
+ - title: Howling At The Moon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDQgSG93bGluZyBBdCBUaGUgTW9vbi5tcDM=
+   duration: 01:43
+ - title: Perfect Morning
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDUgUGVyZmVjdCBNb3JuaW5nLm1wMw==
+   duration: 02:28
+ - title: Hessian Blues
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDYgSGVzc2lhbiBCbHVlcy5tcDM=
+   duration: 01:49
+ - title: Too Close To Call
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDcgVG9vIENsb3NlIFRvIENhbGwubXAz
+   duration: 03:57
+ - title: By Your Side
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDggQnkgWW91ciBTaWRlLm1wMw==
+   duration: 03:02
+ - title: Camptown Races
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMDkgQ2FtcHRvd24gUmFjZXMubXAz
+   duration: 02:29
+ - title: Adventure Begins
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTAgQWR2ZW50dXJlIEJlZ2lucy5tcDM=
+   duration: 04:19
+ - title: The Big Race
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTEgVGhlIEJpZyBSYWNlLm1wMw==
+   duration: 02:23
+ - title: Hunting Leopard
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTIgSHVudGluZyBMZW9wYXJkLm1wMw==
+   duration: 03:40
+ - title: George Escapes Seedling
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTMgR2VvcmdlIEVzY2FwZXMgU2VlZGxpbmcubXAz
+   duration: 01:51
+ - title: Celebration
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTQgQ2VsZWJyYXRpb24ubXAz
+   duration: 02:06
+ - title: Too Close To Call (version 2)
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTUgVG9vIENsb3NlIFRvIENhbGwgKHZlcnNpb24gMikubXAz
+   duration: 03:57
+ - title: Howling At The Moon (version 2)
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTYgSG93bGluZyBBdCBUaGUgTW9vbiAodmVyc2lvbiAyKS5tcDM=
+   duration: 03:10
+ - title: Golden Country (Radio Edit)
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9qb2MvMTcgR29sZGVuIENvdW50cnkgKFJhZGlvIEVkaXQpLm1wMw==
+   duration: 02:43
+---

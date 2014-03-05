@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Teknolust"
+poster: tek.jpg
+date: 2001-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Birth II v2 Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvQmlydGggSUkgdjIgTXgubXAz
+   duration: 07:08
+ - title: Birth II/Family Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvQmlydGggSUlfRmFtaWx5IE14Lm1wMw==
+   duration: 01:13
+ - title: Emergency v2 Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvRW1lcmdlbmN5IHYyIE14Lm1wMw==
+   duration: 02:33
+ - title: Out Of The Jungle Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvT3V0IE9mIFRoZSBKdW5nbGUgTXgubXAz
+   duration: 01:48
+ - title: Portal
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvUG9ydGFsLm1wMw==
+   duration: 01:09
+ - title: Ruby & Sandy Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvUnVieSAmIFNhbmR5IE14Lm1wMw==
+   duration: 02:01
+ - title: Sb to talk to
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvU2IgdG8gdGFsayB0by5tcDM=
+   duration: 01:06
+ - title: Seduction
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvU2VkdWN0aW9uLm1wMw==
+   duration: 03:09
+ - title: Soul v2 Mx
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvU291bCB2MiBNeC5tcDM=
+   duration: 02:25
+ - title: TL 1 demo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvVEwgMSBkZW1vLm1wMw==
+   duration: 01:09
+ - title: TL 4 demo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvVEwgNCBkZW1vLm1wMw==
+   duration: 01:03
+ - title: Victim
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvVmljdGltLm1wMw==
+   duration: 01:48
+ - title: Virus
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC90ZWsvVmlydXMubXAz
+   duration: 01:56
+---

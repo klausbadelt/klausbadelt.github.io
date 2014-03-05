@@ -1,0 +1,78 @@
+---
+layout: post
+title: "The Howling Reborn"
+poster: how.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Basement Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvQmFzZW1lbnQgQXR0YWNrLm1wMw==
+   duration: 01:23
+ - title: Bathroom Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvQmF0aHJvb20gRmlnaHQubXAz
+   duration: 03:00
+ - title: Building A Weapon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvQnVpbGRpbmcgQSBXZWFwb24ubXAz
+   duration: 01:41
+ - title: Building An Army
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvQnVpbGRpbmcgQW4gQXJteS5tcDM=
+   duration: 02:30
+ - title: Campus Lockdown
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvQ2FtcHVzIExvY2tkb3duLm1wMw==
+   duration: 02:25
+ - title: Elevator
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvRWxldmF0b3IubXAz
+   duration: 04:34
+ - title: Eliana's Choice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvRWxpYW5hJ3MgQ2hvaWNlLm1wMw==
+   duration: 02:06
+ - title: Eliana
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvRWxpYW5hLm1wMw==
+   duration: 01:26
+ - title: Graduation Dogs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvR3JhZHVhdGlvbiBEb2dzLm1wMw==
+   duration: 01:09
+ - title: Intro
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvSW50cm8ubXAz
+   duration: 04:22
+ - title: Killing A Father
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvS2lsbGluZyBBIEZhdGhlci5tcDM=
+   duration: 05:15
+ - title: Library Jump
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvTGlicmFyeSBKdW1wLm1wMw==
+   duration: 02:08
+ - title: Library Seduction
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvTGlicmFyeSBTZWR1Y3Rpb24ubXAz
+   duration: 05:57
+ - title: Mom Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvTW9tIEZpZ2h0Lm1wMw==
+   duration: 02:34
+ - title: Mom Reveals
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvTW9tIFJldmVhbHMubXAz
+   duration: 03:58
+ - title: Rescuing Eliana
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvUmVzY3VpbmcgRWxpYW5hLm1wMw==
+   duration: 01:29
+ - title: Researching Mom
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvUmVzZWFyY2hpbmcgTW9tLm1wMw==
+   duration: 00:54
+ - title: Roland
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvUm9sYW5kLm1wMw==
+   duration: 01:41
+ - title: Silver Ring
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvU2lsdmVyIFJpbmcubXAz
+   duration: 01:09
+ - title: Tell Me About Werewolves
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvVGVsbCBNZSBBYm91dCBXZXJld29sdmVzLm1wMw==
+   duration: 03:17
+ - title: The Werewolf Test
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvVGhlIFdlcmV3b2xmIFRlc3QubXAz
+   duration: 03:05
+ - title: Untitled Horror Project
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvVW50aXRsZWQgSG9ycm9yIFByb2plY3QubXAz
+   duration: 01:43
+ - title: You're The Alpha
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ob3cvWW91J3JlIFRoZSBBbHBoYS5tcDM=
+   duration: 01:52
+---

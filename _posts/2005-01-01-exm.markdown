@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Directors Cuts DCD019 Epic Choral"
+poster: exm.jpg
+date: 2005-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Doom Service
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDEgRG9vbSBTZXJ2aWNlLm1wMw==
+   duration: 03:03
+ - title: Hellstorm
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDIgSGVsbHN0b3JtLm1wMw==
+   duration: 02:31
+ - title: Deep Seize
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDMgRGVlcCBTZWl6ZS5tcDM=
+   duration: 02:06
+ - title: Dark Horse
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDUgRGFyayBIb3JzZS5tcDM=
+   duration: 02:06
+ - title: Door Of Destiny
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDYgRG9vciBPZiBEZXN0aW55Lm1wMw==
+   duration: 02:29
+ - title: Hammer & Tongs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDcgSGFtbWVyICYgVG9uZ3MubXAz
+   duration: 03:26
+ - title: Fourth Degree
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDggRm91cnRoIERlZ3JlZS5tcDM=
+   duration: 01:49
+ - title: Devil May Care
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMDkgRGV2aWwgTWF5IENhcmUubXAz
+   duration: 02:30
+ - title: Next Of Sin
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMTAgTmV4dCBPZiBTaW4ubXAz
+   duration: 02:02
+ - title: Crunch Moment
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leG0vMTEgQ3J1bmNoIE1vbWVudC5tcDM=
+   duration: 02:18
+---

@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Pirates of the Caribbean"
+poster: poc.jpg
+date: 2003-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/Pirates-Of-The-Caribbean-Curse/dp/B0000A1RJI
+tracks:

@@ -1,0 +1,57 @@
+---
+layout: post
+title: "The Pledge"
+poster: plg.jpg
+date: 2001-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/The-Pledge-Hans-Zimmer/dp/B00005RZU6
+tracks:
+ - title: The Angler
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDEgVGhlIEFuZ2xlci5tcDM=
+   duration: 05:24
+ - title: Boogie Man
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDIgQm9vZ2llIE1hbi5tcDM=
+   duration: 01:28
+ - title: Jerry & Lori
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDMgSmVycnkgJiBMb3JpLm1wMw==
+   duration: 01:01
+ - title: Church Nightmare
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDQgQ2h1cmNoIE5pZ2h0bWFyZS5tcDM=
+   duration: 02:19
+ - title: Revisit Crime Scene
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDUgUmV2aXNpdCBDcmltZSBTY2VuZS5tcDM=
+   duration: 01:16
+ - title: My Coat
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDYgTXkgQ29hdC5tcDM=
+   duration: 02:47
+ - title: The Wizard
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDcgVGhlIFdpemFyZC5tcDM=
+   duration: 04:06
+ - title: Ex Cop
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDggRXggQ29wLm1wMw==
+   duration: 01:50
+ - title: He'd Rather Not
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMDkgSGUnZCBSYXRoZXIgTm90Lm1wMw==
+   duration: 02:00
+ - title: Land Of Christmas
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTAgTGFuZCBPZiBDaHJpc3RtYXMubXAz
+   duration: 01:22
+ - title: Reading Stories
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTEgUmVhZGluZyBTdG9yaWVzLm1wMw==
+   duration: 03:02
+ - title: Turkeys
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTIgVHVya2V5cy5tcDM=
+   duration: 01:36
+ - title: The Pledge
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTMgVGhlIFBsZWRnZS5tcDM=
+   duration: 01:20
+ - title: The Swing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTQgVGhlIFN3aW5nLm1wMw==
+   duration: 02:20
+ - title: Ginny's Picture
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTUgR2lubnkncyBQaWN0dXJlLm1wMw==
+   duration: 02:31
+ - title: You're Crazy
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wbGcvMTYgWW91J3JlIENyYXp5Lm1wMw==
+   duration: 05:57
+---

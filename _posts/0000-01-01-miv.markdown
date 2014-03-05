@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Miami Vice"
+poster: miv.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/Miami-Vice/dp/B000GH3CWA
+tracks:
+ - title: A-500
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvQS01MDAubXAz
+   duration: 02:34
+ - title: Dope on a Rope
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvRG9wZSBvbiBhIFJvcGUubXAz
+   duration: 01:36
+ - title: One of These
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvT25lIG9mIFRoZXNlLm1wMw==
+   duration: 03:57
+ - title: Sonny Showers
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvU29ubnkgU2hvd2Vycy5tcDM=
+   duration: 01:01
+ - title: Too Big For Your Skin
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9taXYvVG9vIEJpZyBGb3IgWW91ciBTa2luLm1wMw==
+   duration: 02:02
+---

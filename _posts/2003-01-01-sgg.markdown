@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Something's Gotta Give"
+poster: sgg.jpg
+date: 2003-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: 5m01 Cut It Off
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zZ2cvNW0wMSBDdXQgSXQgT2ZmLm1wMw==
+   duration: 02:22
+ - title: 7m01
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9zZ2cvN20wMS5tcDM=
+   duration: 02:16
+---

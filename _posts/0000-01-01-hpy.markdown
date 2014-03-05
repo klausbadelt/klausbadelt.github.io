@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Happy People"
+poster: hpy.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Taiga Opening Titles
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDEgVGFpZ2EgT3BlbmluZyBUaXRsZXMubXAz
+   duration: 02:24
+ - title: Bear Marks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDIgQmVhciBNYXJrcy5tcDM=
+   duration: 03:03
+ - title: May 1st
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDMgTWF5IDFzdC5tcDM=
+   duration: 00:25
+ - title: Dolls
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDUgRG9sbHMubXAz
+   duration: 01:41
+ - title: Autumn
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDYgQXV0dW1uLm1wMw==
+   duration: 03:59
+ - title: Leaving For Winter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDcgTGVhdmluZyBGb3IgV2ludGVyLm1wMw==
+   duration: 02:27
+ - title: Gun Fishing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDggR3VuIEZpc2hpbmcubXAz
+   duration: 03:04
+ - title: Solitude
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMDkgU29saXR1ZGUubXAz
+   duration: 01:17
+ - title: Winter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMTAgV2ludGVyLm1wMw==
+   duration: 01:17
+ - title: A Trapper's Day
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMTEgQSBUcmFwcGVyJ3MgRGF5Lm1wMw==
+   duration: 03:24
+ - title: All Alone Again
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocHkvMTIgQWxsIEFsb25lIEFnYWluLm1wMw==
+   duration: 02:51
+---

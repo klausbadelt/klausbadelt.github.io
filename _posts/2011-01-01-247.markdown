@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Marco W."
+poster: 247.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/marco-w-original-score
+tracks:
+ - title: Opening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDEgT3BlbmluZy5tcDM=
+   duration: 01:12
+ - title: Media Frenzy
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDIgTWVkaWEgRnJlbnp5Lm1wMw==
+   duration: 01:38
+ - title: Photo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDMgUGhvdG8ubXAz
+   duration: 02:24
+ - title: Prison Yard
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDQgUHJpc29uIFlhcmQubXAz
+   duration: 01:49
+ - title: Taken To Doctor
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDUgVGFrZW4gVG8gRG9jdG9yLm1wMw==
+   duration: 02:13
+ - title: Alone With Her
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDYgQWxvbmUgV2l0aCBIZXIubXAz
+   duration: 01:27
+ - title: Newspaper
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDcgTmV3c3BhcGVyLm1wMw==
+   duration: 01:13
+ - title: First Visit
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDggRmlyc3QgVmlzaXQubXAz
+   duration: 01:27
+ - title: New Representative
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMDkgTmV3IFJlcHJlc2VudGF0aXZlLm1wMw==
+   duration: 00:46
+ - title: Through The Glass
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTAgVGhyb3VnaCBUaGUgR2xhc3MubXAz
+   duration: 01:25
+ - title: First Verdict
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTEgRmlyc3QgVmVyZGljdC5tcDM=
+   duration: 07:47
+ - title: Front Page
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTIgRnJvbnQgUGFnZS5tcDM=
+   duration: 00:44
+ - title: Packing
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTMgUGFja2luZy5tcDM=
+   duration: 03:04
+ - title: Nice To Meet You
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTQgTmljZSBUbyBNZWV0IFlvdS5tcDM=
+   duration: 01:02
+ - title: Letter Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTUgTGV0dGVyIEhvbWUubXAz
+   duration: 01:38
+ - title: Father's Plea
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTYgRmF0aGVyJ3MgUGxlYS5tcDM=
+   duration: 01:12
+ - title: Media
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTcgTWVkaWEubXAz
+   duration: 00:48
+ - title: Overdose
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTggT3ZlcmRvc2UubXAz
+   duration: 03:07
+ - title: Beaten
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMTkgQmVhdGVuLm1wMw==
+   duration: 03:39
+ - title: Abdullah
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMjAgQWJkdWxsYWgubXAz
+   duration: 01:35
+ - title: We Have Eachother
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMjEgV2UgSGF2ZSBFYWNob3RoZXIubXAz
+   duration: 02:47
+ - title: Free
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMjIgRnJlZS5tcDM=
+   duration: 02:17
+ - title: Van Ride
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMjMgVmFuIFJpZGUubXAz
+   duration: 01:22
+ - title: Together Again
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC8yNDcvMjQgVG9nZXRoZXIgQWdhaW4ubXAz
+   duration: 02:06
+---

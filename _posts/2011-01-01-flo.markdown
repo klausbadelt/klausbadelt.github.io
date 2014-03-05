@@ -1,0 +1,120 @@
+---
+layout: post
+title: "Floating Shadow"
+poster: flo.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Attempted Suicide
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vQXR0ZW1wdGVkIFN1aWNpZGUubXAz
+   duration: 02:01
+ - title: Awakening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vQXdha2VuaW5nLm1wMw==
+   duration: 01:29
+ - title: Blood Drip
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vQmxvb2QgRHJpcC5tcDM=
+   duration: 00:26
+ - title: Bridge
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vQnJpZGdlLm1wMw==
+   duration: 01:11
+ - title: Carring For Plant
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vQ2FycmluZyBGb3IgUGxhbnQubXAz
+   duration: 01:00
+ - title: Doll Story
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRG9sbCBTdG9yeS5tcDM=
+   duration: 03:33
+ - title: Drawing Straws Intro
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRHJhd2luZyBTdHJhd3MgSW50cm8ubXAz
+   duration: 00:37
+ - title: Drawing Straws
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRHJhd2luZyBTdHJhd3MubXAz
+   duration: 01:14
+ - title: Father Upset
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRmF0aGVyIFVwc2V0Lm1wMw==
+   duration: 02:03
+ - title: Father's Bed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRmF0aGVyJ3MgQmVkLm1wMw==
+   duration: 01:18
+ - title: Father's Shoes
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRmF0aGVyJ3MgU2hvZXMubXAz
+   duration: 01:18
+ - title: Final Swingset
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRmluYWwgU3dpbmdzZXQubXAz
+   duration: 04:29
+ - title: Full Moon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vRnVsbCBNb29uLm1wMw==
+   duration: 02:30
+ - title: Holding Hands
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vSG9sZGluZyBIYW5kcy5tcDM=
+   duration: 00:58
+ - title: Hypnotized
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vSHlwbm90aXplZC5tcDM=
+   duration: 02:23
+ - title: Killing Father
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vS2lsbGluZyBGYXRoZXIubXAz
+   duration: 01:10
+ - title: Killing Husband
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vS2lsbGluZyBIdXNiYW5kLm1wMw==
+   duration: 03:19
+ - title: Lipstick
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vTGlwc3RpY2subXAz
+   duration: 00:46
+ - title: Little Girl
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vTGl0dGxlIEdpcmwubXAz
+   duration: 03:30
+ - title: Main Title
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vTWFpbiBUaXRsZS5tcDM=
+   duration: 03:48
+ - title: Meeting Mother
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vTWVldGluZyBNb3RoZXIubXAz
+   duration: 00:50
+ - title: Noodles Flashback
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vTm9vZGxlcyBGbGFzaGJhY2subXAz
+   duration: 02:06
+ - title: Old Lady Died
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vT2xkIExhZHkgRGllZC5tcDM=
+   duration: 00:58
+ - title: opening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vb3BlbmluZy5tcDM=
+   duration: 01:51
+ - title: Pictures
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vUGljdHVyZXMubXAz
+   duration: 01:22
+ - title: Plant
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vUGxhbnQubXAz
+   duration: 01:47
+ - title: Rape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vUmFwZS5tcDM=
+   duration: 00:36
+ - title: Released
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vUmVsZWFzZWQubXAz
+   duration: 01:39
+ - title: Shower
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vU2hvd2VyLm1wMw==
+   duration: 01:22
+ - title: Stabbing Sting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vU3RhYmJpbmcgU3RpbmcubXAz
+   duration: 00:23
+ - title: Story about husband
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vU3RvcnkgYWJvdXQgaHVzYmFuZC5tcDM=
+   duration: 01:07
+ - title: Sunny Room
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vU3VubnkgUm9vbS5tcDM=
+   duration: 01:31
+ - title: Swingset
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vU3dpbmdzZXQubXAz
+   duration: 01:03
+ - title: Talk with Husband
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vVGFsayB3aXRoIEh1c2JhbmQubXAz
+   duration: 01:50
+ - title: The Record
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vVGhlIFJlY29yZC5tcDM=
+   duration: 00:44
+ - title: The Truth
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vVGhlIFRydXRoLm1wMw==
+   duration: 02:29
+ - title: Visiting Mum
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9mbG8vVmlzaXRpbmcgTXVtLm1wMw==
+   duration: 00:45
+---

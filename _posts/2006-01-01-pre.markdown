@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Premonition"
+poster: pre.jpg
+date: 2006-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/premonition-original-motion/id250825165
+tracks:
+ - title: Titles
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDEgVGl0bGVzLm1wMw==
+   duration: 01:12
+ - title: House Keys
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDIgSG91c2UgS2V5cy5tcDM=
+   duration: 02:29
+ - title: Linda's Day
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDMgTGluZGEncyBEYXkubXAz
+   duration: 01:41
+ - title: Death Notice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDQgRGVhdGggTm90aWNlLm1wMw==
+   duration: 02:08
+ - title: What's Wrong
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDUgV2hhdCdzIFdyb25nLm1wMw==
+   duration: 02:48
+ - title: 1st Evening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDYgMXN0IEV2ZW5pbmcubXAz
+   duration: 01:17
+ - title: Serving Platter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDcgU2VydmluZyBQbGF0dGVyLm1wMw==
+   duration: 01:22
+ - title: Shocking Morning
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDggU2hvY2tpbmcgTW9ybmluZy5tcDM=
+   duration: 02:15
+ - title: Crow's Blood
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMDkgQ3JvdydzIEJsb29kLm1wMw==
+   duration: 02:16
+ - title: Swingset Stitches
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTAgU3dpbmdzZXQgU3RpdGNoZXMubXAz
+   duration: 01:13
+ - title: Casket
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTEgQ2Fza2V0Lm1wMw==
+   duration: 00:48
+ - title: Funeral
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTIgRnVuZXJhbC5tcDM=
+   duration: 01:23
+ - title: Prescription
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTMgUHJlc2NyaXB0aW9uLm1wMw==
+   duration: 01:28
+ - title: Housecall
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTQgSG91c2VjYWxsLm1wMw==
+   duration: 02:03
+ - title: Shower Awakening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTUgU2hvd2VyIEF3YWtlbmluZy5tcDM=
+   duration: 03:09
+ - title: Yellow Pages
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTYgWWVsbG93IFBhZ2VzLm1wMw==
+   duration: 01:29
+ - title: Yellow Pages alt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTcgWWVsbG93IFBhZ2VzIGFsdC5tcDM=
+   duration: 01:29
+ - title: Broken Glass
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTggQnJva2VuIEdsYXNzLm1wMw==
+   duration: 02:21
+ - title: Broken Glass alt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMTkgQnJva2VuIEdsYXNzIGFsdC5tcDM=
+   duration: 01:42
+ - title: Calendar
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjAgQ2FsZW5kYXIubXAz
+   duration: 02:56
+ - title: Lake View
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjEgTGFrZSBWaWV3Lm1wMw==
+   duration: 01:31
+ - title: If I Let Jim Die
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjIgSWYgSSBMZXQgSmltIERpZS5tcDM=
+   duration: 02:38
+ - title: Finding Faith
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjMgRmluZGluZyBGYWl0aC5tcDM=
+   duration: 06:08
+ - title: Same Ol
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjQgU2FtZSBPbC5tcDM=
+   duration: 00:54
+ - title: Seduction
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjUgU2VkdWN0aW9uLm1wMw==
+   duration: 03:07
+ - title: Wednesday
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjYgV2VkbmVzZGF5Lm1wMw==
+   duration: 06:28
+ - title: O
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmUvMjcgTy5tcDM=
+   duration: 04:23
+---

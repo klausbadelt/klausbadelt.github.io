@@ -1,0 +1,57 @@
+---
+layout: post
+title: "The Prodigies"
+poster: prd.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/the-prodigies-soundtrack/id505858736
+tracks:
+ - title: Desperate City
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDIgRGVzcGVyYXRlIENpdHkubXAz
+   duration: 00:50
+ - title: Jimbo's Act
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDMgSmltYm8ncyBBY3QubXAz
+   duration: 02:37
+ - title: Bringing them in
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDQgQnJpbmdpbmcgdGhlbSBpbi5tcDM=
+   duration: 03:10
+ - title: Messages
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDUgTWVzc2FnZXMubXAz
+   duration: 02:24
+ - title: Bird
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDYgQmlyZC5tcDM=
+   duration: 01:25
+ - title: Killian Death
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDcgS2lsbGlhbiBEZWF0aC5tcDM=
+   duration: 01:48
+ - title: Show Idea
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDggU2hvdyBJZGVhLm1wMw==
+   duration: 01:54
+ - title: The Prodigies Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMDkgVGhlIFByb2RpZ2llcyBUaGVtZS5tcDM=
+   duration: 01:28
+ - title: Park Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTAgUGFyayBBdHRhY2subXAz
+   duration: 02:08
+ - title: Rape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTEgUmFwZS5tcDM=
+   duration: 03:14
+ - title: Are We Six
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTIgQXJlIFdlIFNpeC5tcDM=
+   duration: 05:11
+ - title: Jenkins Archive fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTQgSmVua2lucyBBcmNoaXZlIGZpZ2h0Lm1wMw==
+   duration: 01:09
+ - title: White House arrival
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTUgV2hpdGUgSG91c2UgYXJyaXZhbC5tcDM=
+   duration: 01:53
+ - title: Under Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTYgVW5kZXIgQXR0YWNrLm1wMw==
+   duration: 06:07
+ - title: Mister President
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTcgTWlzdGVyIFByZXNpZGVudC5tcDM=
+   duration: 05:23
+ - title: Prodigies ending theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcmQvMTggUHJvZGlnaWVzIGVuZGluZyB0aGVtZS5tcDM=
+   duration: 03:27
+---

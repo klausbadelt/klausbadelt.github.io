@@ -1,0 +1,39 @@
+---
+layout: post
+title: "K-19"
+poster: k19.jpg
+date: 2002-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/K-19-Widowmaker-Klaus-Badelt/dp/B00006AATU
+tracks:
+ - title: I. Fear - Largo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDEgSS4gRmVhciAtIExhcmdvLm1wMw==
+   duration: 04:03
+ - title: II. Fate - Adagio
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDIgSUkuIEZhdGUgLSBBZGFnaW8ubXAz
+   duration: 02:42
+ - title: III. War - Allegro
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDMgSUlJLiBXYXIgLSBBbGxlZ3JvLm1wMw==
+   duration: 03:39
+ - title: IV. Soul - Misterioso
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDQgSVYuIFNvdWwgLSBNaXN0ZXJpb3NvLm1wMw==
+   duration: 05:31
+ - title: Home
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDUgSG9tZS5tcDM=
+   duration: 04:01
+ - title: Heroes
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDYgSGVyb2VzLm1wMw==
+   duration: 08:21
+ - title: Journey
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDcgSm91cm5leS5tcDM=
+   duration: 13:12
+ - title: Capt. Alexi Vostrikov
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDggQ2FwdC4gQWxleGkgVm9zdHJpa292Lm1wMw==
+   duration: 02:05
+ - title: Missile Launch - The Rescue
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMDkgTWlzc2lsZSBMYXVuY2ggLSBUaGUgUmVzY3VlLm1wMw==
+   duration: 10:01
+ - title: Reunion
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9rMTkvMTEgUmV1bmlvbi5tcDM=
+   duration: 07:18
+---

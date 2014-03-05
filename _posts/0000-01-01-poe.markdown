@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Prince of Egypt"
+poster: poe.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/The-Prince-Of-Egypt-Soundtrack/dp/B00000DFTM
+tracks:
+ - title: Prince of Egypt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wb2UvUHJpbmNlIG9mIEVneXB0Lm1wMw==
+   duration: 01:00
+---

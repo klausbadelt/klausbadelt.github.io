@@ -1,0 +1,54 @@
+---
+layout: post
+title: "L'ordre et la morale"
+poster: llm.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/rebellion-lordre-et-la-morale
+tracks:
+ - title: Lawyer Gets Prepped
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vTGF3eWVyIEdldHMgUHJlcHBlZC5tcDM=
+   duration: 01:16
+ - title: Generals Meeting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vR2VuZXJhbHMgTWVldGluZy5tcDM=
+   duration: 01:43
+ - title: Fan alt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vRmFuIGFsdC5tcDM=
+   duration: 00:54
+ - title: Beginning of the End
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDEgQmVnaW5uaW5nIG9mIHRoZSBFbmQubXAz
+   duration: 01:24
+ - title: Flying
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDIgRmx5aW5nLm1wMw==
+   duration: 02:23
+ - title: Journey to Jungle
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDMgSm91cm5leSB0byBKdW5nbGUubXAz
+   duration: 02:47
+ - title: Reached the Beach
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDQgUmVhY2hlZCB0aGUgQmVhY2gubXAz
+   duration: 01:13
+ - title: Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDUgQXR0YWNrLm1wMw==
+   duration: 02:35
+ - title: Barbarie
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDYgQmFyYmFyaWUubXAz
+   duration: 02:28
+ - title: Captured
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDcgQ2FwdHVyZWQubXAz
+   duration: 01:50
+ - title: Fan 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDggRmFuLm1wMw==
+   duration: 01:00
+ - title: Busted 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDkgQnVzdGVkLm1wMw==
+   duration: 02:23
+ - title: Pre-Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTAgUHJlLUF0dGFjay5tcDM=
+   duration: 03:37
+ - title: Big Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTEgQmlnIEF0dGFjay5tcDM=
+   duration: 07:51
+ - title: Aftermath
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTIgQWZ0ZXJtYXRoLm1wMw==
+   duration: 05:03
+---

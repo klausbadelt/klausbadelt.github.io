@@ -1,0 +1,15 @@
+---
+layout: post
+title: "The Hunger"
+poster: hun.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Hunger End
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9odW4vSHVuZ2VyIEVuZC5tcDM=
+   duration: 01:02
+ - title: Shooting 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9odW4vU2hvb3RpbmcubXAz
+   duration: 01:12
+---

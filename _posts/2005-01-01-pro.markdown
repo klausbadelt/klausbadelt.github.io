@@ -1,0 +1,69 @@
+---
+layout: post
+title: "The Promise"
+poster: pro.jpg
+date: 2005-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Freedom of the Wa
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDEgRnJlZWRvbSBvZiB0aGUgV2EubXAz
+   duration: 02:35
+ - title: Wuji-Main Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDIgV3VqaS1NYWluIFRoZW1lLm1wMw==
+   duration: 03:41
+ - title: Love Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDMgTG92ZSBUaGVtZS5tcDM=
+   duration: 02:11
+ - title: Kunlun, the Slave
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDQgS3VubHVuLCB0aGUgU2xhdmUubXAz
+   duration: 01:45
+ - title: Qingcheng, the Princess
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDUgUWluZ2NoZW5nLCB0aGUgUHJpbmNlc3MubXAz
+   duration: 01:18
+ - title: Guangming, the General
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDYgR3VhbmdtaW5nLCB0aGUgR2VuZXJhbC5tcDM=
+   duration: 01:03
+ - title: Wuhuan, the Duke
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDcgV3VodWFuLCB0aGUgRHVrZS5tcDM=
+   duration: 01:49
+ - title: Princess Kite
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDggUHJpbmNlc3MgS2l0ZS5tcDM=
+   duration: 05:01
+ - title: The Promise
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMDkgVGhlIFByb21pc2UubXAz
+   duration: 05:19
+ - title: Snow Country
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTAgU25vdyBDb3VudHJ5Lm1wMw==
+   duration: 04:26
+ - title: The Robe
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTEgVGhlIFJvYmUubXAz
+   duration: 08:02
+ - title: Save the King
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTIgU2F2ZSB0aGUgS2luZy5tcDM=
+   duration: 03:57
+ - title: Guilang, the Assassin
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTMgR3VpbGFuZywgdGhlIEFzc2Fzc2luLm1wMw==
+   duration: 02:21
+ - title: Saving a Princess
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTQgU2F2aW5nIGEgUHJpbmNlc3MubXAz
+   duration: 03:16
+ - title: Feather Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTUgRmVhdGhlciBGaWdodC5tcDM=
+   duration: 02:00
+ - title: Waterfall
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTYgV2F0ZXJmYWxsLm1wMw==
+   duration: 02:42
+ - title: Stampede
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTcgU3RhbXBlZGUubXAz
+   duration: 04:44
+ - title: Come Back
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTggQ29tZSBCYWNrLm1wMw==
+   duration: 04:26
+ - title: Birdcage
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMTkgQmlyZGNhZ2UubXAz
+   duration: 01:52
+ - title: Wuhuan's Plan
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9wcm8vMjAgV3VodWFuJ3MgUGxhbi5tcDM=
+   duration: 10:20
+---

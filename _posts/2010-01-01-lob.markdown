@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Entre Lobos"
+poster: lob.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: 1m1 1.15
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW0xIDEuMTUubXAz
+   duration: 02:10
+ - title: 1m1a 1.10
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW0xYSAxLjEwLm1wMw==
+   duration: 00:43
+ - title: 1m2 1.10
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW0yIDEuMTAubXAz
+   duration: 02:32
+ - title: 1m3 1.13
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW0zIDEuMTMubXAz
+   duration: 01:00
+ - title: 1m4 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW00IDEuOS5tcDM=
+   duration: 01:18
+ - title: 1m5 1.12
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW01IDEuMTIubXAz
+   duration: 01:24
+ - title: 1m6 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMW02IDEuNi5tcDM=
+   duration: 00:46
+ - title: 2m10 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm0xMCAxLjkubXAz
+   duration: 00:37
+ - title: 2m11 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm0xMSAxLjkubXAz
+   duration: 00:36
+ - title: 2m12 1.7
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm0xMiAxLjcubXAz
+   duration: 00:43
+ - title: 2m7 1.10
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm03IDEuMTAubXAz
+   duration: 01:22
+ - title: 2m8 1.8
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm04IDEuOC5tcDM=
+   duration: 00:43
+ - title: 2m9 1.12
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvMm05IDEuMTIubXAz
+   duration: 02:26
+ - title: 3m13 1.17
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xMyAxLjE3Lm1wMw==
+   duration: 01:54
+ - title: 3m13 alt 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xMyBhbHQgMS42Lm1wMw==
+   duration: 01:55
+ - title: 3m13a 1.5
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xM2EgMS41Lm1wMw==
+   duration: 00:53
+ - title: 3m14 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xNCAxLjYubXAz
+   duration: 00:47
+ - title: 3m15 1.8
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xNSAxLjgubXAz
+   duration: 01:12
+ - title: 3m16a 1.4
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xNmEgMS40Lm1wMw==
+   duration: 00:57
+ - title: 3m16b 1.20
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xNmIgMS4yMC5tcDM=
+   duration: 02:11
+ - title: 3m17 1.7
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xNyAxLjcubXAz
+   duration: 01:17
+ - title: 3m18 1.4
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xOCAxLjQubXAz
+   duration: 01:30
+ - title: 3m19 1.3
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvM20xOSAxLjMubXAz
+   duration: 00:40
+ - title: 4m20 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yMCAxLjkubXAz
+   duration: 01:50
+ - title: 4m21 1.14
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yMSAxLjE0Lm1wMw==
+   duration: 03:44
+ - title: 4m22 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yMiAxLjYubXAz
+   duration: 00:59
+ - title: 4m23 1.15
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yMyAxLjE1Lm1wMw==
+   duration: 01:13
+ - title: 4m24 1.11
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yNCAxLjExLm1wMw==
+   duration: 01:40
+ - title: 4m24b 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNG0yNGIgMS45Lm1wMw==
+   duration: 00:57
+ - title: 5m25 1.10
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0yNSAxLjEwLm1wMw==
+   duration: 02:48
+ - title: 5m25a 1.6
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0yNWEgMS42Lm1wMw==
+   duration: 01:03
+ - title: 5m26 1.9
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0yNiAxLjkubXAz
+   duration: 03:28
+ - title: 5m27 1.14
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0yNyAxLjE0Lm1wMw==
+   duration: 01:53
+ - title: 5m28 1.13
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0yOCAxLjEzLm1wMw==
+   duration: 01:49
+ - title: 5m30 1.14
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0zMCAxLjE0Lm1wMw==
+   duration: 02:49
+ - title: 5m31 1.8
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNW0zMSAxLjgubXAz
+   duration: 01:29
+ - title: 6m32 1.8
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNm0zMiAxLjgubXAz
+   duration: 00:58
+ - title: 6m33 1.15
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNm0zMyAxLjE1Lm1wMw==
+   duration: 01:07
+ - title: 6m34 1.10
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNm0zNCAxLjEwLm1wMw==
+   duration: 02:31
+ - title: 6m35 1.13
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNm0zNSAxLjEzLm1wMw==
+   duration: 01:15
+ - title: 6m36 1.13
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sb2IvNm0zNiAxLjEzLm1wMw==
+   duration: 02:54
+---

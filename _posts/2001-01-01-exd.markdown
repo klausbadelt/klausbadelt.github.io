@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Extreme Days"
+poster: exd.jpg
+date: 2001-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/Extreme-Days-Various-Artists/dp/B0000589VA
+tracks:
+ - title: Jessie And Brian
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9leGQvMTcgSmVzc2llIEFuZCBCcmlhbi5tcDM=
+   duration: 04:39
+---

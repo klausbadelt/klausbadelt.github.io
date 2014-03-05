@@ -1,0 +1,144 @@
+---
+layout: post
+title: "Lilly The Witch"
+poster: hex.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/hexe-lilli-die-reise-nach-mandolan-original-score
+tracks:
+ - title: Adults Hypnotized
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQWR1bHRzIEh5cG5vdGl6ZWQubXAz
+   duration: 02:07
+ - title: Biking To School
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQmlraW5nIFRvIFNjaG9vbC5tcDM=
+   duration: 00:47
+ - title: Blueprints
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQmx1ZXByaW50cy5tcDM=
+   duration: 01:31
+ - title: Book Flies
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQm9vayBGbGllcy5tcDM=
+   duration: 00:52
+ - title: Book Flying 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQm9vayBGbHlpbmcgMi5tcDM=
+   duration: 00:11
+ - title: Book Flying 3
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQm9vayBGbHlpbmcgMy5tcDM=
+   duration: 00:16
+ - title: Book for Brother
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQm9vayBmb3IgQnJvdGhlci5tcDM=
+   duration: 01:50
+ - title: Building the Device
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQnVpbGRpbmcgdGhlIERldmljZS5tcDM=
+   duration: 03:07
+ - title: Climbing the Wall
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQ2xpbWJpbmcgdGhlIFdhbGwubXAz
+   duration: 01:06
+ - title: Collecting Socks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQ29sbGVjdGluZyBTb2Nrcy5tcDM=
+   duration: 00:50
+ - title: Convenient Sneeze
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvQ29udmVuaWVudCBTbmVlemUubXAz
+   duration: 02:25
+ - title: Discovering Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvRGlzY292ZXJpbmcgQm9vay5tcDM=
+   duration: 01:17
+ - title: Donkey Tails
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvRG9ua2V5IFRhaWxzLm1wMw==
+   duration: 01:18
+ - title: Eating Fly
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvRWF0aW5nIEZseS5tcDM=
+   duration: 00:53
+ - title: Girl and Dog
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvR2lybCBhbmQgRG9nLm1wMw==
+   duration: 00:56
+ - title: Going Live
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvR29pbmcgTGl2ZS5tcDM=
+   duration: 01:58
+ - title: Hieronymus Arrives
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSGllcm9ueW11cyBBcnJpdmVzLm1wMw==
+   duration: 00:31
+ - title: Hironymus In Love
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSGlyb255bXVzIEluIExvdmUubXAz
+   duration: 02:06
+ - title: Hironymus Waltz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSGlyb255bXVzIFdhbHR6Lm1wMw==
+   duration: 01:47
+ - title: Hypnotizing Alfred
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSHlwbm90aXppbmcgQWxmcmVkLm1wMw==
+   duration: 01:11
+ - title: In Love Pt 2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSW4gTG92ZSBQdCAyLm1wMw==
+   duration: 01:07
+ - title: In Love With Lilly
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvSW4gTG92ZSBXaXRoIExpbGx5Lm1wMw==
+   duration: 00:41
+ - title: Kitchen Mission
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvS2l0Y2hlbiBNaXNzaW9uLm1wMw==
+   duration: 01:08
+ - title: Learning to Fly
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTGVhcm5pbmcgdG8gRmx5Lm1wMw==
+   duration: 00:56
+ - title: Lilly No Piano
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTGlsbHkgTm8gUGlhbm8ubXAz
+   duration: 01:36
+ - title: Look Into My Eye
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTG9vayBJbnRvIE15IEV5ZS5tcDM=
+   duration: 01:27
+ - title: Magic Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTWFnaWMgQm9vay5tcDM=
+   duration: 00:54
+ - title: Mom Hypnotized
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTW9tIEh5cG5vdGl6ZWQubXAz
+   duration: 00:49
+ - title: Monkeys!
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTW9ua2V5cyEubXAz
+   duration: 02:23
+ - title: New House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTmV3IEhvdXNlLm1wMw==
+   duration: 01:17
+ - title: No Escape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvTm8gRXNjYXBlLm1wMw==
+   duration: 02:01
+ - title: Recon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvUmVjb24ubXAz
+   duration: 00:38
+ - title: Recovering the Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvUmVjb3ZlcmluZyB0aGUgQm9vay5tcDM=
+   duration: 01:39
+ - title: Reunions
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvUmV1bmlvbnMubXAz
+   duration: 01:40
+ - title: Rolling House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvUm9sbGluZyBIb3VzZS5tcDM=
+   duration: 03:34
+ - title: Sabotage
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU2Fib3RhZ2UubXAz
+   duration: 01:07
+ - title: Spooky House
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3Bvb2t5IEhvdXNlLm1wMw==
+   duration: 02:41
+ - title: Stealing the Book
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3RlYWxpbmcgdGhlIEJvb2subXAz
+   duration: 02:03
+ - title: Stealth Mission
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3RlYWx0aCBNaXNzaW9uLm1wMw==
+   duration: 02:55
+ - title: Super Witch
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3VwZXIgV2l0Y2gubXAz
+   duration: 01:49
+ - title: Surulunda Arrives
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3VydWx1bmRhIEFycml2ZXMubXAz
+   duration: 01:06
+ - title: Surulunda's Story
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvU3VydWx1bmRhJ3MgU3RvcnkubXAz
+   duration: 02:14
+ - title: The Witch
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvVGhlIFdpdGNoLm1wMw==
+   duration: 01:56
+ - title: Water Room
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvV2F0ZXIgUm9vbS5tcDM=
+   duration: 02:04
+ - title: Where Am I
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oZXgvV2hlcmUgQW0gSS5tcDM=
+   duration: 00:47
+---

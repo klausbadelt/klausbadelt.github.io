@@ -1,0 +1,75 @@
+---
+layout: post
+title: "L'Arnacoeur (Heartbreaker)"
+poster: hrt.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com/album/larnacoeur-original-score
+tracks:
+ - title: Love Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDEgTG92ZSBUaGVtZS5tcDM=
+   duration: 01:51
+ - title: Bodyguard
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDIgQm9keWd1YXJkLm1wMw==
+   duration: 01:07
+ - title: Juliette's Theme
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDMgSnVsaWV0dGUncyBUaGVtZS5tcDM=
+   duration: 00:42
+ - title: Going For A Ride
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDQgR29pbmcgRm9yIEEgUmlkZS5tcDM=
+   duration: 00:30
+ - title: Bicycle Chase
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDUgQmljeWNsZSBDaGFzZS5tcDM=
+   duration: 02:07
+ - title: Rapproachment
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDYgUmFwcHJvYWNobWVudC5tcDM=
+   duration: 01:44
+ - title: Plane to Vegas
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDcgUGxhbmUgdG8gVmVnYXMubXAz
+   duration: 03:27
+ - title: Beginning to Fall
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDggQmVnaW5uaW5nIHRvIEZhbGwubXAz
+   duration: 00:32
+ - title: Spying Bums
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMDkgU3B5aW5nIEJ1bXMubXAz
+   duration: 01:09
+ - title: Carjacking
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTAgQ2FyamFja2luZy5tcDM=
+   duration: 01:01
+ - title: Wedding Dress
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTEgV2VkZGluZyBEcmVzcy5tcDM=
+   duration: 00:52
+ - title: Monaco
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTIgTW9uYWNvLm1wMw==
+   duration: 01:10
+ - title: Don't Cry
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTMgRG9uJ3QgQ3J5Lm1wMw==
+   duration: 00:50
+ - title: Debts
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTQgRGVidHMubXAz
+   duration: 01:12
+ - title: Near Kiss
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTUgTmVhciBLaXNzLm1wMw==
+   duration: 00:56
+ - title: Nuts
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTYgTnV0cy5tcDM=
+   duration: 00:55
+ - title: Matteo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTcgTWF0dGVvLm1wMw==
+   duration: 00:40
+ - title: Two of Us
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTggVHdvIG9mIFVzLm1wMw==
+   duration: 00:46
+ - title: Digging in the Dirt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMTkgRGlnZ2luZyBpbiB0aGUgRGlydC5tcDM=
+   duration: 01:03
+ - title: Desert Village
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMjAgRGVzZXJ0IFZpbGxhZ2UubXAz
+   duration: 00:44
+ - title: Dunes
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMjEgRHVuZXMubXAz
+   duration: 00:52
+ - title: Elevator
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9ocnQvMjIgRWxldmF0b3IubXAz
+   duration: 01:04
+---

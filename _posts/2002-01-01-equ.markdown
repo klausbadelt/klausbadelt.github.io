@@ -1,0 +1,153 @@
+---
+layout: post
+title: "Equilibrium"
+poster: equ.jpg
+date: 2002-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Dimension Film Logo
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDEgRGltZW5zaW9uIEZpbG0gTG9nby5tcDM=
+   duration: 00:12
+ - title: Propaganda Show
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDIgUHJvcGFnYW5kYSBTaG93Lm1wMw==
+   duration: 01:18
+ - title: First Raid
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDMgRmlyc3QgUmFpZC5tcDM=
+   duration: 01:49
+ - title: Smash Door
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDQgU21hc2ggRG9vci5tcDM=
+   duration: 00:45
+ - title: Dead Bodies/ Mona Lisa
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDUgRGVhZCBCb2RpZXNfIE1vbmEgTGlzYS5tcDM=
+   duration: 02:10
+ - title: Enter Libria
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDYgRW50ZXIgTGlicmlhLm1wMw==
+   duration: 02:48
+ - title: 9/10/11 Execution
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDcgOV8xMF8xMSBFeGVjdXRpb24ubXAz
+   duration: 05:07
+ - title: Enter Brandt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDggRW50ZXIgQnJhbmR0Lm1wMw==
+   duration: 00:29
+ - title: Uncompromising
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMDkgVW5jb21wcm9taXNpbmcubXAz
+   duration: 00:21
+ - title: Empty Bed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTAgRW1wdHkgQmVkLm1wMw==
+   duration: 00:57
+ - title: Dream #1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTEgRHJlYW0gIzEubXAz
+   duration: 00:59
+ - title: No Dose
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTIgTm8gRG9zZS5tcDM=
+   duration: 00:46
+ - title: Mary Busted
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTMgTWFyeSBCdXN0ZWQubXAz
+   duration: 02:28
+ - title: Mary's Nostalgia Room
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTQgTWFyeSdzIE5vc3RhbGdpYSBSb29tLm1wMw==
+   duration: 02:04
+ - title: 1st Mary Interrogation
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTUgMXN0IE1hcnkgSW50ZXJyb2dhdGlvbi5tcDM=
+   duration: 01:05
+ - title: Gun Kata Training
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTYgR3VuIEthdGEgVHJhaW5pbmcubXAz
+   duration: 00:44
+ - title: 2nd Missed Dose
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTcgMm5kIE1pc3NlZCBEb3NlLm1wMw==
+   duration: 00:51
+ - title: Sunrise
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTggU3VucmlzZS5tcDM=
+   duration: 03:30
+ - title: Rearrange Desk
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMTkgUmVhcnJhbmdlIERlc2subXAz
+   duration: 01:15
+ - title: Nether Raid
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjAgTmV0aGVyIFJhaWQubXAz
+   duration: 02:11
+ - title: Canina Purina
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjEgQ2FuaW5hIFB1cmluYS5tcDM=
+   duration: 01:50
+ - title: Call It Faith
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjIgQ2FsbCBJdCBGYWl0aC5tcDM=
+   duration: 01:03
+ - title: Seashell And Lace
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjMgU2Vhc2hlbGwgQW5kIExhY2UubXAz
+   duration: 01:32
+ - title: Into The Trap
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjQgSW50byBUaGUgVHJhcC5tcDM=
+   duration: 00:30
+ - title: Sweeper Slaughter
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjUgU3dlZXBlciBTbGF1Z2h0ZXIubXAz
+   duration: 03:21
+ - title: Hiding Place
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjYgSGlkaW5nIFBsYWNlLm1wMw==
+   duration: 01:08
+ - title: Kata Sticks
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjcgS2F0YSBTdGlja3MubXAz
+   duration: 02:32
+ - title: Factory Raid
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjggRmFjdG9yeSBSYWlkLm1wMw==
+   duration: 00:31
+ - title: Escape
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMjkgRXNjYXBlLm1wMw==
+   duration: 02:29
+ - title: Gun Trade
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzAgR3VuIFRyYWRlLm1wMw==
+   duration: 00:42
+ - title: Resistance Sacrifice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzEgUmVzaXN0YW5jZSBTYWNyaWZpY2UubXAz
+   duration: 01:38
+ - title: Photograph
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzIgUGhvdG9ncmFwaC5tcDM=
+   duration: 02:09
+ - title: Library
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzMgTGlicmFyeS5tcDM=
+   duration: 02:38
+ - title: Joins The Cause
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzQgSm9pbnMgVGhlIENhdXNlLm1wMw==
+   duration: 01:40
+ - title: What Can I Do?
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzUgV2hhdCBDYW4gSSBEb18ubXAz
+   duration: 02:34
+ - title: Stash
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzYgU3Rhc2gubXAz
+   duration: 00:42
+ - title: What'll You Do?
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzcgV2hhdCdsbCBZb3UgRG9fLm1wMw==
+   duration: 01:06
+ - title: Save Mary/Mary Burns
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzggU2F2ZSBNYXJ5X01hcnkgQnVybnMubXAz
+   duration: 05:12
+ - title: Brandt Drags Preston
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvMzkgQnJhbmR0IERyYWdzIFByZXN0b24ubXAz
+   duration: 01:16
+ - title: I'm Not Feeling
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDAgSSdtIE5vdCBGZWVsaW5nLm1wMw==
+   duration: 00:48
+ - title: Searching Preston's Apt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDEgU2VhcmNoaW5nIFByZXN0b24ncyBBcHQubXAz
+   duration: 01:38
+ - title: The Setup
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDIgVGhlIFNldHVwLm1wMw==
+   duration: 02:13
+ - title: Father
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDMgRmF0aGVyLm1wMw==
+   duration: 01:46
+ - title: Hall Of Mirrors
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDQgSGFsbCBPZiBNaXJyb3JzLm1wMw==
+   duration: 01:40
+ - title: Swordfight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDUgU3dvcmRmaWdodC5tcDM=
+   duration: 00:48
+ - title: Sushi
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDYgU3VzaGkubXAz
+   duration: 00:20
+ - title: Victory pt1
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDcgVmljdG9yeSBwdDEubXAz
+   duration: 01:56
+ - title: Victory pt2
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9lcXUvNDggVmljdG9yeSBwdDIubXAz
+   duration: 02:07
+---

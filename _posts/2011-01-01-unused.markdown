@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Crystal of Hope"
+poster: unused.jpg
+date: 2011-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Crystal of Hope
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC91bnVzZWQvQ3J5c3RhbCBvZiBIb3BlLm1wMw==
+   duration: 06:24
+ - title: Fire
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC91bnVzZWQvZmlyZS5tcDM=
+   duration: 11:11
+---

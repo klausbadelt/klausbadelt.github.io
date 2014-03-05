@@ -1,0 +1,12 @@
+---
+layout: post
+title: "The Others"
+poster: oth.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: http://www.amazon.com/The-Others-Original-Motion-Picture/dp/B00005NBYS
+tracks:
+ - title: The Others
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9vdGgvVGhlIE90aGVycy5tcDM=
+   duration: 01:01
+---

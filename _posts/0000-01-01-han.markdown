@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Hannibal"
+poster: han.jpg
+date: 0000-01-01 00:00:00 -0800
+categories: film
+buy: https://itunes.apple.com/us/album/hannibal-original-motion-picture/id371624981
+tracks:
+ - title: Valse Tartar
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVmFsc2UgVGFydGFyLm1wMw==
+   duration: 02:54
+ - title: Allegra
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vQWxsZWdyYS5tcDM=
+   duration: 02:10
+ - title: Face Peeling
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vRmFjZSBQZWVsaW5nLm1wMw==
+   duration: 01:41
+ - title: Valse Tartar alt
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVmFsc2UgVGFydGFyIGFsdC5tcDM=
+   duration: 09:04
+ - title: The Awakening
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vVGhlIEF3YWtlbmluZy5tcDM=
+   duration: 02:12
+ - title: Gourmet Valse
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vR291cm1ldCBWYWxzZS5tcDM=
+   duration: 01:36
+ - title: Gourmet Valse Tartare
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9oYW4vMDQgR291cm1ldCBWYWxzZSBUYXJ0YXJlLm1wMw==
+   duration: 06:50
+---
