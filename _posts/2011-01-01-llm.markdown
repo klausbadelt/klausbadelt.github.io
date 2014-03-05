@@ -7,48 +7,48 @@ categories: film
 buy: http://store.klausbadelt.com/album/rebellion-lordre-et-la-morale
 tracks:
  - title: Lawyer Gets Prepped
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vTGF3eWVyIEdldHMgUHJlcHBlZC5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtL0xhd3llciBHZXRzIFByZXBwZWQubXAz
    duration: 01:16
  - title: Generals Meeting
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vR2VuZXJhbHMgTWVldGluZy5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtL0dlbmVyYWxzIE1lZXRpbmcubXAz
    duration: 01:43
  - title: Fan alt
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vRmFuIGFsdC5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtL0ZhbiBhbHQubXAz
    duration: 00:54
  - title: Beginning of the End
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDEgQmVnaW5uaW5nIG9mIHRoZSBFbmQubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzAxIEJlZ2lubmluZyBvZiB0aGUgRW5kLm1wMw==
    duration: 01:24
  - title: Flying
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDIgRmx5aW5nLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzAyIEZseWluZy5tcDM=
    duration: 02:23
  - title: Journey to Jungle
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDMgSm91cm5leSB0byBKdW5nbGUubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzAzIEpvdXJuZXkgdG8gSnVuZ2xlLm1wMw==
    duration: 02:47
  - title: Reached the Beach
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDQgUmVhY2hlZCB0aGUgQmVhY2gubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA0IFJlYWNoZWQgdGhlIEJlYWNoLm1wMw==
    duration: 01:13
  - title: Attack
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDUgQXR0YWNrLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA1IEF0dGFjay5tcDM=
    duration: 02:35
  - title: Barbarie
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDYgQmFyYmFyaWUubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA2IEJhcmJhcmllLm1wMw==
    duration: 02:28
  - title: Captured
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDcgQ2FwdHVyZWQubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA3IENhcHR1cmVkLm1wMw==
    duration: 01:50
  - title: Fan 
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDggRmFuLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA4IEZhbi5tcDM=
    duration: 01:00
  - title: Busted 
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMDkgQnVzdGVkLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzA5IEJ1c3RlZC5tcDM=
    duration: 02:23
  - title: Pre-Attack
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTAgUHJlLUF0dGFjay5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzEwIFByZS1BdHRhY2subXAz
    duration: 03:37
  - title: Big Attack
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTEgQmlnIEF0dGFjay5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzExIEJpZyBBdHRhY2subXAz
    duration: 07:51
  - title: Aftermath
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9sbG0vMTIgQWZ0ZXJtYXRoLm1wMw==
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbGxtLzEyIEFmdGVybWF0aC5tcDM=
    duration: 05:03
 ---

@@ -305,9 +305,6 @@ main {
   width: 310px;
 }
 
-.thumb img {
-}
-
 .thumb img.lazy {
   visibility: hidden;
   width: 100%;
@@ -343,13 +340,13 @@ main {
 
 .thumb .caption {
   display: none;
-  border: 1px solid #333;
+/*  border: 1px solid #333; */
   border-top: none;
   padding: 0 16px;
 }
 
 .thumb .buybtn {
-  margin: 0;
+/*  margin: 0;*/
 }
 
 .thumb p.btn {
@@ -378,7 +375,8 @@ main {
 }
 
 .thumb .caption ol li a {
-  color: #bbb;
+/*  color: #bbb;
+*/
   font-size: 16px;
 }
 

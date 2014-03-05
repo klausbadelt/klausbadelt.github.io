@@ -7,9 +7,9 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Hunger End
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9odW4vSHVuZ2VyIEVuZC5tcDM=
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaHVuL0h1bmdlciBFbmQubXAz
    duration: 01:02
  - title: Shooting 
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9odW4vU2hvb3RpbmcubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvaHVuL1Nob290aW5nLm1wMw==
    duration: 01:12
 ---

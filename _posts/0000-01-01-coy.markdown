@@ -7,9 +7,9 @@ categories: film
 buy: http://www.amazon.com/Coyote-Ugly-Various-Artists-Soundtrack/dp/B00004W1OR
 tracks:
  - title: Birthday
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3kvQmlydGhkYXkubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY295L0JpcnRoZGF5Lm1wMw==
    duration: 02:23
  - title: Coyote ugly
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LWNvbS9teC9jb3kvQ295b3RlIHVnbHkubXAz
+   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY295L0NveW90ZSB1Z2x5Lm1wMw==
    duration: 03:26
 ---

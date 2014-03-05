@@ -5,8 +5,9 @@ require 'uri'
 
 SITE_BUCKET = 'klausbadelt-com'
 SITE_URL = 'https://s3.amazonaws.com/' + SITE_BUCKET
+
 MX_BUCKET = 'klausbadelt-pool'
-MX_URL = 'https://s3.amazonaws.com/' + MX_BUCKET
+MX_URL = 'd1l2jfi73qwuu8.cloudfront.net'
 MX_FOLDER = '_website'
 
 print "This script will write all mp3 albums in ../#{MX_FOLDER} as new posts,
@@ -63,9 +64,11 @@ eos
     tracks = Array.new
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
+        puts audiofile
         tracks << {
-          href: Base64.encode64("#{SITE_URL}/#{MX_FOLDER}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp,
-          title: mp3.tag.title.tr(':',''), 
+          href: Base64.encode64("#{MX_URL}/#{MX_FOLDER}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp,
+          title: mp3.tag.title.tr(':',''),
+          track: mp3.tag.track,
           duration: Time.at(mp3.audio_properties.length).utc.strftime("%M:%S")
         }
       end
@@ -82,3 +85,8 @@ eos
     post.puts "---"
   end
 end
+
+# puts 'Syncing music...'
+# system "cd .. && s3cmd sync --rr -P --delete-removed #{MX_FOLDER}/ s3://#{MX_BUCKET}"
+# puts 'Syncing site...'
+# system "cd .. && jekyll build && s3cmd sync --rr -P --delete-removed _site/ s3://#{SITE_BUCKET}"
