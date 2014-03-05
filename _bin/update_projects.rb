@@ -3,13 +3,16 @@ require 'taglib'
 require 'base64'
 require 'uri'
 
-SITE_URL = 'https://s3.amazonaws.com/klausbadelt-com'
-MX_FOLDER = 'mx'
+SITE_BUCKET = 'klausbadelt-com'
+SITE_URL = 'https://s3.amazonaws.com/' + SITE_BUCKET
+MX_BUCKET = 'klausbadelt-pool'
+MX_URL = 'https://s3.amazonaws.com/' + MX_BUCKET
+MX_FOLDER = '_website'
 
 print "This script will write all mp3 albums in ../#{MX_FOLDER} as new posts,
 generate the site html and sync it to S3.
 Put all mp3s in folders under ../#{MX_FOLDER} named after the project ID (3 letter code).
-Set ID3 tags for album, title, release and comment (as Buy URL).
+Set ID3 tags for album, title, track, release and comment (as Buy URL).
 Each album needs a poster sized 300×430px named <project-ID>.jpg
 stored in the folder ../images/posters.
 
@@ -67,7 +70,8 @@ eos
         }
       end
     end
-    tracks = tracks.sort {|x,y| x[:title] <=> y[:title]}
+
+    tracks = tracks.sort {|x,y| x[:track] <=> y[:track]}
     
     # write tracklisting
     tracks.each do |track|
