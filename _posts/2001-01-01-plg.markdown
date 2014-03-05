@@ -7,51 +7,51 @@ categories: film
 buy: http://www.amazon.com/The-Pledge-Hans-Zimmer/dp/B00005RZU6
 tracks:
  - title: The Angler
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzAxIFRoZSBBbmdsZXIubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wMSBUaGUgQW5nbGVyLm1wMw==
    duration: 05:24
  - title: Boogie Man
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzAyIEJvb2dpZSBNYW4ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wMiBCb29naWUgTWFuLm1wMw==
    duration: 01:28
  - title: Jerry & Lori
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzAzIEplcnJ5ICYgTG9yaS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wMyBKZXJyeSAmIExvcmkubXAz
    duration: 01:01
  - title: Church Nightmare
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA0IENodXJjaCBOaWdodG1hcmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wNCBDaHVyY2ggTmlnaHRtYXJlLm1wMw==
    duration: 02:19
  - title: Revisit Crime Scene
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA1IFJldmlzaXQgQ3JpbWUgU2NlbmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wNSBSZXZpc2l0IENyaW1lIFNjZW5lLm1wMw==
    duration: 01:16
  - title: My Coat
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA2IE15IENvYXQubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wNiBNeSBDb2F0Lm1wMw==
    duration: 02:47
  - title: The Wizard
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA3IFRoZSBXaXphcmQubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wNyBUaGUgV2l6YXJkLm1wMw==
    duration: 04:06
  - title: Ex Cop
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA4IEV4IENvcC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wOCBFeCBDb3AubXAz
    duration: 01:50
  - title: He'd Rather Not
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzA5IEhlJ2QgUmF0aGVyIE5vdC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8wOSBIZSdkIFJhdGhlciBOb3QubXAz
    duration: 02:00
  - title: Land Of Christmas
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzEwIExhbmQgT2YgQ2hyaXN0bWFzLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xMCBMYW5kIE9mIENocmlzdG1hcy5tcDM=
    duration: 01:22
  - title: Reading Stories
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzExIFJlYWRpbmcgU3Rvcmllcy5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xMSBSZWFkaW5nIFN0b3JpZXMubXAz
    duration: 03:02
  - title: Turkeys
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzEyIFR1cmtleXMubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xMiBUdXJrZXlzLm1wMw==
    duration: 01:36
  - title: The Pledge
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzEzIFRoZSBQbGVkZ2UubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xMyBUaGUgUGxlZGdlLm1wMw==
    duration: 01:20
  - title: The Swing
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzE0IFRoZSBTd2luZy5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xNCBUaGUgU3dpbmcubXAz
    duration: 02:20
  - title: Ginny's Picture
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzE1IEdpbm55J3MgUGljdHVyZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xNSBHaW5ueSdzIFBpY3R1cmUubXAz
    duration: 02:31
  - title: You're Crazy
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcGxnLzE2IFlvdSdyZSBDcmF6eS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BsZy8xNiBZb3UncmUgQ3JhenkubXAz
    duration: 05:57
 ---

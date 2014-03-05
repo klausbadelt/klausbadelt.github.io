@@ -7,33 +7,33 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Doom Service
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzAxIERvb20gU2VydmljZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMSBEb29tIFNlcnZpY2UubXAz
    duration: 03:03
  - title: Hellstorm
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzAyIEhlbGxzdG9ybS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMiBIZWxsc3Rvcm0ubXAz
    duration: 02:31
  - title: Deep Seize
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzAzIERlZXAgU2VpemUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMyBEZWVwIFNlaXplLm1wMw==
    duration: 02:06
  - title: Dark Horse
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzA1IERhcmsgSG9yc2UubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNSBEYXJrIEhvcnNlLm1wMw==
    duration: 02:06
  - title: Door Of Destiny
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzA2IERvb3IgT2YgRGVzdGlueS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNiBEb29yIE9mIERlc3RpbnkubXAz
    duration: 02:29
  - title: Hammer & Tongs
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzA3IEhhbW1lciAmIFRvbmdzLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNyBIYW1tZXIgJiBUb25ncy5tcDM=
    duration: 03:26
  - title: Fourth Degree
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzA4IEZvdXJ0aCBEZWdyZWUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wOCBGb3VydGggRGVncmVlLm1wMw==
    duration: 01:49
  - title: Devil May Care
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzA5IERldmlsIE1heSBDYXJlLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wOSBEZXZpbCBNYXkgQ2FyZS5tcDM=
    duration: 02:30
  - title: Next Of Sin
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzEwIE5leHQgT2YgU2luLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8xMCBOZXh0IE9mIFNpbi5tcDM=
    duration: 02:02
  - title: Crunch Moment
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZXhtLzExIENydW5jaCBNb21lbnQubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8xMSBDcnVuY2ggTW9tZW50Lm1wMw==
    duration: 02:18
 ---

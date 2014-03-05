@@ -7,45 +7,45 @@ categories: film
 buy: http://www.amazon.com/Ned-Kelly-Various-Artists/dp/B000091A6Y
 tracks:
  - title: Shelter For My Soul
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzAxIFNoZWx0ZXIgRm9yIE15IFNvdWwubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wMSBTaGVsdGVyIEZvciBNeSBTb3VsLm1wMw==
    duration: 04:51
  - title: Saving A Life
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzAyIFNhdmluZyBBIExpZmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wMiBTYXZpbmcgQSBMaWZlLm1wMw==
    duration: 03:17
  - title: Ned Kelly
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzAzIE5lZCBLZWxseS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wMyBOZWQgS2VsbHkubXAz
    duration: 05:37
  - title: Destiny
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA0IERlc3RpbnkubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wNCBEZXN0aW55Lm1wMw==
    duration: 04:24
  - title: The Light
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA1IFRoZSBMaWdodC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wNSBUaGUgTGlnaHQubXAz
    duration: 02:01
  - title: Julia
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA2IEp1bGlhLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wNiBKdWxpYS5tcDM=
    duration: 01:21
  - title: Stringybark Creek
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA3IFN0cmluZ3liYXJrIENyZWVrLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wNyBTdHJpbmd5YmFyayBDcmVlay5tcDM=
    duration: 03:21
  - title: Back Home
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA4IEJhY2sgSG9tZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wOCBCYWNrIEhvbWUubXAz
    duration: 06:23
  - title: Moreton Bay
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzA5IE1vcmV0b24gQmF5Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8wOSBNb3JldG9uIEJheS5tcDM=
    duration: 02:51
  - title: Doomed
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzEwIERvb21lZC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8xMCBEb29tZWQubXAz
    duration: 05:11
  - title: Outlaws
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzExIE91dGxhd3MubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8xMSBPdXRsYXdzLm1wMw==
    duration: 05:31
  - title: The Jerilderie Letter
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzEyIFRoZSBKZXJpbGRlcmllIExldHRlci5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8xMiBUaGUgSmVyaWxkZXJpZSBMZXR0ZXIubXAz
    duration: 02:08
  - title: Father
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzEzIEZhdGhlci5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8xMyBGYXRoZXIubXAz
    duration: 01:29
  - title: The Glenrowan Inn
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmVkLzE0IFRoZSBHbGVucm93YW4gSW5uLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25lZC8xNCBUaGUgR2xlbnJvd2FuIElubi5tcDM=
    duration: 07:02
 ---

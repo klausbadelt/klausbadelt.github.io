@@ -6,145 +6,145 @@ date: 2005-01-01 00:00:00 -0800
 categories: film
 buy: https://itunes.apple.com/us/album/constantine-original-motion/id58713956
 tracks:
- - title: Spear Of Destiny (Synth Demo)
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uL1NwZWFyT2ZEZXN0aW55TUlYLm1wMw==
-   duration: 05:39
- - title: John Theme Piano
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uL0pvaG4gVGhlbWUgUGlhbm8ubXAz
-   duration: 02:11
  - title: Spear Of Destiny
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtMSBTcGVhck9mRGVzdGlueS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTEgU3BlYXJPZkRlc3RpbnkubXAz
    duration: 01:00
  - title: Posession Meet John
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtMyBQb3Nlc3Npb25fTWVldEpvaG4ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTMgUG9zZXNzaW9uX01lZXRKb2huLm1wMw==
    duration: 02:54
  - title: Exorcism
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtNCBFeG9yY2lzbS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTQgRXhvcmNpc20ubXAz
    duration: 02:57
  - title: Exorcism Aftermath
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtNSBFeG9yY2lzbUFmdGVybWF0aC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTUgRXhvcmNpc21BZnRlcm1hdGgubXAz
    duration: 00:52
  - title: John At Home
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtNWEgSm9obkF0SG9tZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTVhIEpvaG5BdEhvbWUubXAz
    duration: 00:31
  - title: Confession Suicide
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtNiBDb25mZXNzaW9uX1N1aWNpZGUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTYgQ29uZmVzc2lvbl9TdWljaWRlLm1wMw==
    duration: 02:55
  - title: Encountering Twin
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtOSBFbmNvdW50ZXJpbmdUd2luLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTkgRW5jb3VudGVyaW5nVHdpbi5tcDM=
    duration: 01:41
  - title: Scavenger
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzFtOWEgU2NhdmVuZ2VyLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xbTlhIFNjYXZlbmdlci5tcDM=
    duration: 01:05
  - title: Gabriel Levels
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTEgR2FicmllbExldmVscy5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTExIEdhYnJpZWxMZXZlbHMubXAz
    duration: 01:06
  - title: Rifling Through Papers
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTItMTMgUmlmbGluZ1Rocm91Z2hQYXBlcnMubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTEyLTEzIFJpZmxpbmdUaHJvdWdoUGFwZXJzLm1wMw==
    duration: 02:26
+ - title: Last Rites
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xMSA0bTMyIExhc3RSaXRlcy5tcDM=
+   duration: 02:04
  - title: Vermin Man
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTRhIFZlcm1pbk1hbi5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTE0YSBWZXJtaW5NYW4ubXAz
    duration: 00:59
+ - title: Ascension
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8xMiA2bTQ2IEFzY2Vuc2lvbi5tcDM=
+   duration: 02:36
  - title: Welcome To My Life
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTVhIFdlbGNvbWVUb015TGlmZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTE1YSBXZWxjb21lVG9NeUxpZmUubXAz
    duration: 01:35
  - title: Angela Visits
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTYgQW5nZWxhVmlzaXRzLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTE2IEFuZ2VsYVZpc2l0cy5tcDM=
    duration: 00:52
  - title: Seplevite Attack
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzJtMTcgU2VwbGV2aXRlQXR0YWNrLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8ybTE3IFNlcGxldml0ZUF0dGFjay5tcDM=
    duration: 01:39
  - title: Trip To Hell
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMTggVHJpcFRvSGVsbC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTE4IFRyaXBUb0hlbGwubXAz
    duration: 03:16
  - title: Bracelet
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMTkgQnJhY2VsZXQubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTE5IEJyYWNlbGV0Lm1wMw==
    duration: 01:28
  - title: Liqour Store
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjAgTGlxb3VyU3RvcmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTIwIExpcW91clN0b3JlLm1wMw==
    duration: 02:32
  - title: Bus Flashback
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjFhIEJ1c0ZsYXNoYmFjay5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTIxYSBCdXNGbGFzaGJhY2subXAz
    duration: 00:47
  - title: John Tells Story
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjIgSm9oblRlbGxzU3RvcnkubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTIyIEpvaG5UZWxsc1N0b3J5Lm1wMw==
    duration: 00:43
  - title: John Discovers Symbol
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjMgSm9obkRpc2NvdmVyc1N5bWJvbC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTIzIEpvaG5EaXNjb3ZlcnNTeW1ib2wubXAz
    duration: 01:46
  - title: Isabels Room
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjQgSXNhYmVsc1Jvb20ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTI0IElzYWJlbHNSb29tLm1wMw==
    duration: 02:02
- - title: End Credits
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzZtNDkgRW5kQ3JlZGl0cy5tcDM=
-   duration: 02:39
+ - title: Finding Beeman
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTI2IEZpbmRpbmdCZWVtYW4ubXAz
+   duration: 02:41
  - title: Scavenger Steals Truck
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjZhIFNjYXZlbmdlclN0ZWFsc1RydWNrLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi8zbTI2YSBTY2F2ZW5nZXJTdGVhbHNUcnVjay5tcDM=
    duration: 01:05
  - title: I Left Her Alone
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMjdhIElMZWZ0SGVyQWxvbmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTI3YSBJTGVmdEhlckFsb25lLm1wMw==
    duration: 02:01
  - title: Bathtub
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMjdiIEJhdGh0dWIubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTI3YiBCYXRodHViLm1wMw==
    duration: 01:58
  - title: Someone Was Here
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMjkgU29tZW9uZVdhc0hlcmUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTI5IFNvbWVvbmVXYXNIZXJlLm1wMw==
    duration: 01:48
  - title: Counterweight
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMzAgQ291bnRlcndlaWdodC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTMwIENvdW50ZXJ3ZWlnaHQubXAz
    duration: 00:54
  - title: Balthazar
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMzEgQmFsdGhhemFyLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTMxIEJhbHRoYXphci5tcDM=
    duration: 01:55
  - title: Pieces Angela Taken
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzRtMzMgUGllY2VzX0FuZ2VsYVRha2VuLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi80bTMzIFBpZWNlc19BbmdlbGFUYWtlbi5tcDM=
    duration: 01:57
  - title: After Midnight Pt 1
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzRhIEFmdGVyTWlkbmlnaHRQdDEubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM0YSBBZnRlck1pZG5pZ2h0UHQxLm1wMw==
    duration: 00:53
  - title: After Midnight Pt 2
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzRiIEFmdGVyTWlkbmlnaHRQdDIubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM0YiBBZnRlck1pZG5pZ2h0UHQyLm1wMw==
    duration: 01:38
  - title: Angela Flown
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzYgQW5nZWxhRmxvd24ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM2IEFuZ2VsYUZsb3duLm1wMw==
    duration: 01:09
  - title: Angela In Pool
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzcgQW5nZWxhSW5Qb29sLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM3IEFuZ2VsYUluUG9vbC5tcDM=
    duration: 00:56
  - title: One Last Show
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzhhIE9uZUxhc3RTaG93Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM4YSBPbmVMYXN0U2hvdy5tcDM=
    duration: 01:00
  - title: Gun Fight
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtMzhCIEd1bkZpZ2h0Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTM4QiBHdW5GaWdodC5tcDM=
    duration: 01:05
  - title: Angela In Hell
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtNDAgQW5nZWxhSW5IZWxsLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTQwIEFuZ2VsYUluSGVsbC5tcDM=
    duration: 01:05
  - title: Get It Out
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtNDFiIEdldEl0T3V0Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTQxYiBHZXRJdE91dC5tcDM=
    duration: 01:33
  - title: Gabriel Confronts John
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtNDMgR2FicmllbENvbmZyb250c0pvaG4ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTQzIEdhYnJpZWxDb25mcm9udHNKb2huLm1wMw==
    duration: 02:23
  - title: Breath Of Gabriel
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtNDQgQnJlYXRoT2ZHYWJyaWVsLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTQ0IEJyZWF0aE9mR2FicmllbC5tcDM=
    duration: 02:09
  - title: Untitled
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzVtNDRhIFN0TWl4Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi81bTQ0YSBTdE1peC5tcDM=
    duration: 03:50
  - title: Lucifer Arrives
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzZtNDUgTHVjaWZlckFycml2ZXMubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi82bTQ1IEx1Y2lmZXJBcnJpdmVzLm1wMw==
    duration: 03:15
  - title: Rooftop
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzZtNDggUm9vZnRvcC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi82bTQ4IFJvb2Z0b3AubXAz
    duration: 01:49
- - title: Finding Beeman
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzNtMjYgRmluZGluZ0JlZW1hbi5tcDM=
-   duration: 02:41
- - title: Last Rites
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzExIDRtMzIgTGFzdFJpdGVzLm1wMw==
-   duration: 02:04
- - title: Ascension
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvY29uLzEyIDZtNDYgQXNjZW5zaW9uLm1wMw==
-   duration: 02:36
+ - title: End Credits
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi82bTQ5IEVuZENyZWRpdHMubXAz
+   duration: 02:39
+ - title: John Theme Piano
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi9Kb2huIFRoZW1lIFBpYW5vLm1wMw==
+   duration: 02:11
+ - title: Spear Of Destiny (Synth Demo)
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Nvbi9TcGVhck9mRGVzdGlueU1JWC5tcDM=
+   duration: 05:39
 ---

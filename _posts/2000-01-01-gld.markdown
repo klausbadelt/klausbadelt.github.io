@@ -7,21 +7,21 @@ categories: film
 buy: http://www.amazon.com/Gladiator-Hans-Zimmer/dp/B00004STPT
 tracks:
  - title: Now We Are Free (Juba's Mix)
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzAyIE5vdyBXZSBBcmUgRnJlZSAoSnViYSdzIE1peCkubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8wMiBOb3cgV2UgQXJlIEZyZWUgKEp1YmEncyBNaXgpLm1wMw==
    duration: 04:48
  - title: Secrets
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzA3IFNlY3JldHMubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8wNyBTZWNyZXRzLm1wMw==
    duration: 01:59
  - title: Rome Is The Light
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzA4IFJvbWUgSXMgVGhlIExpZ2h0Lm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8wOCBSb21lIElzIFRoZSBMaWdodC5tcDM=
    duration: 02:44
  - title: Busy Little Bee
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzE1IEJ1c3kgTGl0dGxlIEJlZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8xNSBCdXN5IExpdHRsZSBCZWUubXAz
    duration: 03:48
  - title: Death Smiles At Us All
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzE2IERlYXRoIFNtaWxlcyBBdCBVcyBBbGwubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8xNiBEZWF0aCBTbWlsZXMgQXQgVXMgQWxsLm1wMw==
    duration: 02:30
  - title: Now We Are Free (Maximus Mix)
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvZ2xkLzE4IE5vdyBXZSBBcmUgRnJlZSAoTWF4aW11cyBNaXgpLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dsZC8xOCBOb3cgV2UgQXJlIEZyZWUgKE1heGltdXMgTWl4KS5tcDM=
    duration: 03:50
 ---

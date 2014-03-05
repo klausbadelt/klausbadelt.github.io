@@ -7,7 +7,7 @@ SITE_BUCKET = 'klausbadelt-com'
 SITE_URL = 'https://s3.amazonaws.com/' + SITE_BUCKET
 
 MX_BUCKET = 'klausbadelt-pool'
-MX_URL = 'd1l2jfi73qwuu8.cloudfront.net'
+MX_URL = 'http://d1l2jfi73qwuu8.cloudfront.net'
 MX_FOLDER = '_website'
 
 print "This script will write all mp3 albums in ../#{MX_FOLDER} as new posts,
@@ -40,9 +40,9 @@ Dir.glob("../#{MX_FOLDER}/**") do |folder|
   mp3 = TagLib::FileRef.new audiofiles.first
   abort "Error in #{folder}" if mp3.tag.nil?
   album = mp3.tag.album.gsub(/ \[.*\]/, '').tr(':""','')
-  puts album
   release = mp3.tag.year ? Time.local(mp3.tag.year) : Time.now
   buy = mp3.tag.comment if mp3.tag.comment =~ /^#{URI::ABS_URI}$/ # check for valid URL
+  puts "#{album} (#{mp3.tag.year})"
   mp3.close
 
   # write post front matter
@@ -64,7 +64,6 @@ eos
     tracks = Array.new
     audiofiles.each do |audiofile|
       TagLib::FileRef.open audiofile do |mp3|
-        puts audiofile
         tracks << {
           href: Base64.encode64("#{MX_URL}/#{MX_FOLDER}/#{project}/#{File.basename(audiofile)}").tr("\n","").chomp,
           title: mp3.tag.title.tr(':',''),
@@ -81,6 +80,8 @@ eos
       post.puts " - title: #{track[:title]}"
       post.puts "   url: #{track[:href]}"
       post.puts "   duration: #{track[:duration]}"
+      
+#      puts "\t#{track[:track]}. #{track[:title]}"
     end
     post.puts "---"
   end
