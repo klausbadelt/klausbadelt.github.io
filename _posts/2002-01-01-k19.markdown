@@ -7,33 +7,33 @@ categories: film
 buy: http://www.amazon.com/K-19-Widowmaker-Klaus-Badelt/dp/B00006AATU
 tracks:
  - title: I. Fear - Largo
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzAxIEkuIEZlYXIgLSBMYXJnby5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wMSBJLiBGZWFyIC0gTGFyZ28ubXAz
    duration: 04:03
  - title: II. Fate - Adagio
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzAyIElJLiBGYXRlIC0gQWRhZ2lvLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wMiBJSS4gRmF0ZSAtIEFkYWdpby5tcDM=
    duration: 02:42
  - title: III. War - Allegro
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzAzIElJSS4gV2FyIC0gQWxsZWdyby5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wMyBJSUkuIFdhciAtIEFsbGVncm8ubXAz
    duration: 03:39
  - title: IV. Soul - Misterioso
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA0IElWLiBTb3VsIC0gTWlzdGVyaW9zby5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wNCBJVi4gU291bCAtIE1pc3Rlcmlvc28ubXAz
    duration: 05:31
  - title: Home
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA1IEhvbWUubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wNSBIb21lLm1wMw==
    duration: 04:01
  - title: Heroes
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA2IEhlcm9lcy5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wNiBIZXJvZXMubXAz
    duration: 08:21
  - title: Journey
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA3IEpvdXJuZXkubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wNyBKb3VybmV5Lm1wMw==
    duration: 13:12
  - title: Capt. Alexi Vostrikov
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA4IENhcHQuIEFsZXhpIFZvc3RyaWtvdi5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wOCBDYXB0LiBBbGV4aSBWb3N0cmlrb3YubXAz
    duration: 02:05
  - title: Missile Launch - The Rescue
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzA5IE1pc3NpbGUgTGF1bmNoIC0gVGhlIFJlc2N1ZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8wOSBNaXNzaWxlIExhdW5jaCAtIFRoZSBSZXNjdWUubXAz
    duration: 10:01
  - title: Reunion
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvazE5LzExIFJldW5pb24ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2sxOS8xMSBSZXVuaW9uLm1wMw==
    duration: 07:18
 ---

@@ -7,60 +7,60 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Un Drôle De Sujet De Rédaction
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzAxIFVuIERyw7RsZSBEZSBTdWpldCBEZSBSw6lkYWN0aW9uLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wMSBVbiBEcsO0bGUgRGUgU3VqZXQgRGUgUsOpZGFjdGlvbi5tcDM=
    duration: 07:42
  - title: Le Petit Nicolas
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzAyIExlIFBldGl0IE5pY29sYXMubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wMiBMZSBQZXRpdCBOaWNvbGFzLm1wMw==
    duration: 02:46
  - title: Mord Aux Prof...
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzAzIE1vcmQgQXV4IFByb2YuLi4ubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wMyBNb3JkIEF1eCBQcm9mLi4uLm1wMw==
    duration: 01:15
  - title: La Roulette
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA0IExhIFJvdWxldHRlLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wNCBMYSBSb3VsZXR0ZS5tcDM=
    duration: 00:59
  - title: Marie-Edwige
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA1IE1hcmllLUVkd2lnZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wNSBNYXJpZS1FZHdpZ2UubXAz
    duration: 01:01
  - title: Monsieur Moucheboume
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA2IE1vbnNpZXVyIE1vdWNoZWJvdW1lLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wNiBNb25zaWV1ciBNb3VjaGVib3VtZS5tcDM=
    duration: 01:44
  - title: 3 Francs La Rose
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA3IDMgRnJhbmNzIExhIFJvc2UubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wNyAzIEZyYW5jcyBMYSBSb3NlLm1wMw==
    duration: 03:02
  - title: Un Jeu Drôlement Compliqué
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA4IFVuIEpldSBEcsO0bGVtZW50IENvbXBsaXF1w6kubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wOCBVbiBKZXUgRHLDtGxlbWVudCBDb21wbGlxdcOpLm1wMw==
    duration: 01:40
  - title: Une Ballade En Forêt
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzA5IFVuZSBCYWxsYWRlIEVuIEZvcsOqdC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8wOSBVbmUgQmFsbGFkZSBFbiBGb3LDqnQubXAz
    duration: 01:21
  - title: Le Spectacle
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzEwIExlIFNwZWN0YWNsZS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xMCBMZSBTcGVjdGFjbGUubXAz
    duration: 01:11
  - title: Je Vais Avoir Un Petit Frère!
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzExIEplIFZhaXMgQXZvaXIgVW4gUGV0aXQgRnLDqHJlIS5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xMSBKZSBWYWlzIEF2b2lyIFVuIFBldGl0IEZyw6hyZSEubXAz
    duration: 01:09
  - title: Ménage
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzEyIE3DqW5hZ2UubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xMiBNw6luYWdlLm1wMw==
    duration: 01:20
  - title: Gangster-À-Louer
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzEzIEdhbmdzdGVyLcOALUxvdWVyLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xMyBHYW5nc3Rlci3DgC1Mb3Vlci5tcDM=
    duration: 01:09
  - title: Le Procès d'Agnan
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE0IExlIFByb2PDqHMgZCdBZ25hbi5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xNCBMZSBQcm9jw6hzIGQnQWduYW4ubXAz
    duration: 01:12
  - title: Potion Magique
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE1IFBvdGlvbiBNYWdpcXVlLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xNSBQb3Rpb24gTWFnaXF1ZS5tcDM=
    duration: 03:50
  - title: Rivalités Fraternelles
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE2IFJpdmFsaXTDqXMgRnJhdGVybmVsbGVzLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xNiBSaXZhbGl0w6lzIEZyYXRlcm5lbGxlcy5tcDM=
    duration: 02:05
  - title: Rolls Folle
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE3IFJvbGxzIEZvbGxlLm1wMw==
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xNyBSb2xscyBGb2xsZS5tcDM=
    duration: 03:58
  - title: Neuf Mois
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE4IE5ldWYgTW9pcy5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xOCBOZXVmIE1vaXMubXAz
    duration: 02:04
  - title: On Dirait Un Poivron Confit
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvbmljLzE5IE9uIERpcmFpdCBVbiBQb2l2cm9uIENvbmZpdC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL25pYy8xOSBPbiBEaXJhaXQgVW4gUG9pdnJvbiBDb25maXQubXAz
    duration: 01:02
 ---

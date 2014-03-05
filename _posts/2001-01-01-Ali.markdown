@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Ali"
-poster: Ali.jpg
+poster: ali.jpg
 date: 2001-01-01 00:00:00 -0800
 categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Ali-no voc 
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvQWxpL0FsaS1ubyB2b2MubXAz
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2FsaS9BbGktbm8gdm9jLm1wMw==
    duration: 02:51
  - title: Liston Fight
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvQWxpL0xpc3RvbiBGaWdodC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2FsaS9MaXN0b24gRmlnaHQubXAz
    duration: 02:55
 ---

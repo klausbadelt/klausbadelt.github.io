@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Happy People"
+poster: hpy.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+buy: http://store.klausbadelt.com
+tracks:
+ - title: Taiga Opening Titles
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wMSBUYWlnYSBPcGVuaW5nIFRpdGxlcy5tcDM=
+   duration: 02:24
+ - title: Bear Marks
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wMiBCZWFyIE1hcmtzLm1wMw==
+   duration: 03:03
+ - title: May 1st
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wMyBNYXkgMXN0Lm1wMw==
+   duration: 00:25
+ - title: Dolls
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wNSBEb2xscy5tcDM=
+   duration: 01:41
+ - title: Autumn
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wNiBBdXR1bW4ubXAz
+   duration: 03:59
+ - title: Leaving For Winter
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wNyBMZWF2aW5nIEZvciBXaW50ZXIubXAz
+   duration: 02:27
+ - title: Gun Fishing
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wOCBHdW4gRmlzaGluZy5tcDM=
+   duration: 03:04
+ - title: Solitude
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8wOSBTb2xpdHVkZS5tcDM=
+   duration: 01:17
+ - title: Winter
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8xMCBXaW50ZXIubXAz
+   duration: 01:17
+ - title: A Trapper's Day
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8xMSBBIFRyYXBwZXIncyBEYXkubXAz
+   duration: 03:24
+ - title: All Alone Again
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2hweS8xMiBBbGwgQWxvbmUgQWdhaW4ubXAz
+   duration: 02:51
+---

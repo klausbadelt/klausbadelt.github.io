@@ -2,11 +2,11 @@
 layout: post
 title: "Prince of Egypt"
 poster: poe.jpg
-date: 0000-01-01 00:00:00 -0800
+date: 1998-01-01 00:00:00 -0800
 categories: film
 buy: http://www.amazon.com/The-Prince-Of-Egypt-Soundtrack/dp/B00000DFTM
 tracks:
  - title: Prince of Egypt
-   url: ZDFsMmpmaTczcXd1dTguY2xvdWRmcm9udC5uZXQvX3dlYnNpdGUvcG9lL1ByaW5jZSBvZiBFZ3lwdC5tcDM=
+   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BvZS9QcmluY2Ugb2YgRWd5cHQubXAz
    duration: 01:00
 ---
