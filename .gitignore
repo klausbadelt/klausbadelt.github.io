@@ -1,4 +1,5 @@
 _site
 *.m4a
 *.mp3
-_website/*
+_website
+
