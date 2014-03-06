@@ -7,84 +7,84 @@ categories: film
 buy: http://store.klausbadelt.com/album/dylan-dog-dead-of-night
 tracks:
  - title: Meet Dylan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wMSBNZWV0IER5bGFuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzAxIE1lZXQgRHlsYW4ubXAz
    duration: 01:45
  - title: Gabriel
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wMiBHYWJyaWVsLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzAyIEdhYnJpZWwubXAz
    duration: 01:09
  - title: New Job
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wMyBOZXcgSm9iLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzAzIE5ldyBKb2IubXAz
    duration: 01:50
  - title: Final Fight Pt. 3
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wNCBGaW5hbCBGaWdodCBQdC4gMy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA0IEZpbmFsIEZpZ2h0IFB0LiAzLm1wMw==
    duration: 03:02
  - title: Father's Book
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wNSBGYXRoZXIncyBCb29rLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA1IEZhdGhlcidzIEJvb2subXAz
    duration: 01:26
  - title: Wolfgang Fight
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wNiBXb2xmZ2FuZyBGaWdodC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA2IFdvbGZnYW5nIEZpZ2h0Lm1wMw==
    duration: 01:56
  - title: Butcher
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wNyBCdXRjaGVyLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA3IEJ1dGNoZXIubXAz
    duration: 01:14
  - title: Marcus Comes Back
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wOCBNYXJjdXMgQ29tZXMgQmFjay5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA4IE1hcmN1cyBDb21lcyBCYWNrLm1wMw==
    duration: 01:36
  - title: Zombie Attack
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8wOSBab21iaWUgQXR0YWNrLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzA5IFpvbWJpZSBBdHRhY2subXAz
    duration: 02:00
  - title: Funeral
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xMCBGdW5lcmFsLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzEwIEZ1bmVyYWwubXAz
    duration: 02:19
  - title: Dylan Flashback Story
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xMSBEeWxhbiBGbGFzaGJhY2sgU3RvcnkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzExIER5bGFuIEZsYXNoYmFjayBTdG9yeS5tcDM=
    duration: 02:04
  - title: Screamer Client
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xMiBTY3JlYW1lciBDbGllbnQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzEyIFNjcmVhbWVyIENsaWVudC5tcDM=
    duration: 01:12
  - title: The Story
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xMyBUaGUgU3RvcnkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzEzIFRoZSBTdG9yeS5tcDM=
    duration: 02:50
  - title: Final Fight Pt. 2
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xNCBGaW5hbCBGaWdodCBQdC4gMi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE0IEZpbmFsIEZpZ2h0IFB0LiAyLm1wMw==
    duration: 03:03
  - title: Final Fight Pt. 1
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xNSBGaW5hbCBGaWdodCBQdC4gMS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE1IEZpbmFsIEZpZ2h0IFB0LiAxLm1wMw==
    duration: 02:16
  - title: Beetle Fight
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xNiBCZWV0bGUgRmlnaHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE2IEJlZXRsZSBGaWdodC5tcDM=
    duration: 02:19
  - title: Gabriel Dying
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xNyBHYWJyaWVsIER5aW5nLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE3IEdhYnJpZWwgRHlpbmcubXAz
    duration: 01:27
  - title: Buried Alive
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xOCBCdXJpZWQgQWxpdmUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE4IEJ1cmllZCBBbGl2ZS5tcDM=
    duration: 03:16
  - title: Kiss
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8xOSBLaXNzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzE5IEtpc3MubXAz
    duration: 01:43
  - title: Taking The Case
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yMCBUYWtpbmcgVGhlIENhc2UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzIwIFRha2luZyBUaGUgQ2FzZS5tcDM=
    duration: 02:27
  - title: Power Plant
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yMSBQb3dlciBQbGFudC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzIxIFBvd2VyIFBsYW50Lm1wMw==
    duration: 04:07
  - title: Dangerous Daylight
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yMiBEYW5nZXJvdXMgRGF5bGlnaHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzIyIERhbmdlcm91cyBEYXlsaWdodC5tcDM=
    duration: 02:07
  - title: Sleeper
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yMyBTbGVlcGVyLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzIzIFNsZWVwZXIubXAz
    duration: 02:50
  - title: Dad's Dinner
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yNCBEYWQncyBEaW5uZXIubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzI0IERhZCdzIERpbm5lci5tcDM=
    duration: 01:41
  - title: Dylan's Eulogy
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yNSBEeWxhbidzIEV1bG9neS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzI1IER5bGFuJ3MgRXVsb2d5Lm1wMw==
    duration: 03:06
  - title: Marcus Attacked Pt. 2
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yNiBNYXJjdXMgQXR0YWNrZWQgUHQuIDIubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzI2IE1hcmN1cyBBdHRhY2tlZCBQdC4gMi5tcDM=
    duration: 02:08
  - title: Final Walk
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Rvbi8yNyBGaW5hbCBXYWxrLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZG9uLzI3IEZpbmFsIFdhbGsubXAz
    duration: 01:07
 ---

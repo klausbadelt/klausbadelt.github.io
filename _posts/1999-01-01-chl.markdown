@@ -7,6 +7,6 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Chill Factor
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2NobC9DaGlsbCBGYWN0b3IubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY2hsL0NoaWxsIEZhY3Rvci5tcDM=
    duration: 03:07
 ---

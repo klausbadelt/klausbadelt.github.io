@@ -7,27 +7,27 @@ categories: film
 buy: https://itunes.apple.com/us/album/poseidon-music-from-motion/id151910191
 tracks:
  - title: The Poseidon
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wNCBUaGUgUG9zZWlkb24ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA0IFRoZSBQb3NlaWRvbi5tcDM=
    duration: 03:19
  - title: The Wave
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wNSBUaGUgV2F2ZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA1IFRoZSBXYXZlLm1wMw==
    duration: 04:37
  - title: A Map and a Plan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wNiBBIE1hcCBhbmQgYSBQbGFuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA2IEEgTWFwIGFuZCBhIFBsYW4ubXAz
    duration: 02:30
  - title: Fire Drive
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wNyBGaXJlIERyaXZlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA3IEZpcmUgRHJpdmUubXAz
    duration: 02:48
  - title: Claustrophobia
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wOCBDbGF1c3Ryb3Bob2JpYS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA4IENsYXVzdHJvcGhvYmlhLm1wMw==
    duration: 07:09
  - title: Drowning
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8wOSBEcm93bmluZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA5IERyb3duaW5nLm1wMw==
    duration: 03:05
  - title: Don't Look Down
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8xMCBEb24ndCBMb29rIERvd24ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzEwIERvbid0IExvb2sgRG93bi5tcDM=
    duration: 03:44
  - title: Escape
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Bvcy8xMSBFc2NhcGUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzExIEVzY2FwZS5tcDM=
    duration: 02:42
 ---

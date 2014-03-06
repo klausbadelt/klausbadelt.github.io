@@ -7,6 +7,6 @@ categories: film
 buy: http://www.amazon.com/The-Prince-Of-Egypt-Soundtrack/dp/B00000DFTM
 tracks:
  - title: Prince of Egypt
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3BvZS9QcmluY2Ugb2YgRWd5cHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9lL1ByaW5jZSBvZiBFZ3lwdC5tcDM=
    duration: 01:00
 ---

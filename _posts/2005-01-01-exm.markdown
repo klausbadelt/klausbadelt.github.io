@@ -7,33 +7,33 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Doom Service
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMSBEb29tIFNlcnZpY2UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAxIERvb20gU2VydmljZS5tcDM=
    duration: 03:03
  - title: Hellstorm
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMiBIZWxsc3Rvcm0ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAyIEhlbGxzdG9ybS5tcDM=
    duration: 02:31
  - title: Deep Seize
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wMyBEZWVwIFNlaXplLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAzIERlZXAgU2VpemUubXAz
    duration: 02:06
  - title: Dark Horse
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNSBEYXJrIEhvcnNlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA1IERhcmsgSG9yc2UubXAz
    duration: 02:06
  - title: Door Of Destiny
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNiBEb29yIE9mIERlc3RpbnkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA2IERvb3IgT2YgRGVzdGlueS5tcDM=
    duration: 02:29
  - title: Hammer & Tongs
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wNyBIYW1tZXIgJiBUb25ncy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA3IEhhbW1lciAmIFRvbmdzLm1wMw==
    duration: 03:26
  - title: Fourth Degree
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wOCBGb3VydGggRGVncmVlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA4IEZvdXJ0aCBEZWdyZWUubXAz
    duration: 01:49
  - title: Devil May Care
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8wOSBEZXZpbCBNYXkgQ2FyZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA5IERldmlsIE1heSBDYXJlLm1wMw==
    duration: 02:30
  - title: Next Of Sin
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8xMCBOZXh0IE9mIFNpbi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzEwIE5leHQgT2YgU2luLm1wMw==
    duration: 02:02
  - title: Crunch Moment
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4bS8xMSBDcnVuY2ggTW9tZW50Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzExIENydW5jaCBNb21lbnQubXAz
    duration: 02:18
 ---

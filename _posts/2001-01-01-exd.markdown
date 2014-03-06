@@ -7,6 +7,6 @@ categories: film
 buy: http://www.amazon.com/Extreme-Days-Various-Artists/dp/B0000589VA
 tracks:
  - title: Jessie And Brian
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2V4ZC8xNyBKZXNzaWUgQW5kIEJyaWFuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhkLzE3IEplc3NpZSBBbmQgQnJpYW4ubXAz
    duration: 04:39
 ---

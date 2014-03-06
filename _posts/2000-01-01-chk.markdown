@@ -7,6 +7,6 @@ categories: film
 buy: http://www.amazon.com/Chicken-Run-Original-Soundtrack/dp/B0013AUXL2/ref=sr_1_fkmr0_1?s=music&ie=UTF8&qid=1389727347&sr=1-1-fkmr0&keywords=chicken+run+badelt
 tracks:
  - title: Chicken Run
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2Noay8wOSBDaGlja2VuIFJ1bi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY2hrLzA5IENoaWNrZW4gUnVuLm1wMw==
    duration: 01:06
 ---

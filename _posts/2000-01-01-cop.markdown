@@ -7,12 +7,12 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Action
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2NvcC9Db3BzIDIwMDAgQWN0aW9uIEwxLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY29wL0NvcHMgMjAwMCBBY3Rpb24gTDEubXAz
    duration: 01:58
  - title: Slow
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2NvcC9Db3BzIDIwMDAgU2xvdyBMMS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY29wL0NvcHMgMjAwMCBTbG93IEwxLm1wMw==
    duration: 02:27
  - title: Suspense 
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2NvcC9Db3BzIDIwMDAgU3VzcGVuc2UgTDEubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY29wL0NvcHMgMjAwMCBTdXNwZW5zZSBMMS5tcDM=
    duration: 01:31
 ---

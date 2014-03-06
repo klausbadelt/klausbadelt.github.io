@@ -7,9 +7,9 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: 5m01 Cut It Off
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3NnZy81bTAxIEN1dCBJdCBPZmYubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2dnLzVtMDEgQ3V0IEl0IE9mZi5tcDM=
    duration: 02:22
  - title: 7m01
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3NnZy83bTAxLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2dnLzdtMDEubXAz
    duration: 02:16
 ---
