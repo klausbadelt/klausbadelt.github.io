@@ -7,69 +7,69 @@ categories: film
 buy: https://itunes.apple.com/us/album/beat-the-drum/id213986416
 tracks:
  - title: The Village
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wMSBUaGUgVmlsbGFnZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzAxIFRoZSBWaWxsYWdlLm1wMw==
    duration: 05:33
  - title: Thandi/Sacrifice
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wMiBUaGFuZGlfU2FjcmlmaWNlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzAyIFRoYW5kaV9TYWNyaWZpY2UubXAz
    duration: 03:46
  - title: The Journey
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wMyBUaGUgSm91cm5leS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzAzIFRoZSBKb3VybmV5Lm1wMw==
    duration: 02:48
  - title: Nobe & Musa
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wNCBOb2JlICYgTXVzYS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA0IE5vYmUgJiBNdXNhLm1wMw==
    duration: 02:25
  - title: Jo'Burg
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wNSBKbydCdXJnLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA1IEpvJ0J1cmcubXAz
    duration: 01:31
  - title: The Muthi Market
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wNiBUaGUgTXV0aGkgTWFya2V0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA2IFRoZSBNdXRoaSBNYXJrZXQubXAz
    duration: 01:43
  - title: Wash For A Rand, Part 1
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wNyBXYXNoIEZvciBBIFJhbmQsIFBhcnQgMS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA3IFdhc2ggRm9yIEEgUmFuZCwgUGFydCAxLm1wMw==
    duration: 02:33
  - title: On The Streets
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wOCBPbiBUaGUgU3RyZWV0cy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA4IE9uIFRoZSBTdHJlZXRzLm1wMw==
    duration: 02:09
  - title: We Do Not Talk About it
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8wOSBXZSBEbyBOb3QgVGFsayBBYm91dCBpdC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA5IFdlIERvIE5vdCBUYWxrIEFib3V0IGl0Lm1wMw==
    duration: 02:08
  - title: Wash For A Rand, Part 2
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xMCBXYXNoIEZvciBBIFJhbmQsIFBhcnQgMi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEwIFdhc2ggRm9yIEEgUmFuZCwgUGFydCAyLm1wMw==
    duration: 02:54
  - title: Musa's Theme
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xMSBNdXNhJ3MgVGhlbWUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzExIE11c2EncyBUaGVtZS5tcDM=
    duration: 02:42
  - title: Have You Seen It?
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xMiBIYXZlIFlvdSBTZWVuIEl0Xy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEyIEhhdmUgWW91IFNlZW4gSXRfLm1wMw==
    duration: 01:21
  - title: Stephan Passed Away
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xMyBTdGVwaGFuIFBhc3NlZCBBd2F5Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEzIFN0ZXBoYW4gUGFzc2VkIEF3YXkubXAz
    duration: 00:45
  - title: One More Stop
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xNCBPbmUgTW9yZSBTdG9wLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE0IE9uZSBNb3JlIFN0b3AubXAz
    duration: 02:00
  - title: Returning Home
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xNSBSZXR1cm5pbmcgSG9tZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE1IFJldHVybmluZyBIb21lLm1wMw==
    duration: 01:55
  - title: What Has Happened
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xNiBXaGF0IEhhcyBIYXBwZW5lZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE2IFdoYXQgSGFzIEhhcHBlbmVkLm1wMw==
    duration: 01:21
  - title: Wait For Elder
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xNyBXYWl0IEZvciBFbGRlci5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE3IFdhaXQgRm9yIEVsZGVyLm1wMw==
    duration: 01:11
  - title: Hallucination
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xOCBIYWxsdWNpbmF0aW9uLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE4IEhhbGx1Y2luYXRpb24ubXAz
    duration: 01:16
  - title: Lauren's Revelation
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8xOSBMYXVyZW4ncyBSZXZlbGF0aW9uLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE5IExhdXJlbidzIFJldmVsYXRpb24ubXAz
    duration: 02:37
  - title: Thandi's Theme
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8yMCBUaGFuZGkncyBUaGVtZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzIwIFRoYW5kaSdzIFRoZW1lLm1wMw==
    duration: 02:27
  - title: Did God Send You?
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8yMSBEaWQgR29kIFNlbmQgWW91Xy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzIxIERpZCBHb2QgU2VuZCBZb3VfLm1wMw==
    duration: 03:12
  - title: Brand New Day
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2J0ZC8yMiBCcmFuZCBOZXcgRGF5Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzIyIEJyYW5kIE5ldyBEYXkubXAz
    duration: 05:15
 ---

@@ -7,24 +7,24 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title:  Job
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9fSm9iLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L19Kb2IubXAz
    duration: 01:29
  - title: Buying Glasses
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9CdXlpbmcgR2xhc3Nlcy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L0J1eWluZyBHbGFzc2VzLm1wMw==
    duration: 01:15
  - title: Ending and Credits
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9FbmRpbmcgYW5kIENyZWRpdHMubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L0VuZGluZyBhbmQgQ3JlZGl0cy5tcDM=
    duration: 01:07
  - title: Monkey King
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9Nb25rZXkgS2luZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L01vbmtleSBLaW5nLm1wMw==
    duration: 00:19
  - title: Opening
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9PcGVuaW5nLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L09wZW5pbmcubXAz
    duration: 00:38
  - title: Shop
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9TaG9wLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L1Nob3AubXAz
    duration: 01:49
  - title: The Gift
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2dmdC9UaGUgR2lmdC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2Z0L1RoZSBHaWZ0Lm1wMw==
    duration: 01:35
 ---

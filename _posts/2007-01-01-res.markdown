@@ -7,57 +7,57 @@ categories: film
 buy: https://itunes.apple.com/us/album/rescue-dawn-music-from-motion/id257820391
 tracks:
  - title: Dieter's Theme
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wMSBEaWV0ZXIncyBUaGVtZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAxIERpZXRlcidzIFRoZW1lLm1wMw==
    duration: 03:21
  - title: Journey
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wMiBKb3VybmV5Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAyIEpvdXJuZXkubXAz
    duration: 01:22
  - title: Hope
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wMyBIb3BlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAzIEhvcGUubXAz
    duration: 05:26
  - title: Sign This
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wNCBTaWduIFRoaXMubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA0IFNpZ24gVGhpcy5tcDM=
    duration: 01:32
  - title: Gathering Rice
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wNSBHYXRoZXJpbmcgUmljZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA1IEdhdGhlcmluZyBSaWNlLm1wMw==
    duration: 01:46
  - title: The Plan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wNiBUaGUgUGxhbi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA2IFRoZSBQbGFuLm1wMw==
    duration: 02:23
  - title: After The Fire
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wNyBBZnRlciBUaGUgRmlyZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA3IEFmdGVyIFRoZSBGaXJlLm1wMw==
    duration: 01:54
  - title: Rain
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wOCBSYWluLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA4IFJhaW4ubXAz
    duration: 02:56
  - title: Operation Rescue Dawn
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8wOSBPcGVyYXRpb24gUmVzY3VlIERhd24ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA5IE9wZXJhdGlvbiBSZXNjdWUgRGF3bi5tcDM=
    duration: 02:42
  - title: It's Him
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xMCBJdCdzIEhpbS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzEwIEl0J3MgSGltLm1wMw==
    duration: 04:06
  - title: Keep Your Head Down
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xMSBLZWVwIFlvdXIgSGVhZCBEb3duLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzExIEtlZXAgWW91ciBIZWFkIERvd24ubXAz
    duration: 00:53
  - title: America Gave Me Wings
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xMiBBbWVyaWNhIEdhdmUgTWUgV2luZ3MubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzEyIEFtZXJpY2EgR2F2ZSBNZSBXaW5ncy5tcDM=
    duration: 01:57
  - title: Mirror
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xMyBNaXJyb3IubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzEzIE1pcnJvci5tcDM=
    duration: 01:44
  - title: Sleepwalkers
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xNCBTbGVlcHdhbGtlcnMubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE0IFNsZWVwd2Fsa2Vycy5tcDM=
    duration: 02:41
  - title: Rescue
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xNSBSZXNjdWUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE1IFJlc2N1ZS5tcDM=
    duration: 04:44
  - title: Lights (Rescue Dawn Version)
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xNiBMaWdodHMgKFJlc2N1ZSBEYXduIFZlcnNpb24pLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE2IExpZ2h0cyAoUmVzY3VlIERhd24gVmVyc2lvbikubXAz
    duration: 04:20
  - title: Dieter's Theme Reprise
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xNyBEaWV0ZXIncyBUaGVtZSBSZXByaXNlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE3IERpZXRlcidzIFRoZW1lIFJlcHJpc2UubXAz
    duration: 01:47
  - title: This Is How I Remember Him
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Jlcy8xOCBUaGlzIElzIEhvdyBJIFJlbWVtYmVyIEhpbS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE4IFRoaXMgSXMgSG93IEkgUmVtZW1iZXIgSGltLm1wMw==
    duration: 02:36
 ---

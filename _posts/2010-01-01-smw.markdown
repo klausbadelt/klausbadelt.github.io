@@ -7,72 +7,72 @@ categories: film
 buy: http://store.klausbadelt.com/album/small-world-original-score
 tracks:
  - title: Fire
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wMSBGaXJlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAxIEZpcmUubXAz
    duration: 01:41
  - title: Conrad in the Rain
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wMiBDb25yYWQgaW4gdGhlIFJhaW4ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAyIENvbnJhZCBpbiB0aGUgUmFpbi5tcDM=
    duration: 01:35
  - title: Opening Titles
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wMyBPcGVuaW5nIFRpdGxlcy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAzIE9wZW5pbmcgVGl0bGVzLm1wMw==
    duration: 02:00
  - title: Snow Night
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wNCBTbm93IE5pZ2h0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA0IFNub3cgTmlnaHQubXAz
    duration: 02:14
  - title: Doctor Visit
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wNSBEb2N0b3IgVmlzaXQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA1IERvY3RvciBWaXNpdC5tcDM=
    duration: 01:25
  - title: Wedding Night
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wNiBXZWRkaW5nIE5pZ2h0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA2IFdlZGRpbmcgTmlnaHQubXAz
    duration: 00:46
  - title: Elvira's Injection
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wNyBFbHZpcmEncyBJbmplY3Rpb24ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA3IEVsdmlyYSdzIEluamVjdGlvbi5tcDM=
    duration: 01:25
  - title: Simone Follows
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wOCBTaW1vbmUgRm9sbG93cy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA4IFNpbW9uZSBGb2xsb3dzLm1wMw==
    duration: 00:55
  - title: Chair on the Roof
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8wOSBDaGFpciBvbiB0aGUgUm9vZi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA5IENoYWlyIG9uIHRoZSBSb29mLm1wMw==
    duration: 01:12
  - title: Goodbye Elisabeth
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xMCBHb29kYnllIEVsaXNhYmV0aC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzEwIEdvb2RieWUgRWxpc2FiZXRoLm1wMw==
    duration: 02:31
  - title: Fazzoletti
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xMSBGYXp6b2xldHRpLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzExIEZhenpvbGV0dGkubXAz
    duration: 00:44
  - title: Umbrella
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xMiBVbWJyZWxsYS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzEyIFVtYnJlbGxhLm1wMw==
    duration: 01:23
  - title: Murder Plan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xMyBNdXJkZXIgUGxhbi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzEzIE11cmRlciBQbGFuLm1wMw==
    duration: 02:32
  - title: Stealing Pictures
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xNCBTdGVhbGluZyBQaWN0dXJlcy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE0IFN0ZWFsaW5nIFBpY3R1cmVzLm1wMw==
    duration: 01:23
  - title: Pregnant
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xNSBQcmVnbmFudC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE1IFByZWduYW50Lm1wMw==
    duration: 02:29
  - title: Dans la Panade
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xNiBEYW5zIGxhIFBhbmFkZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE2IERhbnMgbGEgUGFuYWRlLm1wMw==
    duration: 01:36
  - title: Tomikoni
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xNyBUb21pa29uaS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE3IFRvbWlrb25pLm1wMw==
    duration: 00:59
  - title: Croquet
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xOCBDcm9xdWV0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE4IENyb3F1ZXQubXAz
    duration: 01:53
  - title: Smoking
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8xOSBTbW9raW5nLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE5IFNtb2tpbmcubXAz
    duration: 00:50
  - title: Papa Flashback
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8yMCBQYXBhIEZsYXNoYmFjay5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIwIFBhcGEgRmxhc2hiYWNrLm1wMw==
    duration: 02:42
  - title: Elvira's Plan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8yMSBFbHZpcmEncyBQbGFuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIxIEVsdmlyYSdzIFBsYW4ubXAz
    duration: 02:36
  - title: Elvira's Secret
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8yMiBFbHZpcmEncyBTZWNyZXQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIyIEVsdmlyYSdzIFNlY3JldC5tcDM=
    duration: 03:36
  - title: Last Journey
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL3Ntdy8yMyBMYXN0IEpvdXJuZXkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIzIExhc3QgSm91cm5leS5tcDM=
    duration: 06:09
 ---

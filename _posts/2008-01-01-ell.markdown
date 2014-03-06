@@ -7,24 +7,24 @@ categories: film
 buy: http://store.klausbadelt.com
 tracks:
  - title: Elle
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wMSBFbGxlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzAxIEVsbGUubXAz
    duration: 03:10
  - title: Monsieur Tout-le-monde
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wMiBNb25zaWV1ciBUb3V0LWxlLW1vbmRlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzAyIE1vbnNpZXVyIFRvdXQtbGUtbW9uZGUubXAz
    duration: 10:33
  - title: Innocent
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wMyBJbm5vY2VudC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzAzIElubm9jZW50Lm1wMw==
    duration: 05:05
  - title: The Plan
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wNCBUaGUgUGxhbi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA0IFRoZSBQbGFuLm1wMw==
    duration: 05:34
  - title: Escape
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wNSBFc2NhcGUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA1IEVzY2FwZS5tcDM=
    duration: 05:52
  - title: Too Late
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wNiBUb28gTGF0ZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA2IFRvbyBMYXRlLm1wMw==
    duration: 03:34
  - title: End Credits
-   url: aHR0cDovL2QxbDJqZmk3M3F3dXU4LmNsb3VkZnJvbnQubmV0L193ZWJzaXRlL2VsbC8wNyBFbmQgQ3JlZGl0cy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA3IEVuZCBDcmVkaXRzLm1wMw==
    duration: 05:12
 ---
