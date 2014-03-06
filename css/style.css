@@ -1,11 +1,12 @@
 body {
   background: #f8f8f8; 
   margin: 0;
+  margin-left: 10%;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 200;
   font-size: 16px;
 	color: #333;
-  margin-left: 10%;
+  padding-bottom: 80px;
 }
 
 *:focus {
