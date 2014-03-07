@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Motorstorm Apocalypse (Shockland)"
+title: "Motorstorm Apocalypse"
 poster: mot.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
