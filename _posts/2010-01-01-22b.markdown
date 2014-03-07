@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'Immortel (22 Bullets)"
+title: "L'Immortel"
 poster: 22b.jpg
 date: 2010-01-01 00:00:00 -0800
 categories: film

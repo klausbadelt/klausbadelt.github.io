@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Die Jagd nach dem Schatz der Nibelungen"
+title: "Spear of Destiny"
 poster: nb2.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film
