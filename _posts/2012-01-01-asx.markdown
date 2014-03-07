@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asterix & Obelix God Save Britannia"
+title: "Asterix & Obelix"
 poster: asx.jpg
 date: 2012-01-01 00:00:00 -0800
 categories: film
