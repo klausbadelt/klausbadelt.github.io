@@ -8,7 +8,7 @@ date: Oct 6, 2013
 <main class="list" id="portfolio">
 
 {% for post in site.posts %}
-  <div class="header">
+  <div class="header" id="{{ post.poster | remove: '.jpg' }}">
     <h1>
       <a href="#">{{ post.title | escape }}</a>
     </h1>
@@ -19,7 +19,7 @@ date: Oct 6, 2013
            src=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
            data-original="images/posters/{{ post.poster }}">
       <caption>     
-        <a href="#" data-playlist="playlist-{{ post.poster | remove: '.jpg' }}" data-enqueue="no" class="fap-add-playlist btn glyphicons glyphicons_173_play"> > </a>
+        <a href="#" data-playlist="playlist-{{ post.poster | remove: '.jpg' }}" data-enqueue="no" class="fap-add-playlist btn glyphicons glyphicons_173_play" title="{{ post.title}}"> > </a>
       {% if post.buy %}
         <a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a>
       {% endif %}
@@ -75,5 +75,14 @@ $(function(){
       $poster.attr('src', $poster.attr('data-original'));
     }
   });
+  
+  // send event to Google Analytics for each score opened
+  $('#portfolio .header').click(function() {
+    ga('send', 'event', 'header', 'click', $(this).attr('id'));
+  });
+  $('a.fap-single-track, a.fap-single-track control, a.fap-add-playlist').click(function(){  
+    ga('send', 'event', 'a', 'play', $(this).attr('title'));
+  });
+  
 });
 </script>
