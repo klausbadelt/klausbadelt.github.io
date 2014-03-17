@@ -10,7 +10,7 @@ portfolio: grid
   
   {% for post in site.posts %}
   <div class="thumb {{ post.tags }}">
-    <div class="image">
+    <div class="image" id="{{ post.poster | remove: '.jpg' }}">
       {% if post.tags contains 'promoted' %}
         {% assign width = '310' %}
         {% assign height = '444' %}
@@ -109,11 +109,19 @@ $(function(){
     // show tracklisting
     $thisThumb.children('.caption').toggle(!$alreadySelected);
     $('#portfolio').isotope('reLayout');
+    
+    // send event to Google Analytics
+    ga('send', 'event', 'poster', 'click', $(this).attr('id'));
   });
-  
+    
   // add button on hover
   $('#portfolio li').hover(function(){    
     $(this).find('.control').toggle();
   })
+  
+  // Google Analytics for each track play
+  $('a.fap-single-track').click(function(){  
+    ga('send', 'event', 'track', 'click', $(this).attr('title'));
+  });
 });
 </script>
