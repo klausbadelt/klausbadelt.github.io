@@ -9,6 +9,7 @@ portfolio: grid
 <div id="portfolio" class="grid">
   
   {% for post in site.posts %}
+  {% unless post.disabled %}
   <div class="thumb {{ post.tags }}">
     <div class="image" id="{{ post.poster | remove: '.jpg' }}">
       {% if post.tags contains 'promoted' %}
@@ -42,6 +43,7 @@ portfolio: grid
       </ul>
     </div>
   </div>
+  {% endunless %}
   {% endfor %}
 
 </div>
