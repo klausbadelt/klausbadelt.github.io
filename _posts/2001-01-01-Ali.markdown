@@ -6,7 +6,7 @@ date: 2001-01-01 00:00:00 -0800
 categories: film
 buy: http://store.klausbadelt.com
 tracks:
- - title: Ali-no voc 
+ - title: Ali 
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWxpL0FsaS1ubyB2b2MubXAz
    duration: 02:51
  - title: Liston Fight
