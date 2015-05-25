@@ -10,8 +10,8 @@ date: Oct 6, 2013
 ##  Video
  1. Include 2 pop and tail pop
  1. Visible Timecode
-  * TC start = Full hour of the reel
-  * Position top-left of screen
+  1. TC start = Full hour of the reel
+  1. Position top-left of screen
  1. Version number/date burned in, at least in header
  1. Export as **Same as Source**. We're ok with several GB per reel.
 
@@ -19,9 +19,9 @@ date: Oct 6, 2013
  1. Include 2 pop and tail pop
  1. Enable only Dialog and FX tracks, 
  1. Export As: Audio, settings:
-  *. Mono
-  *. Sample Rate: Project Rate
-  *. Audio Format: WAV
+  1. Mono
+  1. Sample Rate: Project Rate
+  1. Audio Format: WAV
  1. Repeat same for Temp and Source Music tracks
 
 If you're running 6-channel stems along (for example, after a temp dub), please deliver all 6 channels as mono files.
