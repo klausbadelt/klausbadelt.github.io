@@ -24,7 +24,7 @@ date: Oct 6, 2013
 
 If you're running 6-channel stems along (for example, after a temp dub), please deliver all 6 channels as mono files.
 
-## For all files
+## All files
 
  1. Audio & video files line up
  1. File start = Picture start (i.e. exactly 8 s/10 s before program start). No extra preroll.
