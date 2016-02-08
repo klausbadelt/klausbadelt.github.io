@@ -1,20 +1,8 @@
 <!doctype html>
 <html>
-    <head>
-	    <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
-        <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-        <!-- <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>         -->
-        <link rel="stylesheet" href="css/style.css" type="text/css">
-        <link href="css/jquery.fullwidthAudioPlayer.css" rel="stylesheet" type="text/css">
-        <link href="css/jquery.fullwidthAudioPlayer-responsive.css" rel="stylesheet" type="text/css">
-    </head>
-    <body>
-    
-      {{ content }}
-
+  {% include head.html %}
+<body>
+  {{ content }}
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,8 +12,10 @@
   ga('create', 'UA-16921784-1', 'klausbadelt.com');
   ga('send', 'pageview');
 
+  // Google Analytics for each track play
+  $('a.fap-single-track').click(function(){
+    ga('send', 'event', 'a', 'play', $(this).attr('title'));
+  });
 </script>
-
-
-    </body>
+</body>
 </html>

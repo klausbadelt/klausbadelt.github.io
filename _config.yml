@@ -1,3 +1,4 @@
 name: klausbadelt.com
-markdown: redcarpet
-highlighter: pygments
+compress_html:
+  clippings: all
+  
