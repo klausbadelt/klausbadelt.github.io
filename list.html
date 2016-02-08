@@ -2,9 +2,9 @@
 layout: simple
 title: Klaus Badelt
 date: Oct 6, 2013
+custom_include:
+- _list.html
 ---
-{% include navbar.html %}
-
 <main class="list" id="portfolio">
 
 {% for post in site.posts %}
@@ -46,43 +46,3 @@ date: Oct 6, 2013
 {% endfor %}
 
 </main>
-
-<div id="player"></div>
-
-<script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
-<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
-<script src="https://connect.soundcloud.com/sdk.js" type="text/javascript"></script>
-<script src="js/jquery.fullwidthAudioPlayer.min.js" type="text/javascript"></script>
-
-<script>
-$(function(){
-  $('#player').fullwidthAudioPlayer({base64: true, opened: false, sortable: true});
-  
-  // show long playlists as multi-column
-  $('.col-right ul').filter(function(){ return $(this).find("li").length > 15 }).addClass('columns');
-  
-  // accordion on the titles
-  $('#portfolio').accordion({
-    header: "div.header",
-    heightStyle: "content",
-    collapsible: true,
-    active: false,
-    animate: true,
-    icons: false,
-    activate: function( event, ui ) {
-      // lazy load image on activation of panel
-      var $poster = ui.newPanel.find('img.lazy');
-      $poster.attr('src', $poster.attr('data-original'));
-    }
-  });
-  
-  // send event to Google Analytics for each score opened
-  $('#portfolio .header').click(function() {
-    ga('send', 'event', 'header', 'click', $(this).attr('id'));
-  });
-  $('a.fap-single-track, a.fap-single-track control, a.fap-add-playlist').click(function(){  
-    ga('send', 'event', 'a', 'play', $(this).attr('title'));
-  });
-  
-});
-</script>

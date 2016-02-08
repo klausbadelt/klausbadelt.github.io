@@ -1,1 +1,1 @@
-bundle exec jekyll serve --incremental --watch $1
+bundle exec jekyll serve --watch $1

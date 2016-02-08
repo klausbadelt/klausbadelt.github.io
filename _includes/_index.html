@@ -1,0 +1,64 @@
+<script src="js/jquery.isotope.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$(function(){
+  var $win = $(window),
+      $con = $('#portfolio'),
+      $imgs = $("img.lazy");
+      
+  // start isotope with lazyload images, see http://stackoverflow.com/questions/11337291/combining-jquery-isotope-and-lazy-load/13919010#13919010
+  $con.isotope({
+    itemSelector : '.thumb',
+    masonry: {
+      gutterWidth: 10,
+      columnWidth: 160,
+    },
+    onLayout: function( $elems, instance ) {
+        $win.trigger("scroll");
+        $imgs.css('visibility', 'visible');
+    }
+  });
+
+  $imgs.lazyload({
+    failure_limit: Math.max($imgs.length - 1, 0)
+  });
+  
+  // poster hover
+  $('#portfolio .image').hover(function(){
+    // $(this).children('h3').fadeIn('fast');
+    // $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',0.8);
+    $(this).css('cursor','pointer');
+    
+  }, function(){
+    // $(this).children('h3').fadeOut('fast');
+    // $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',1);
+    $(this).css('cursor','default');
+  });
+  
+  // open playlist on selected thumbnail
+  $('#portfolio .thumb .image').click(function(){
+
+    // save current state - did we click on an already selected thumbnail again?
+    var $thisThumb = $(this).parents().eq(0);
+    var $alreadySelected = $thisThumb.hasClass('selected');
+
+    // hide caption & remove 'selected' class everywhere
+    $('#portfolio .thumb.selected').removeClass('selected').children('.caption').hide();
+
+    // toggle class 'selected' on clicked poster
+    $thisThumb.toggleClass('selected', !$alreadySelected);
+
+    // show tracklisting
+    $thisThumb.children('.caption').toggle(!$alreadySelected);
+    $('#portfolio').isotope('reLayout');
+    
+    // send poster click event to Google Analytics
+    ga('send', 'event', 'poster', 'click', $(this).attr('id'));
+  });
+    
+  // add button on hover
+  $('#portfolio li').hover(function(){    
+    $(this).find('.control').toggle();
+  })
+});
+  
+</script>
