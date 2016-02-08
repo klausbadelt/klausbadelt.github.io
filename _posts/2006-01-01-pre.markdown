@@ -84,7 +84,7 @@ tracks:
  - title: Wednesday
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJlLzI2IFdlZG5lc2RheS5tcDM=
    duration: 06:28
- - title: O
+ - title: O (feat. Sia)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJlLzI3IE8ubXAz
    duration: 04:23
 ---
