@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!doctype html>
 <html lang="en">
 <head>
@@ -6,10 +9,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link rel="icon" href="/favicon.png" sizes="64x64" type="image/png">
     <link href="http://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="css/jquery.fullwidthAudioPlayer.css">
+    <!-- <link rel="stylesheet" type="text/css" href="css/jquery.fullwidthAudioPlayer.css"> -->
     <!-- <link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css"> -->
     <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
-    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/main.css" type="text/css">
 </head>
 <body>
 
@@ -42,7 +45,9 @@
     soundManager.useHTML5Audio = true;
     soundManager.debugMode = false;
     
-    // start audio player
+/*
+    start audio player
+*/
     $('#player').fullwidthAudioPlayer({
       base64: true, 
       opened: false, 
@@ -53,7 +58,9 @@
       coverSize: [50,72]
     });
     
-    // Google Analytics for each track play
+/*
+    Google Analytics for each track play
+*/
     $('a.fap-single-track, a.fap-single-track control, a.fap-add-playlist').click(function(){  
       ga('send', 'event', 'a', 'play', $(this).attr('title'));
     });  

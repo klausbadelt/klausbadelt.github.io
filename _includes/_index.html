@@ -5,7 +5,9 @@ $(function(){
       $con = $('#portfolio'),
       $imgs = $("img.lazy");
       
-  // start isotope with lazyload images, see http://stackoverflow.com/questions/11337291/combining-jquery-isotope-and-lazy-load/13919010#13919010
+/*
+  start isotope with lazyload images, see http://stackoverflow.com/questions/11337291/combining-jquery-isotope-and-lazy-load/13919010#13919010
+*/
   $con.isotope({
     itemSelector : '.thumb',
     masonry: {
@@ -22,40 +24,60 @@ $(function(){
     failure_limit: Math.max($imgs.length - 1, 0)
   });
   
-  // poster hover
+/*
+  poster hover
+*/
   $('#portfolio .image').hover(function(){
-    // $(this).children('h3').fadeIn('fast');
-    // $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',0.8);
+/*
+    $(this).children('h3').fadeIn('fast');
+    $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',0.8);
+*/
     $(this).css('cursor','pointer');
     
   }, function(){
-    // $(this).children('h3').fadeOut('fast');
-    // $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',1);
+/*
+    $(this).children('h3').fadeOut('fast');
+    $('#portfolio .image').not(this).find('img').stop().fadeTo('fast',1);
+*/
     $(this).css('cursor','default');
   });
   
-  // open playlist on selected thumbnail
+/*
+  open playlist on selected thumbnail
+*/
   $('#portfolio .thumb .image').click(function(){
 
-    // save current state - did we click on an already selected thumbnail again?
+/*
+    save current state - did we click on an already selected thumbnail again?
+*/
     var $thisThumb = $(this).parents().eq(0);
     var $alreadySelected = $thisThumb.hasClass('selected');
 
-    // hide caption & remove 'selected' class everywhere
+/*
+    hide caption & remove 'selected' class everywhere
+*/
     $('#portfolio .thumb.selected').removeClass('selected').children('.caption').hide();
 
-    // toggle class 'selected' on clicked poster
+/*
+    toggle class 'selected' on clicked poster
+*/
     $thisThumb.toggleClass('selected', !$alreadySelected);
 
-    // show tracklisting
+/*
+    show tracklisting
+*/
     $thisThumb.children('.caption').toggle(!$alreadySelected);
     $('#portfolio').isotope('reLayout');
     
-    // send poster click event to Google Analytics
+/*
+    send poster click event to Google Analytics
+*/
     ga('send', 'event', 'poster', 'click', $(this).attr('id'));
   });
     
-  // add button on hover
+/*
+  add button on hover
+*/
   $('#portfolio li').hover(function(){    
     $(this).find('.control').toggle();
   })

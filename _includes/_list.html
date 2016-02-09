@@ -1,9 +1,9 @@
 <script>
 $(function(){
-  // show long playlists as multi-column
+/*  show long playlists as multi-column */
   $('.col-right ul').filter(function(){ return $(this).find("li").length > 15 }).addClass('columns');
   
-  // accordion on the titles
+/*  accordion on the titles */
   $('#portfolio').accordion({
     header: "div.header",
     heightStyle: "content",
@@ -12,13 +12,13 @@ $(function(){
     animate: true,
     icons: false,
     activate: function( event, ui ) {
-      // lazy load image on activation of panel
+/*      lazy load image on activation of panel */
       var $poster = ui.newPanel.find('img.lazy');
       $poster.attr('src', $poster.attr('data-original'));
     }
   });
   
-  // send event to Google Analytics for each score opened
+/*  send event to Google Analytics for each score opened */
   $('#portfolio .header').click(function() {
     ga('send', 'event', 'header', 'click', $(this).attr('id'));
   });

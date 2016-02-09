@@ -1,4 +1,9 @@
 name: klausbadelt.com
 compress_html:
-  clippings: []
-  
+  clippings: all
+  comments: all
+  endings: all
+  profile: true
+sass:
+  sass_dir: _sass
+  style: compressed
