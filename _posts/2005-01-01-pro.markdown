@@ -4,7 +4,6 @@ title: "The Promise"
 poster: pro.jpg
 date: 2005-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Freedom of the Wa
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJvLzAxIEZyZWVkb20gb2YgdGhlIFdhLm1wMw==

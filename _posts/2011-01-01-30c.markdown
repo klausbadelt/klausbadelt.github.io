@@ -4,7 +4,6 @@ title: "30 Degres Couleur"
 poster: 30c.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Call From Far
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzAxIENhbGwgRnJvbSBGYXIubXAz

@@ -4,7 +4,6 @@ title: "Redline"
 poster: red.jpg
 date: 2007-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Redline Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVkLzAxIFJlZGxpbmUgVGhlbWUubXAz

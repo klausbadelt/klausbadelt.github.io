@@ -4,7 +4,6 @@ title: "Ultraviolet"
 poster: ult.jpg
 date: 2006-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Ultraviolet Theme Suite
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdWx0LzAxIFVsdHJhdmlvbGV0IFRoZW1lIFN1aXRlLm1wMw==

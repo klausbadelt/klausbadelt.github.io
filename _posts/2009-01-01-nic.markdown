@@ -4,7 +4,6 @@ title: "Le Petit Nicolas"
 poster: nic.jpg
 date: 2009-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Un Drôle De Sujet De Rédaction
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzAxIFVuIERyw7RsZSBEZSBTdWpldCBEZSBSw6lkYWN0aW9uLm1wMw==

@@ -4,7 +4,6 @@ title: "Basic"
 poster: bas.jpg
 date: 2002-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Panama
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYmFzLzFtMkEuMiBQYW5hbWEgU3RNaXgubXAz

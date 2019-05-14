@@ -4,7 +4,6 @@ title: "Killshot"
 poster: kil.jpg
 date: 2007-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Annie's Song Overlay
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2lsL0FubmllJ3MgU29uZyBPdmVybGF5Lm1wMw==

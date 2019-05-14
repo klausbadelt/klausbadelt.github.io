@@ -4,7 +4,6 @@ title: "Happy People"
 poster: hpy.jpg
 date: 2010-01-01 00:00:00 -0800
 categories: film
-buy: http://store.klausbadelt.com
 tracks:
  - title: Taiga Opening Titles
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzAxIFRhaWdhIE9wZW5pbmcgVGl0bGVzLm1wMw==
