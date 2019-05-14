@@ -244,9 +244,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cssminify
-  github-pages
-  taglib-ruby
+  cssminify (~> 1.0.2)
+  github-pages (= 198)
+  taglib-ruby (~> 0.7.1)
 
 BUNDLED WITH
    1.17.2
