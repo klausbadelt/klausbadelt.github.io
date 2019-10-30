@@ -4,7 +4,6 @@ title: "Rogue's Gallery"
 poster: rgy.jpg
 date: 2009-01-01 00:00:00 -0800
 categories: film
-disabled: true
 tracks:
  - title: Alpha And Omega ALT
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0FscGhhIEFuZCBPbWVnYSBBTFQubXAz
@@ -17,43 +16,43 @@ tracks:
    duration: 01:36
  - title: Bang You're Dead
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0JhbmcgWW91J3JlIERlYWQubXAz
-   duration: 01:53
+   duration: 01:52
  - title: Before You Opened Y
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0JlZm9yZSBZb3UgT3BlbmVkIFkubXAz
-   duration: 01:30
+   duration: 01:29
  - title: Cooler Room
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0Nvb2xlciBSb29tLm1wMw==
    duration: 00:27
  - title: Devil's Story
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0RldmlsJ3MgU3RvcnkubXAz
-   duration: 01:01
+   duration: 01:00
  - title: Exit
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0V4aXQubXAz
-   duration: 02:11
+   duration: 02:10
  - title: Explosions
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0V4cGxvc2lvbnMubXAz
-   duration: 00:48
+   duration: 00:47
  - title: Feng Shui
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0ZlbmcgU2h1aS5tcDM=
-   duration: 00:36
+   duration: 00:35
  - title: Fool Fights
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0Zvb2wgRmlnaHRzLm1wMw==
-   duration: 03:46
+   duration: 03:45
  - title: He's On Fire
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0hlJ3MgT24gRmlyZS5tcDM=
    duration: 00:56
  - title: Hermit 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0hlcm1pdCAyLm1wMw==
-   duration: 00:39
+   duration: 00:38
  - title: Hermit Coda
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0hlcm1pdCBDb2RhLm1wMw==
-   duration: 00:24
+   duration: 00:23
  - title: Hermit Traps Magician
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0hlcm1pdCBUcmFwcyBNYWdpY2lhbi5tcDM=
    duration: 00:40
  - title: Hermit
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0hlcm1pdC5tcDM=
-   duration: 00:55
+   duration: 00:54
  - title: In Light Of The Circum
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0luIExpZ2h0IE9mIFRoZSBDaXJjdW0ubXAz
    duration: 02:49
@@ -62,34 +61,34 @@ tracks:
    duration: 03:09
  - title: Look Bad In This Suit
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0xvb2sgQmFkIEluIFRoaXMgU3VpdC5tcDM=
-   duration: 01:16
+   duration: 01:15
  - title: Love 2 ALT
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0xvdmUgMiBBTFQubXAz
-   duration: 01:25
+   duration: 01:24
  - title: Love 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0xvdmUgMi5tcDM=
-   duration: 01:25
+   duration: 01:24
  - title: Love
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L0xvdmUubXAz
-   duration: 01:34
+   duration: 01:33
  - title: Noise
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L05vaXNlLm1wMw==
-   duration: 01:52
+   duration: 01:51
  - title: Of The People ALT4
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L09mIFRoZSBQZW9wbGUgQUxUNC5tcDM=
    duration: 01:44
  - title: Of The People 
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L09mIFRoZSBQZW9wbGUubXAz
-   duration: 01:43
+   duration: 01:42
  - title: Omega Team Eliminated
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L09tZWdhIFRlYW0gRWxpbWluYXRlZC5tcDM=
-   duration: 02:32
+   duration: 02:31
  - title: Project Endgame
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1Byb2plY3QgRW5kZ2FtZS5tcDM=
-   duration: 02:43
+   duration: 02:42
  - title: Rogue's Gallery
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1JvZ3VlJ3MgR2FsbGVyeS5tcDM=
-   duration: 02:52
+   duration: 02:51
  - title: Sous Chef
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1NvdXMgQ2hlZi5tcDM=
    duration: 02:49
@@ -101,7 +100,7 @@ tracks:
    duration: 00:52
  - title: Tower Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1Rvd2VyIEZpZ2h0Lm1wMw==
-   duration: 02:32
+   duration: 02:31
  - title: Two Inches
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1R3byBJbmNoZXMubXAz
    duration: 02:16
@@ -110,19 +109,19 @@ tracks:
    duration: 00:37
  - title: Warehouse Fire
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1dhcmVob3VzZSBGaXJlLm1wMw==
-   duration: 00:50
+   duration: 00:49
  - title: We're Gonna Crash
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1dlJ3JlIEdvbm5hIENyYXNoLm1wMw==
-   duration: 01:02
+   duration: 01:01
  - title: What Was That
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1doYXQgV2FzIFRoYXQubXAz
-   duration: 01:26
+   duration: 01:25
  - title: Where's The Exit
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1doZXJlJ3MgVGhlIEV4aXQubXAz
    duration: 03:04
  - title: Who Is This Guy
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1dobyBJcyBUaGlzIEd1eS5tcDM=
-   duration: 00:42
+   duration: 00:41
  - title: You're Lying
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmd5L1lvdSdyZSBMeWluZy5tcDM=
    duration: 01:05

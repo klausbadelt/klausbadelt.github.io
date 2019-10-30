@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "L'Immortel"
+title: "L'immortel (Original Motion Picture Soundtrack)"
 poster: 22b.jpg
 date: 2010-01-01 00:00:00 -0800
 categories: film
+buy: https://itunes.apple.com/us/album/limmortel-original-motion/id768224186?ign-mpt=uo%3D4
 tracks:
  - title: Mom
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzAxIE1vbS5tcDM=
@@ -24,75 +25,75 @@ tracks:
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA2IEhvc3BpdGFsIEFzc2Fzc2luYXRpb24ubXAz
    duration: 01:14
  - title: Parking
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzdtMzAgUGFya2luZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA3IFBhcmtpbmcubXAz
    duration: 03:09
  - title: Zac Arrives
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA3IFphYyBBcnJpdmVzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA4IFphYyBBcnJpdmVzLm1wMw==
    duration: 01:33
  - title: Eva's House
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA4IEV2YSdzIEhvdXNlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA5IEV2YSdzIEhvdXNlLm1wMw==
    duration: 01:08
  - title: Mom's Hospital Visit
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzA5IE1vbSdzIEhvc3BpdGFsIFZpc2l0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEwIE1vbSdzIEhvc3BpdGFsIFZpc2l0Lm1wMw==
    duration: 01:15
  - title: Pistachier Interview
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEwIFBpc3RhY2hpZXIgSW50ZXJ2aWV3Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzExIFBpc3RhY2hpZXIgSW50ZXJ2aWV3Lm1wMw==
    duration: 01:49
  - title: Charly Hospital Escape
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzExIENoYXJseSBIb3NwaXRhbCBFc2NhcGUubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEyIENoYXJseSBIb3NwaXRhbCBFc2NhcGUubXAz
    duration: 01:37
  - title: Harbor Warehouse
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEyIEhhcmJvciBXYXJlaG91c2UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEzIEhhcmJvciBXYXJlaG91c2UubXAz
    duration: 05:58
  - title: Karim Killed
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzEzIEthcmltIEtpbGxlZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE0IEthcmltIEtpbGxlZC5tcDM=
    duration: 03:07
  - title: Birthday Killing
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE0IEJpcnRoZGF5IEtpbGxpbmcubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE1IEJpcnRoZGF5IEtpbGxpbmcubXAz
    duration: 03:17
  - title: Cemetary Killing
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE1IENlbWV0YXJ5IEtpbGxpbmcubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE2IENlbWV0YXJ5IEtpbGxpbmcubXAz
    duration: 00:52
  - title: Mom's Apartment Trashed
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE2IE1vbSdzIEFwYXJ0bWVudCBUcmFzaGVkLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE3IE1vbSdzIEFwYXJ0bWVudCBUcmFzaGVkLm1wMw==
    duration: 02:21
  - title: Motorcycle Chase
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE3IE1vdG9yY3ljbGUgQ2hhc2UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE4IE1vdG9yY3ljbGUgQ2hhc2UubXAz
    duration: 04:15
  - title: Charly Interrogation
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE4IENoYXJseSBJbnRlcnJvZ2F0aW9uLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE5IENoYXJseSBJbnRlcnJvZ2F0aW9uLm1wMw==
    duration: 02:43
  - title: Franck Killing
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzE5IEZyYW5jayBLaWxsaW5nLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIwIEZyYW5jayBLaWxsaW5nLm1wMw==
    duration: 00:39
  - title: Rabau Killing
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIwIFJhYmF1IEtpbGxpbmcubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIxIFJhYmF1IEtpbGxpbmcubXAz
    duration: 03:13
  - title: USB Cafe
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIxIFVTQiBDYWZlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIyIFVTQiBDYWZlLm1wMw==
    duration: 01:20
  - title: Kid's Hijacking
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIyIEtpZCdzIEhpamFja2luZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIzIEtpZCdzIEhpamFja2luZy5tcDM=
    duration: 04:50
  - title: Charly's Plan
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzIzIENoYXJseSdzIFBsYW4ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI0IENoYXJseSdzIFBsYW4ubXAz
    duration: 01:50
  - title: Saving Anatole Pt1
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI0IFNhdmluZyBBbmF0b2xlIFB0MS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI1IFNhdmluZyBBbmF0b2xlIFB0MS5tcDM=
    duration: 02:49
  - title: Saving Anatole Pt2
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI1IFNhdmluZyBBbmF0b2xlIFB0Mi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI2IFNhdmluZyBBbmF0b2xlIFB0Mi5tcDM=
    duration: 04:50
  - title: Death Montage
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI2IERlYXRoIE1vbnRhZ2UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI3IERlYXRoIE1vbnRhZ2UubXAz
    duration: 00:42
  - title: Kitchen Conversation
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI3IEtpdGNoZW4gQ29udmVyc2F0aW9uLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI4IEtpdGNoZW4gQ29udmVyc2F0aW9uLm1wMw==
    duration: 04:14
  - title: Kitchen Fight
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI4IEtpdGNoZW4gRmlnaHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI5IEtpdGNoZW4gRmlnaHQubXAz
    duration: 01:25
  - title: Final Interrogation
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzI5IEZpbmFsIEludGVycm9nYXRpb24ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjJiLzMwIEZpbmFsIEludGVycm9nYXRpb24ubXAz
    duration: 03:51
 ---

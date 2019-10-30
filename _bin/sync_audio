@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Folder _website on AudiolibStation is required to be mounted
+aws --profile production s3 sync /Volumes/music/_KBpool/_website s3://klausbadelt-pool --exclude ".*" --delete

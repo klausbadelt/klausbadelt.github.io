@@ -10,10 +10,10 @@ tracks:
    duration: 01:05
  - title: Hospital
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzAyIDFtMiAxLjcgSG9zcGl0YWwubXAz
-   duration: 02:10
+   duration: 02:09
  - title: Going Home
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzAzIDFtMyAxLjggR29pbmcgSG9tZS5tcDM=
-   duration: 02:01
+   duration: 02:00
  - title: 1m4 cb 081902
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzA0IDFtNCBjYiAwODE5MDIubXAz
    duration: 00:56
@@ -25,7 +25,7 @@ tracks:
    duration: 02:09
  - title: Locked In The Basement
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzA3IDJtNyAxLjQgTG9ja2VkIEluIFRoZSBCYXNlbWVudC5tcDM=
-   duration: 00:53
+   duration: 00:52
  - title: Flushing Meds
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzA4IDJtOCAxLjEwIEZsdXNoaW5nIE1lZHMubXAz
    duration: 02:25
@@ -34,19 +34,19 @@ tracks:
    duration: 01:18
  - title: Video Journal 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzEwIDJtMTAgVmlkZW8gSm91cm5hbCAyLm1wMw==
-   duration: 01:26
+   duration: 01:25
  - title: Voices Fighting
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzExIDNtMTIgMS41IFZvaWNlcyBGaWdodGluZy5tcDM=
    duration: 01:10
  - title: 3m13 rev2 cb 064618
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzEyIDNtMTMgcmV2MiBjYiAwNjQ2MTgubXAz
-   duration: 00:43
+   duration: 00:42
  - title: 3m14rev cb 092820
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzEzIDNtMTRyZXYgY2IgMDkyODIwLm1wMw==
    duration: 00:57
  - title: Getting High
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzE0IDNtMTUgMS40IEdldHRpbmcgSGlnaC5tcDM=
-   duration: 01:23
+   duration: 01:22
  - title: Mirror
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzE1IDNtMTYgMS4yIE1pcnJvci5tcDM=
    duration: 00:53
@@ -61,16 +61,16 @@ tracks:
    duration: 02:56
  - title: Montage
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzE5IDRtMjEgMS4zIE1vbnRhZ2UubXAz
-   duration: 01:33
+   duration: 01:32
  - title: 4m22 cb 095102
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzIwIDRtMjIgY2IgMDk1MTAyLm1wMw==
-   duration: 01:01
+   duration: 01:00
  - title: 4m23 cb 113122
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzIxIDRtMjMgY2IgMTEzMTIyLm1wMw==
    duration: 02:29
  - title: Beth Drive
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzIyIDVtMjQgMS40IEJldGggRHJpdmUubXAz
-   duration: 03:05
+   duration: 03:04
  - title: I Love My Daughter
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzIzIDVtMjUgMS44IEkgTG92ZSBNeSBEYXVnaHRlci5tcDM=
    duration: 04:20
@@ -79,5 +79,5 @@ tracks:
    duration: 02:26
  - title: End Song Alright
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFkLzI1IDVtaSAxLjggRW5kIFNvbmcgQWxyaWdodC5tcDM=
-   duration: 05:29
+   duration: 05:28
 ---

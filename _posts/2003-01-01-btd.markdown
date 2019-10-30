@@ -4,11 +4,11 @@ title: "Beat The Drum"
 poster: btd.jpg
 date: 2003-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/beat-the-drum/id213986416
+buy: https://itunes.apple.com/us/album/beat-the-drum/id213986416?ign-mpt=uo%3D4
 tracks:
  - title: The Village
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzAxIFRoZSBWaWxsYWdlLm1wMw==
-   duration: 05:33
+   duration: 05:32
  - title: Thandi/Sacrifice
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzAyIFRoYW5kaV9TYWNyaWZpY2UubXAz
    duration: 03:46
@@ -23,25 +23,25 @@ tracks:
    duration: 01:31
  - title: The Muthi Market
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA2IFRoZSBNdXRoaSBNYXJrZXQubXAz
-   duration: 01:43
+   duration: 01:42
  - title: Wash For A Rand, Part 1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA3IFdhc2ggRm9yIEEgUmFuZCwgUGFydCAxLm1wMw==
    duration: 02:33
  - title: On The Streets
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA4IE9uIFRoZSBTdHJlZXRzLm1wMw==
-   duration: 02:09
+   duration: 02:08
  - title: We Do Not Talk About it
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzA5IFdlIERvIE5vdCBUYWxrIEFib3V0IGl0Lm1wMw==
-   duration: 02:08
+   duration: 02:07
  - title: Wash For A Rand, Part 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEwIFdhc2ggRm9yIEEgUmFuZCwgUGFydCAyLm1wMw==
-   duration: 02:54
+   duration: 02:53
  - title: Musa's Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzExIE11c2EncyBUaGVtZS5tcDM=
-   duration: 02:42
+   duration: 02:41
  - title: Have You Seen It?
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEyIEhhdmUgWW91IFNlZW4gSXRfLm1wMw==
-   duration: 01:21
+   duration: 01:20
  - title: Stephan Passed Away
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzEzIFN0ZXBoYW4gUGFzc2VkIEF3YXkubXAz
    duration: 00:45
@@ -53,13 +53,13 @@ tracks:
    duration: 01:55
  - title: What Has Happened
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE2IFdoYXQgSGFzIEhhcHBlbmVkLm1wMw==
-   duration: 01:21
+   duration: 01:20
  - title: Wait For Elder
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE3IFdhaXQgRm9yIEVsZGVyLm1wMw==
    duration: 01:11
  - title: Hallucination
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE4IEhhbGx1Y2luYXRpb24ubXAz
-   duration: 01:16
+   duration: 01:15
  - title: Lauren's Revelation
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzE5IExhdXJlbidzIFJldmVsYXRpb24ubXAz
    duration: 02:37
@@ -68,8 +68,8 @@ tracks:
    duration: 02:27
  - title: Did God Send You?
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzIxIERpZCBHb2QgU2VuZCBZb3VfLm1wMw==
-   duration: 03:12
+   duration: 03:11
  - title: Brand New Day
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYnRkLzIyIEJyYW5kIE5ldyBEYXkubXAz
-   duration: 05:15
+   duration: 05:14
 ---

@@ -7,16 +7,16 @@ categories: film
 tracks:
  - title: 232 E. 91st
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuLzIzMiBFLiA5MXN0Lm1wMw==
-   duration: 00:58
+   duration: 00:57
  - title: Beautiful Dreamer
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0JlYXV0aWZ1bCBEcmVhbWVyLm1wMw==
    duration: 00:32
  - title: Brassiere Incident
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0JyYXNzaWVyZSBJbmNpZGVudC5tcDM=
-   duration: 00:43
+   duration: 00:42
  - title: Burglar
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0J1cmdsYXIubXAz
-   duration: 00:18
+   duration: 00:17
  - title: Daydream
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0RheWRyZWFtLm1wMw==
    duration: 01:46
@@ -25,7 +25,7 @@ tracks:
    duration: 00:48
  - title: Driving to SH
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0RyaXZpbmcgdG8gU0gubXAz
-   duration: 00:53
+   duration: 00:52
  - title: Duck Girl
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0R1Y2sgR2lybC5tcDM=
    duration: 00:46
@@ -34,7 +34,7 @@ tracks:
    duration: 00:29
  - title: Fired
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0ZpcmVkLm1wMw==
-   duration: 01:24
+   duration: 01:23
  - title: First Date
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0ZpcnN0IERhdGUubXAz
    duration: 00:49
@@ -49,7 +49,7 @@ tracks:
    duration: 00:28
  - title: Homeless Montage
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0hvbWVsZXNzIE1vbnRhZ2UubXAz
-   duration: 02:19
+   duration: 02:18
  - title: Kiss
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0tpc3MubXAz
    duration: 01:00
@@ -58,28 +58,28 @@ tracks:
    duration: 00:21
  - title: Louis Car
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0xvdWlzIENhci5tcDM=
-   duration: 00:41
+   duration: 00:40
  - title: Louis Promotion
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL0xvdWlzIFByb21vdGlvbi5tcDM=
    duration: 00:35
  - title: Mary
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL01hcnkubXAz
-   duration: 01:13
+   duration: 01:12
  - title: Mirror, Mirror
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL01pcnJvciwgTWlycm9yLm1wMw==
-   duration: 01:18
+   duration: 01:17
  - title: Odd Henry Story
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL09kZCBIZW5yeSBTdG9yeS5tcDM=
-   duration: 00:25
+   duration: 00:24
  - title: Opera Entrance
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL09wZXJhIEVudHJhbmNlLm1wMw==
    duration: 00:32
  - title: Otto Bellman Pt1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL090dG8gQmVsbG1hbiBQdDEubXAz
-   duration: 00:31
+   duration: 00:30
  - title: Otto Bellman Pt2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL090dG8gQmVsbG1hbiBQdDIubXAz
-   duration: 00:38
+   duration: 00:37
  - title: Pissing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1Bpc3NpbmcubXAz
    duration: 01:02
@@ -88,10 +88,10 @@ tracks:
    duration: 00:23
  - title: Rice
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1JpY2UubXAz
-   duration: 01:23
+   duration: 01:22
  - title: Russian Tea Room 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1J1c3NpYW4gVGVhIFJvb20gMi5tcDM=
-   duration: 00:46
+   duration: 00:45
  - title: Russian Tea Room
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1J1c3NpYW4gVGVhIFJvb20ubXAz
    duration: 00:46
@@ -103,7 +103,7 @@ tracks:
    duration: 00:53
  - title: Toy Lion
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1RveSBMaW9uLm1wMw==
-   duration: 00:36
+   duration: 00:35
  - title: Vivian to Bed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1ZpdmlhbiB0byBCZWQubXAz
    duration: 01:37
@@ -112,5 +112,5 @@ tracks:
    duration: 00:54
  - title: Wallpaper
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWFuL1dhbGxwYXBlci5tcDM=
-   duration: 01:38
+   duration: 01:37
 ---

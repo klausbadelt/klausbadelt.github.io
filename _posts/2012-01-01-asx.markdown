@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Asterix & Obelix"
+title: "Asterix & Obelix God Save Britannia"
 poster: asx.jpg
 date: 2012-01-01 00:00:00 -0800
 categories: film
-buy: http://www.amazon.com/Ast%C3%A9rix-Ob%C3%A9lix-service-majest%C3%A9-originale/dp/B009M37EBE
+buy: https://itunes.apple.com/us/album/asterix-et-obelix-au-service/id568155133?ign-mpt=uo%3D4
 tracks:
  - title: Pirates
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzAxIFBpcmF0ZXMubXAz
-   duration: 00:54
+   duration: 00:53
  - title: Armada
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzAyIEFybWFkYS5tcDM=
-   duration: 01:27
+   duration: 01:26
  - title: Caesar On England
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzAzIENhZXNhciBPbiBFbmdsYW5kLm1wMw==
    duration: 00:57
@@ -20,7 +20,7 @@ tracks:
    duration: 01:30
  - title: Under Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzA1IFVuZGVyIEF0dGFjay5tcDM=
-   duration: 00:35
+   duration: 00:34
  - title: Bonne Chance
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzA2IEJvbm5lIENoYW5jZS5tcDM=
    duration: 00:34
@@ -29,10 +29,10 @@ tracks:
    duration: 00:27
  - title: Flying Mattress
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzA4IEZseWluZyBNYXR0cmVzcy5tcDM=
-   duration: 00:24
+   duration: 00:23
  - title: Enter Jolitorax
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzA5IEVudGVyIEpvbGl0b3JheC5tcDM=
-   duration: 00:21
+   duration: 00:20
  - title: Goodbye Idefix (guitar version)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzEwIEdvb2RieWUgSWRlZml4IChndWl0YXIgdmVyc2lvbikubXAz
    duration: 01:19
@@ -44,7 +44,7 @@ tracks:
    duration: 01:19
  - title: Seige
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzEzIFNlaWdlLm1wMw==
-   duration: 00:25
+   duration: 00:24
  - title: Strategies
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzE0IFN0cmF0ZWdpZXMubXAz
    duration: 00:48
@@ -71,22 +71,22 @@ tracks:
    duration: 01:30
  - title: Tapestry
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzIyIFRhcGVzdHJ5Lm1wMw==
-   duration: 00:55
+   duration: 00:54
  - title: Drinking Bout
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzIzIERyaW5raW5nIEJvdXQubXAz
    duration: 01:15
  - title: Obelix Drinking (drunk version)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzI0IE9iZWxpeCBEcmlua2luZyAoZHJ1bmsgdmVyc2lvbikubXAz
-   duration: 00:23
+   duration: 00:22
  - title: Obelix Drinking
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzI1IE9iZWxpeCBEcmlua2luZy5tcDM=
-   duration: 00:23
+   duration: 00:22
  - title: Friendly Soldiers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzI2IEZyaWVuZGx5IFNvbGRpZXJzLm1wMw==
    duration: 00:15
  - title: Stolen Carriage
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzI3IFN0b2xlbiBDYXJyaWFnZS5tcDM=
-   duration: 01:13
+   duration: 01:12
  - title: Beach Kiss
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzI4IEJlYWNoIEtpc3MubXAz
    duration: 00:58
@@ -95,7 +95,7 @@ tracks:
    duration: 01:24
  - title: Ophelia-Jolitorax Breakup
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzMwIE9waGVsaWEtSm9saXRvcmF4IEJyZWFrdXAubXAz
-   duration: 01:06
+   duration: 01:05
  - title: Face Off
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzMxIEZhY2UgT2ZmLm1wMw==
    duration: 01:10
@@ -104,13 +104,13 @@ tracks:
    duration: 01:05
  - title: Asterix Torture
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzMzIEFzdGVyaXggVG9ydHVyZS5tcDM=
-   duration: 01:26
+   duration: 01:25
  - title: Asterix Rescued
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzM0IEFzdGVyaXggUmVzY3VlZC5tcDM=
    duration: 01:12
  - title: Scaring Normans
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzM1IFNjYXJpbmcgTm9ybWFucy5tcDM=
-   duration: 00:30
+   duration: 00:29
  - title: Voleur
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzM2IFZvbGV1ci5tcDM=
    duration: 01:35
@@ -119,19 +119,19 @@ tracks:
    duration: 00:20
  - title: Pigeon Carpaccio
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzM4IFBpZ2VvbiBDYXJwYWNjaW8ubXAz
-   duration: 00:16
+   duration: 00:15
  - title: Normans Arrive
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzM5IE5vcm1hbnMgQXJyaXZlLm1wMw==
-   duration: 00:34
+   duration: 00:33
  - title: Duel
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQwIER1ZWwubXAz
-   duration: 00:49
+   duration: 00:48
  - title: Ophelia Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQxIE9waGVsaWEgRmlnaHQubXAz
-   duration: 00:42
+   duration: 00:41
  - title: Guards
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQyIEd1YXJkcy5tcDM=
-   duration: 00:42
+   duration: 00:41
  - title: Rugby
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQzIFJ1Z2J5Lm1wMw==
    duration: 01:04
@@ -140,19 +140,19 @@ tracks:
    duration: 02:08
  - title: Rugby Song
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQ1IFJ1Z2J5IFNvbmcubXAz
-   duration: 01:51
+   duration: 01:50
  - title: Rugby Song
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQ2IFJ1Z2J5IFNvbmcgKGFsdCkubXAz
    duration: 01:47
  - title: Arriving At Queen
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQ3IEFycml2aW5nIEF0IFF1ZWVuLm1wMw==
-   duration: 00:30
+   duration: 00:29
  - title: A Plan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQ4IEEgUGxhbi5tcDM=
-   duration: 00:59
+   duration: 00:58
  - title: New Magic Potion
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzQ5IE5ldyBNYWdpYyBQb3Rpb24ubXAz
-   duration: 01:01
+   duration: 01:00
  - title: Roman Discipline
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzUwIFJvbWFuIERpc2NpcGxpbmUubXAz
    duration: 00:39
@@ -173,10 +173,10 @@ tracks:
    duration: 01:16
  - title: Final Battle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzU2IEZpbmFsIEJhdHRsZS5tcDM=
-   duration: 01:16
+   duration: 01:15
  - title: Ceremony
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzU3IENlcmVtb255Lm1wMw==
-   duration: 02:49
+   duration: 02:48
  - title: Miss Macintosh
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYXN4LzU4IE1pc3MgTWFjaW50b3NoLm1wMw==
    duration: 01:28

@@ -8,5 +8,5 @@ buy: http://www.amazon.com/Chicken-Run-Original-Soundtrack/dp/B0013AUXL2/ref=sr_
 tracks:
  - title: Chicken Run
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvY2hrLzA5IENoaWNrZW4gUnVuLm1wMw==
-   duration: 01:06
+   duration: 01:05
 ---

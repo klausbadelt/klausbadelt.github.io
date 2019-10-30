@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shanghai Calling"
+title: "Shanghai Calling (Original Score)"
 poster: amt.jpg
 date: 2012-01-01 00:00:00 -0800
 categories: film
@@ -17,110 +17,110 @@ tracks:
    duration: 01:50
  - title: Apartment
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA0IEFwYXJ0bWVudC5tcDM=
-   duration: 00:47
+   duration: 00:46
  - title: Date Line
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA1IERhdGUgTGluZS5tcDM=
-   duration: 00:29
+   duration: 00:28
  - title: Late
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA2IDYgTGF0ZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA2IExhdGUubXAz
    duration: 00:32
  - title: Taxi
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA3IDcgVGF4aS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA3IFRheGkubXAz
    duration: 01:37
  - title: The Plan
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA4IDggVGhlIFBsYW4ubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA4IFRoZSBQbGFuLm1wMw==
    duration: 00:31
  - title: Fang Fang
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA5IDkgRmFuZyBGYW5nLm1wMw==
-   duration: 00:40
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzA5IEZhbmcgRmFuZy5tcDM=
+   duration: 00:39
  - title: Where Did You Get That
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEwIDEwIFdoZXJlIERpZCBZb3UgR2V0IFRoYXQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEwIFdoZXJlIERpZCBZb3UgR2V0IFRoYXQubXAz
    duration: 01:44
  - title: Awesome Wang
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzExIDExIEF3ZXNvbWUgV2FuZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzExIEF3ZXNvbWUgV2FuZy5tcDM=
    duration: 00:33
  - title: Promises
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEyIDEyIFByb21pc2VzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEyIFByb21pc2VzLm1wMw==
    duration: 01:10
  - title: I Believe In You
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEzIDEzIEkgQmVsaWV2ZSBJbiBZb3UubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzEzIEkgQmVsaWV2ZSBJbiBZb3UubXAz
    duration: 01:09
  - title: Katie
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE0IDE0IEthdGllLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE0IEthdGllLm1wMw==
    duration: 01:12
  - title: Awesome Wong
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE1IDE1IEF3ZXNvbWUgV29uZy5tcDM=
-   duration: 00:19
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE1IEF3ZXNvbWUgV29uZy5tcDM=
+   duration: 00:18
  - title: Lunch Invite
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE2IDE2IEx1bmNoIEludml0ZS5tcDM=
-   duration: 00:33
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE2IEx1bmNoIEludml0ZS5tcDM=
+   duration: 00:32
  - title: What Is My Type
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE3IDE3IFdoYXQgSXMgTXkgVHlwZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE3IFdoYXQgSXMgTXkgVHlwZS5tcDM=
    duration: 01:50
  - title: Segue
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE4IDE4IFNlZ3VlLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE4IFNlZ3VlLm1wMw==
    duration: 00:38
  - title: Meeting
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE5IDE5IE1lZXRpbmcubXAz
-   duration: 00:39
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzE5IE1lZXRpbmcubXAz
+   duration: 00:38
  - title: Ultimatum
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIwIDIwIFVsdGltYXR1bS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIwIFVsdGltYXR1bS5tcDM=
    duration: 00:59
  - title: Bike Chase (feat. Nathan "Flutebox" Lee)
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIxIDIxIEJpa2UgQ2hhc2UgKGZlYXQuIE5hdGhhbiBfRmx1dGVib3hfIExlZSkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIxIEJpa2UgQ2hhc2UgKGZlYXQuIE5hdGhhbiBfRmx1dGVib3hfIExlZSkubXAz
    duration: 01:55
  - title: Meet Wang
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIyIDIyIE1lZXQgV2FuZy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIyIE1lZXQgV2FuZy5tcDM=
    duration: 00:28
  - title: Family Style
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIzIDIzIEZhbWlseSBTdHlsZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzIzIEZhbWlseSBTdHlsZS5tcDM=
    duration: 02:30
  - title: Family Style Alt
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI0IDI0IEZhbWlseSBTdHlsZSBBbHQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI0IEZhbWlseSBTdHlsZSBBbHQubXAz
    duration: 02:30
  - title: Second Job
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI1IDI1IFNlY29uZCBKb2IubXAz
-   duration: 01:33
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI1IFNlY29uZCBKb2IubXAz
+   duration: 01:32
  - title: Ducks
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI2IDI2IER1Y2tzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI2IER1Y2tzLm1wMw==
    duration: 02:19
  - title: Maybe
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI3IDI3IE1heWJlLm1wMw==
-   duration: 02:15
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI3IE1heWJlLm1wMw==
+   duration: 02:14
  - title: Done With Romance
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI4IDI4IERvbmUgV2l0aCBSb21hbmNlLm1wMw==
-   duration: 01:09
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI4IERvbmUgV2l0aCBSb21hbmNlLm1wMw==
+   duration: 01:08
  - title: Leaving Shanghai
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI5IDI5IExlYXZpbmcgU2hhbmdoYWkubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzI5IExlYXZpbmcgU2hhbmdoYWkubXAz
    duration: 02:30
  - title: Coffee Bean
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMwIDMwIENvZmZlZSBCZWFuLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMwIENvZmZlZSBCZWFuLm1wMw==
    duration: 01:48
  - title: Rehired
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMxIDMxIFJlaGlyZWQubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMxIFJlaGlyZWQubXAz
    duration: 01:14
  - title: Yes I Do
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMyIDMyIFllcyBJIERvLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMyIFllcyBJIERvLm1wMw==
    duration: 00:44
  - title: Just One Date
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMzIDMzIEp1c3QgT25lIERhdGUubXAz
-   duration: 01:53
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzMzIEp1c3QgT25lIERhdGUubXAz
+   duration: 01:52
  - title: Talking About Cousins
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM0IDM0IFRhbGtpbmcgQWJvdXQgQ291c2lucy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM0IFRhbGtpbmcgQWJvdXQgQ291c2lucy5tcDM=
    duration: 00:44
  - title: Roadtrip
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM1IDM1IFJvYWR0cmlwLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM1IFJvYWR0cmlwLm1wMw==
    duration: 01:18
  - title: Severance
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM2IDM2IFNldmVyYW5jZS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM2IFNldmVyYW5jZS5tcDM=
    duration: 00:56
  - title: The Real Story
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM3IDM3IFRoZSBSZWFsIFN0b3J5Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM3IFRoZSBSZWFsIFN0b3J5Lm1wMw==
    duration: 01:28
  - title: Choices And Consequences
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM4IDM4IENob2ljZXMgQW5kIENvbnNlcXVlbmNlcy5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM4IENob2ljZXMgQW5kIENvbnNlcXVlbmNlcy5tcDM=
    duration: 01:40
  - title: Just A Coffee Bean
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM5IDM5IEp1c3QgQSBDb2ZmZWUgQmVhbi5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYW10LzM5IEp1c3QgQSBDb2ZmZWUgQmVhbi5tcDM=
    duration: 02:58
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jock"
+title: "Jock of the Bushveld (Original Motion Picture Soundtrack)"
 poster: joc.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
@@ -8,13 +8,13 @@ buy: http://store.klausbadelt.com/album/jock-of-the-bushveld-original-motion-pic
 tracks:
  - title: Golden Country
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzAxIEdvbGRlbiBDb3VudHJ5Lm1wMw==
-   duration: 03:26
+   duration: 03:25
  - title: Way Oh
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzAyIFdheSBPaC5tcDM=
    duration: 03:03
  - title: You Shouldn't of Done It
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzAzIFlvdSBTaG91bGRuJ3Qgb2YgRG9uZSBJdC5tcDM=
-   duration: 01:30
+   duration: 01:29
  - title: Howling At The Moon
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzA0IEhvd2xpbmcgQXQgVGhlIE1vb24ubXAz
    duration: 01:43
@@ -23,16 +23,16 @@ tracks:
    duration: 02:28
  - title: Hessian Blues
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzA2IEhlc3NpYW4gQmx1ZXMubXAz
-   duration: 01:49
+   duration: 01:48
  - title: Too Close To Call
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzA3IFRvbyBDbG9zZSBUbyBDYWxsLm1wMw==
-   duration: 03:57
+   duration: 03:56
  - title: By Your Side
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzA4IEJ5IFlvdXIgU2lkZS5tcDM=
    duration: 03:02
  - title: Camptown Races
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzA5IENhbXB0b3duIFJhY2VzLm1wMw==
-   duration: 02:29
+   duration: 02:28
  - title: Adventure Begins
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzEwIEFkdmVudHVyZSBCZWdpbnMubXAz
    duration: 04:19
@@ -53,7 +53,7 @@ tracks:
    duration: 03:57
  - title: Howling At The Moon (version 2)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzE2IEhvd2xpbmcgQXQgVGhlIE1vb24gKHZlcnNpb24gMikubXAz
-   duration: 03:10
+   duration: 03:09
  - title: Golden Country (Radio Edit)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvam9jLzE3IEdvbGRlbiBDb3VudHJ5IChSYWRpbyBFZGl0KS5tcDM=
    duration: 02:43

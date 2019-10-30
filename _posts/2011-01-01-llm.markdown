@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Rebellion"
+title: "L'ordre et la morale"
 poster: llm.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
 buy: http://store.klausbadelt.com/album/rebellion-lordre-et-la-morale
 tracks:
- - title: Lawyer Gets Prepped
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtL0xhd3llciBHZXRzIFByZXBwZWQubXAz
-   duration: 01:16
- - title: Generals Meeting
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtL0dlbmVyYWxzIE1lZXRpbmcubXAz
-   duration: 01:43
  - title: Fan alt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtL0ZhbiBhbHQubXAz
    duration: 00:54
+ - title: Generals Meeting
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtL0dlbmVyYWxzIE1lZXRpbmcubXAz
+   duration: 01:43
+ - title: Lawyer Gets Prepped
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtL0xhd3llciBHZXRzIFByZXBwZWQubXAz
+   duration: 01:15
  - title: Beginning of the End
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzAxIEJlZ2lubmluZyBvZiB0aGUgRW5kLm1wMw==
-   duration: 01:24
+   duration: 01:23
  - title: Flying
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzAyIEZseWluZy5tcDM=
    duration: 02:23
@@ -29,13 +29,13 @@ tracks:
    duration: 01:13
  - title: Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzA1IEF0dGFjay5tcDM=
-   duration: 02:35
+   duration: 02:34
  - title: Barbarie
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzA2IEJhcmJhcmllLm1wMw==
    duration: 02:28
  - title: Captured
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzA3IENhcHR1cmVkLm1wMw==
-   duration: 01:50
+   duration: 01:49
  - title: Fan 
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzA4IEZhbi5tcDM=
    duration: 01:00
@@ -44,11 +44,11 @@ tracks:
    duration: 02:23
  - title: Pre-Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzEwIFByZS1BdHRhY2subXAz
-   duration: 03:37
+   duration: 03:36
  - title: Big Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzExIEJpZyBBdHRhY2subXAz
-   duration: 07:51
+   duration: 07:50
  - title: Aftermath
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbGxtLzEyIEFmdGVybWF0aC5tcDM=
-   duration: 05:03
+   duration: 05:02
 ---

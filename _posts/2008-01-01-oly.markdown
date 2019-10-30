@@ -1,0 +1,11 @@
+---
+layout: post
+title: "2008 Beijing Olympics"
+poster: oly.jpg
+date: 2008-01-01 00:00:00 -0800
+categories: film
+tracks:
+ - title: Closing Ceremony Fire
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb2x5L2ZpcmUubXAz
+   duration: 11:11
+---

@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Pour Elle"
+title: "Pour elle (Original Motion Picture Soundtrack)"
 poster: ell.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film
+buy: https://itunes.apple.com/ie/album/pour-elle-original-motion/id295061445
 tracks:
  - title: Elle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzAxIEVsbGUubXAz
@@ -22,7 +23,7 @@ tracks:
    duration: 05:52
  - title: Too Late
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA2IFRvbyBMYXRlLm1wMw==
-   duration: 03:34
+   duration: 03:33
  - title: End Credits
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZWxsLzA3IEVuZCBDcmVkaXRzLm1wMw==
    duration: 05:12

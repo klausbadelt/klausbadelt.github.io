@@ -17,7 +17,7 @@ tracks:
    duration: 03:39
  - title: IV. Soul - Misterioso
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzA0IElWLiBTb3VsIC0gTWlzdGVyaW9zby5tcDM=
-   duration: 05:31
+   duration: 05:30
  - title: Home
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzA1IEhvbWUubXAz
    duration: 04:01
@@ -26,13 +26,13 @@ tracks:
    duration: 08:21
  - title: Journey
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzA3IEpvdXJuZXkubXAz
-   duration: 13:12
+   duration: 13:11
  - title: Capt. Alexi Vostrikov
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzA4IENhcHQuIEFsZXhpIFZvc3RyaWtvdi5tcDM=
    duration: 02:05
  - title: Missile Launch - The Rescue
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzA5IE1pc3NpbGUgTGF1bmNoIC0gVGhlIFJlc2N1ZS5tcDM=
-   duration: 10:01
+   duration: 10:00
  - title: Reunion
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvazE5LzExIFJldW5pb24ubXAz
    duration: 07:18

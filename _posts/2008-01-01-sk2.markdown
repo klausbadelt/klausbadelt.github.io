@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The Scorpion King 2"
+title: "The Scorpion King 2 (Original Motion Picture Score)"
 poster: sk2.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film
 tracks:
  - title: Titles
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzAxIFRpdGxlcy5tcDM=
-   duration: 02:19
+   duration: 02:18
  - title: Training
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzAyIFRyYWluaW5nLm1wMw==
    duration: 03:49
@@ -16,19 +16,19 @@ tracks:
    duration: 01:41
  - title: Ways Of The Warrior
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA0IFdheXMgT2YgVGhlIFdhcnJpb3IubXAz
-   duration: 00:48
+   duration: 00:47
  - title: Returning Home
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA1IFJldHVybmluZyBIb21lLm1wMw==
    duration: 02:49
  - title: Sargon's Assignment
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA2IFNhcmdvbidzIEFzc2lnbm1lbnQubXAz
-   duration: 02:09
+   duration: 02:08
  - title: Palace
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA3IFBhbGFjZS5tcDM=
    duration: 00:43
  - title: Sargon's Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA4IFNhcmdvbidzIEZpZ2h0Lm1wMw==
-   duration: 02:59
+   duration: 02:58
  - title: Pick One
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzA5IFBpY2sgT25lLm1wMw==
    duration: 00:40
@@ -37,16 +37,16 @@ tracks:
    duration: 05:38
  - title: Special Plans
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzExIFNwZWNpYWwgUGxhbnMubXAz
-   duration: 01:27
+   duration: 01:26
  - title: On The Ship
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzEyIE9uIFRoZSBTaGlwLm1wMw==
    duration: 00:35
  - title: Scribe
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzEzIFNjcmliZS5tcDM=
-   duration: 03:10
+   duration: 03:09
  - title: Going To The Castle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzE0IEdvaW5nIFRvIFRoZSBDYXN0bGUubXAz
-   duration: 01:45
+   duration: 01:44
  - title: Prison
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzE1IFByaXNvbi5tcDM=
    duration: 05:15
@@ -67,10 +67,10 @@ tracks:
    duration: 02:30
  - title: Stinky Forest
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzIxIFN0aW5reSBGb3Jlc3QubXAz
-   duration: 02:57
+   duration: 02:56
  - title: Worth My While
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzIyIFdvcnRoIE15IFdoaWxlLm1wMw==
-   duration: 02:10
+   duration: 02:09
  - title: Her Inner What
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzIzIEhlciBJbm5lciBXaGF0Lm1wMw==
    duration: 04:22
@@ -79,10 +79,10 @@ tracks:
    duration: 03:36
  - title: Seduction
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzI1IFNlZHVjdGlvbi5tcDM=
-   duration: 03:14
+   duration: 03:13
  - title: He Took Something
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzI2IEhlIFRvb2sgU29tZXRoaW5nLm1wMw==
-   duration: 01:59
+   duration: 01:58
  - title: Love To Sargon
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzI3IExvdmUgVG8gU2FyZ29uLm1wMw==
    duration: 01:17
@@ -91,10 +91,10 @@ tracks:
    duration: 02:01
  - title: Back And Forth
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzI5IEJhY2sgQW5kIEZvcnRoLm1wMw==
-   duration: 03:04
+   duration: 03:03
  - title: Contraption
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzMwIENvbnRyYXB0aW9uLm1wMw==
-   duration: 07:18
+   duration: 07:17
  - title: Wrong Sword
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzMxIFdyb25nIFN3b3JkLm1wMw==
    duration: 02:19
@@ -103,10 +103,10 @@ tracks:
    duration: 00:38
  - title: Scorpion Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzMzIFNjb3JwaW9uIEZpZ2h0Lm1wMw==
-   duration: 06:36
+   duration: 06:35
  - title: Soon Enough
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzM0IFNvb24gRW5vdWdoLm1wMw==
-   duration: 02:00
+   duration: 01:59
  - title: New King
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc2syLzM1IE5ldyBLaW5nLm1wMw==
    duration: 03:23

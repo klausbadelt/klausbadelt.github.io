@@ -4,65 +4,65 @@ title: "The Oranges"
 poster: ora.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
-buy: http://www.amazon.com/Oranges-Original-Motion-Picture-Soundtrack/dp/B009FRERCG
+buy: https://itunes.apple.com/us/album/oranges-original-motion-picture/id714684165?ign-mpt=uo%3D4
 tracks:
  - title: And Then What
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0FuZCBUaGVuIFdoYXQubXAz
    duration: 01:36
  - title: Bag Fight 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0JhZyBGaWdodCAyLm1wMw==
-   duration: 01:49
+   duration: 01:48
  - title: Bag Fight 3
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0JhZyBGaWdodCAzLm1wMw==
-   duration: 01:49
+   duration: 01:48
  - title: Bag Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0JhZyBGaWdodC5tcDM=
-   duration: 01:44
+   duration: 01:43
  - title: Car Kiss 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NhciBLaXNzIDIubXAz
-   duration: 00:23
+   duration: 00:22
  - title: Car Kiss
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NhciBLaXNzLm1wMw==
-   duration: 00:22
+   duration: 00:21
  - title: Caught (Ice Bucket) 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NhdWdodCAoSWNlIEJ1Y2tldCkgMi5tcDM=
    duration: 00:56
  - title: Caught (Ice Bucket)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NhdWdodCAoSWNlIEJ1Y2tldCkubXAz
-   duration: 01:00
+   duration: 00:59
  - title: Christmas Miracle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NocmlzdG1hcyBNaXJhY2xlLm1wMw==
    duration: 03:19
  - title: Christmas Shopping 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NocmlzdG1hcyBTaG9wcGluZyAyLm1wMw==
-   duration: 01:57
+   duration: 01:56
  - title: Christmas Shopping 3
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NocmlzdG1hcyBTaG9wcGluZyAzLm1wMw==
-   duration: 01:57
+   duration: 01:56
  - title: Christmas Shopping
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NocmlzdG1hcyBTaG9wcGluZy5tcDM=
-   duration: 01:57
+   duration: 01:56
  - title: Coffee Reunion 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NvZmZlZSBSZXVuaW9uIDIubXAz
-   duration: 01:03
+   duration: 01:02
  - title: Coffee Reunion
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0NvZmZlZSBSZXVuaW9uLm1wMw==
-   duration: 01:03
+   duration: 01:02
  - title: Flashback
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0ZsYXNoYmFjay5tcDM=
    duration: 01:07
  - title: Frenzied Life
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0ZyZW56aWVkIExpZmUubXAz
-   duration: 01:45
+   duration: 01:44
  - title: I Love You
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0kgTG92ZSBZb3UubXAz
-   duration: 01:04
+   duration: 01:03
  - title: Intro
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0ludHJvLm1wMw==
-   duration: 01:57
+   duration: 01:56
  - title: Kiss
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL0tpc3MubXAz
-   duration: 00:26
+   duration: 00:25
  - title: Nina's Back
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3JhL05pbmEncyBCYWNrLm1wMw==
    duration: 00:38

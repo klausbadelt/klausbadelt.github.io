@@ -8,5 +8,5 @@ buy: http://www.amazon.com/The-Others-Original-Motion-Picture/dp/B00005NBYS
 tracks:
  - title: The Others
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvb3RoL1RoZSBPdGhlcnMubXAz
-   duration: 01:01
+   duration: 01:00
 ---

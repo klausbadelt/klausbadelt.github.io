@@ -4,6 +4,7 @@ title: "30 Degres Couleur"
 poster: 30c.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
+buy: https://itunes.apple.com/us/album/bof-30-couleur/id507188475?ign-mpt=uo%3D4
 tracks:
  - title: Call From Far
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzAxIENhbGwgRnJvbSBGYXIubXAz
@@ -22,7 +23,7 @@ tracks:
    duration: 01:34
  - title: Mother Talk
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzA2IE1vdGhlciBUYWxrLm1wMw==
-   duration: 00:54
+   duration: 00:53
  - title: Mum's Gone
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzA3IE11bSdzIEdvbmUubXAz
    duration: 01:58
@@ -31,19 +32,19 @@ tracks:
    duration: 01:20
  - title: Visiting The Neighbors
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzA5IFZpc2l0aW5nIFRoZSBOZWlnaGJvcnMubXAz
-   duration: 00:17
+   duration: 00:16
  - title: Au Police
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzEwIEF1IFBvbGljZS5tcDM=
-   duration: 00:13
+   duration: 00:12
  - title: Wild Land
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzExIFdpbGQgTGFuZC5tcDM=
    duration: 01:50
  - title: Sorcerer
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzEyIFNvcmNlcmVyLm1wMw==
-   duration: 00:41
+   duration: 00:40
  - title: Moving Fridge
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzEzIE1vdmluZyBGcmlkZ2UubXAz
-   duration: 01:17
+   duration: 01:16
  - title: Dance
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMzBjLzE0IERhbmNlLm1wMw==
    duration: 01:10

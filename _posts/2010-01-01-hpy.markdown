@@ -7,13 +7,13 @@ categories: film
 tracks:
  - title: Taiga Opening Titles
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzAxIFRhaWdhIE9wZW5pbmcgVGl0bGVzLm1wMw==
-   duration: 02:24
+   duration: 02:23
  - title: Bear Marks
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzAyIEJlYXIgTWFya3MubXAz
-   duration: 03:03
+   duration: 03:02
  - title: May 1st
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzAzIE1heSAxc3QubXAz
-   duration: 00:25
+   duration: 00:24
  - title: Dolls
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzA1IERvbGxzLm1wMw==
    duration: 01:41
@@ -28,14 +28,14 @@ tracks:
    duration: 03:04
  - title: Solitude
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzA5IFNvbGl0dWRlLm1wMw==
-   duration: 01:17
+   duration: 01:16
  - title: Winter
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzEwIFdpbnRlci5tcDM=
    duration: 01:17
  - title: A Trapper's Day
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzExIEEgVHJhcHBlcidzIERheS5tcDM=
-   duration: 03:24
+   duration: 03:23
  - title: All Alone Again
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHB5LzEyIEFsbCBBbG9uZSBBZ2Fpbi5tcDM=
-   duration: 02:51
+   duration: 02:50
 ---

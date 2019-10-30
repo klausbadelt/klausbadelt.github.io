@@ -1,0 +1,54 @@
+AllCops:
+  Exclude:
+    - '_site/**/*'
+  TargetRubyVersion: 2.6
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: single_quotes
+
+# We like do ... end if, i.e. multiline modifier
+Style/MultilineIfModifier:
+  Enabled: false
+
+# !!value is a proper way to typecast a return value into Boolean, period
+Style/DoubleNegation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+# class Foo::Bar
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+
+# allow comma after last object in Arrays and Hashes
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
+
+# Bucking the ancient 80 character tradition.
+# http://programmers.stackexchange.com/questions/148677
+Metrics/LineLength:
+  Max: 120
+
+# tests are blocks and ok to be longer than regular blocks
+Metrics/BlockLength:
+  Exclude:
+    - test/**/*.rb
+# test suites are ok to be longer than regular classes
+Metrics/ClassLength:
+  Exclude:
+    - test/**/*.rb
+Metrics/MethodLength:
+  Exclude:
+    - test/**/*.rb
+
+EmptyLines:
+  Enabled: false
+
+Layout/AlignHash:
+  EnforcedLastArgumentHashStyle: ignore_implicit
+

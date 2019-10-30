@@ -4,20 +4,20 @@ title: "The Pledge"
 poster: plg.jpg
 date: 2001-01-01 00:00:00 -0800
 categories: film
-buy: http://www.amazon.com/The-Pledge-Hans-Zimmer/dp/B00005RZU6
+buy: https://itunes.apple.com/us/album/pledge-original-motion-picture/id182267486?ign-mpt=uo%3D4
 tracks:
  - title: The Angler
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzAxIFRoZSBBbmdsZXIubXAz
    duration: 05:24
  - title: Boogie Man
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzAyIEJvb2dpZSBNYW4ubXAz
-   duration: 01:28
+   duration: 01:27
  - title: Jerry & Lori
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzAzIEplcnJ5ICYgTG9yaS5tcDM=
    duration: 01:01
  - title: Church Nightmare
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzA0IENodXJjaCBOaWdodG1hcmUubXAz
-   duration: 02:19
+   duration: 02:18
  - title: Revisit Crime Scene
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzA1IFJldmlzaXQgQ3JpbWUgU2NlbmUubXAz
    duration: 01:16
@@ -26,10 +26,10 @@ tracks:
    duration: 02:47
  - title: The Wizard
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzA3IFRoZSBXaXphcmQubXAz
-   duration: 04:06
+   duration: 04:05
  - title: Ex Cop
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzA4IEV4IENvcC5tcDM=
-   duration: 01:50
+   duration: 01:49
  - title: He'd Rather Not
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzA5IEhlJ2QgUmF0aGVyIE5vdC5tcDM=
    duration: 02:00
@@ -44,13 +44,13 @@ tracks:
    duration: 01:36
  - title: The Pledge
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzEzIFRoZSBQbGVkZ2UubXAz
-   duration: 01:20
+   duration: 01:19
  - title: The Swing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzE0IFRoZSBTd2luZy5tcDM=
-   duration: 02:20
+   duration: 02:19
  - title: Ginny's Picture
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzE1IEdpbm55J3MgUGljdHVyZS5tcDM=
-   duration: 02:31
+   duration: 02:30
  - title: You're Crazy
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcGxnLzE2IFlvdSdyZSBDcmF6eS5tcDM=
    duration: 05:57

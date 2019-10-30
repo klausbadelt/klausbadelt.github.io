@@ -17,37 +17,37 @@ tracks:
    duration: 00:58
  - title: Sartet in ICU
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA0IFNhcnRldCBpbiBJQ1UubXAz
-   duration: 00:50
+   duration: 00:49
  - title: Ventilator
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA1IFZlbnRpbGF0b3IubXAz
-   duration: 01:14
+   duration: 01:13
  - title: Sleeping
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA2IFNsZWVwaW5nLm1wMw==
    duration: 00:43
  - title: Ransom Demand
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA3IFJhbnNvbSBEZW1hbmQubXAz
-   duration: 02:00
+   duration: 01:59
  - title: Nadia Held
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA4IE5hZGlhIEhlbGQubXAz
    duration: 02:54
  - title: Breaking Out Part 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzA5IEJyZWFraW5nIE91dCBQYXJ0IDIubXAz
-   duration: 03:08
+   duration: 03:07
  - title: Werner Takes Over
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzEwIFdlcm5lciBUYWtlcyBPdmVyLm1wMw==
-   duration: 01:53
+   duration: 01:52
  - title: Sartet Showers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzExIFNhcnRldCBTaG93ZXJzLm1wMw==
    duration: 02:47
  - title: Fabre Killed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzEyIEZhYnJlIEtpbGxlZC5tcDM=
-   duration: 02:02
+   duration: 02:01
  - title: Flashback
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzEzIEZsYXNoYmFjay5tcDM=
    duration: 01:29
  - title: Subway Foot Chase
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzE0IFN1YndheSBGb290IENoYXNlLm1wMw==
-   duration: 06:25
+   duration: 06:24
  - title: Abandoned Warehouse
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzE1IEFiYW5kb25lZCBXYXJlaG91c2UubXAz
    duration: 02:30
@@ -59,16 +59,16 @@ tracks:
    duration: 05:20
  - title: Sartet Captures Werner
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzE4IFNhcnRldCBDYXB0dXJlcyBXZXJuZXIubXAz
-   duration: 00:57
+   duration: 00:56
  - title: Nadia and Samuel Escaping
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzE5IE5hZGlhIGFuZCBTYW11ZWwgRXNjYXBpbmcubXAz
    duration: 02:11
  - title: Janitor Room
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzIwIEphbml0b3IgUm9vbS5tcDM=
-   duration: 01:39
+   duration: 01:38
  - title: New Baby
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzIxIE5ldyBCYWJ5Lm1wMw==
-   duration: 01:47
+   duration: 01:46
  - title: Werner's Humiliation
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvYWJwLzIyIFdlcm5lcidzIEh1bWlsaWF0aW9uLm1wMw==
    duration: 01:20

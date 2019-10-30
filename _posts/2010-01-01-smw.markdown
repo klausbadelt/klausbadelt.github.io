@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Small World"
+title: "Small World (Original Score)"
 poster: smw.jpg
 date: 2010-01-01 00:00:00 -0800
 categories: film
@@ -8,19 +8,19 @@ buy: http://store.klausbadelt.com/album/small-world-original-score
 tracks:
  - title: Fire
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAxIEZpcmUubXAz
-   duration: 01:41
+   duration: 01:40
  - title: Conrad in the Rain
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAyIENvbnJhZCBpbiB0aGUgUmFpbi5tcDM=
-   duration: 01:35
+   duration: 01:34
  - title: Opening Titles
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzAzIE9wZW5pbmcgVGl0bGVzLm1wMw==
    duration: 02:00
  - title: Snow Night
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA0IFNub3cgTmlnaHQubXAz
-   duration: 02:14
+   duration: 02:13
  - title: Doctor Visit
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA1IERvY3RvciBWaXNpdC5tcDM=
-   duration: 01:25
+   duration: 01:24
  - title: Wedding Night
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA2IFdlZGRpbmcgTmlnaHQubXAz
    duration: 00:46
@@ -29,13 +29,13 @@ tracks:
    duration: 01:25
  - title: Simone Follows
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA4IFNpbW9uZSBGb2xsb3dzLm1wMw==
-   duration: 00:55
+   duration: 00:54
  - title: Chair on the Roof
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzA5IENoYWlyIG9uIHRoZSBSb29mLm1wMw==
-   duration: 01:12
+   duration: 01:11
  - title: Goodbye Elisabeth
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzEwIEdvb2RieWUgRWxpc2FiZXRoLm1wMw==
-   duration: 02:31
+   duration: 02:30
  - title: Fazzoletti
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzExIEZhenpvbGV0dGkubXAz
    duration: 00:44
@@ -47,13 +47,13 @@ tracks:
    duration: 02:32
  - title: Stealing Pictures
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE0IFN0ZWFsaW5nIFBpY3R1cmVzLm1wMw==
-   duration: 01:23
+   duration: 01:22
  - title: Pregnant
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE1IFByZWduYW50Lm1wMw==
    duration: 02:29
  - title: Dans la Panade
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE2IERhbnMgbGEgUGFuYWRlLm1wMw==
-   duration: 01:36
+   duration: 01:35
  - title: Tomikoni
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzE3IFRvbWlrb25pLm1wMw==
    duration: 00:59
@@ -65,13 +65,13 @@ tracks:
    duration: 00:50
  - title: Papa Flashback
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIwIFBhcGEgRmxhc2hiYWNrLm1wMw==
-   duration: 02:42
+   duration: 02:41
  - title: Elvira's Plan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIxIEVsdmlyYSdzIFBsYW4ubXAz
-   duration: 02:36
+   duration: 02:35
  - title: Elvira's Secret
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIyIEVsdmlyYSdzIFNlY3JldC5tcDM=
-   duration: 03:36
+   duration: 03:35
  - title: Last Journey
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvc213LzIzIExhc3QgSm91cm5leS5tcDM=
    duration: 06:09

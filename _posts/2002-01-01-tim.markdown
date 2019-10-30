@@ -4,53 +4,98 @@ title: "The Time Machine"
 poster: tim.jpg
 date: 2002-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/time-machine-original-motion/id65176536?uo=4&at=11lmv4
+buy: https://itunes.apple.com/us/album/time-machine-original-motion/id65176536?ign-mpt=uo%3D4
 tracks:
  - title: 1m1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzFNMSBTdE1peC5tcDM=
    duration: 03:25
+ - title: Professor Alexander Hartdegen
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzAxIFByb2Zlc3NvciBBbGV4YW5kZXIgSGFydGRlZ2VuLm1wMw==
+   duration: 03:26
  - title: 1m2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzFNMiBTdE1peC5tcDM=
    duration: 01:23
+ - title: Wish Me Luck
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzAyIFdpc2ggTWUgTHVjay5tcDM=
+   duration: 01:25
  - title: 1m3
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzFNMyBTdE1peC5tcDM=
    duration: 01:11
+ - title: Emma
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzAzIEVtbWEubXAz
+   duration: 02:36
  - title: 1m4
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzFNNCBTdE1peC5tcDM=
    duration: 01:32
+ - title: The Time Machine
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA0IFRoZSBUaW1lIE1hY2hpbmUubXAz
+   duration: 03:12
  - title: 2m5
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJNNSBTdE1peC5tcDM=
    duration: 03:10
+ - title: Bleeker Street
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA1IEJsZWVrZXIgU3RyZWV0Lm1wMw==
+   duration: 02:28
  - title: 2m6
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJtNiBTdE1peC5tcDM=
    duration: 02:28
+ - title: I Don't Belong Here
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA2IEkgRG9uJ3QgQmVsb25nIEhlcmUubXAz
+   duration: 03:48
  - title: 2m7
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJtNyBTdE1peC5tcDM=
    duration: 00:56
+ - title: Time Travel
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA3IFRpbWUgVHJhdmVsLm1wMw==
+   duration: 04:35
  - title: 2m8A2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJtOEEyIFN0TWl4Lm1wMw==
    duration: 01:08
+ - title: Eloi
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA4IEVsb2kubXAz
+   duration: 02:12
  - title: 2m8Aalt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJtOEFhbHQgU3RNaXgubXAz
    duration: 03:59
+ - title: Good Night
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzA5IEdvb2QgTmlnaHQubXAz
+   duration: 04:05
  - title: 2m8B
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzJtOEIgU3RNaXgubXAz
    duration: 01:02
+ - title: Stone Language
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzEwIFN0b25lIExhbmd1YWdlLm1wMw==
+   duration: 04:54
+ - title: Morlocks Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzExIE1vcmxvY2tzIEF0dGFjay5tcDM=
+   duration: 04:23
  - title: 3m9/10A/10B
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNtOV8xMEFfMTBCIFN0TWl4Lm1wMw==
    duration: 04:41
+ - title: Where The Ghosts Are
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzEyIFdoZXJlIFRoZSBHaG9zdHMgQXJlLm1wMw==
+   duration: 01:37
  - title: 3m11
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNNMTEgU3RNaXgubXAz
    duration: 02:29
+ - title: The Master
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzEzIFRoZSBNYXN0ZXIubXAz
+   duration: 07:14
  - title: 3m11 v1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNtMTEgdjEgU3RNaXgubXAz
    duration: 02:13
  - title: 3m11 v2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNNMTEgdjIgU3RNaXgtTk9STV8wMS5tcDM=
    duration: 02:29
+ - title: "What If?"
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzE0IF9XaGF0IElmX18ubXAz
+   duration: 06:16
  - title: 3m11 v2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNNMTEgdjIgU3RNaXgubXAz
    duration: 02:29
+ - title: Godspeed
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzE1IEdvZHNwZWVkLm1wMw==
+   duration: 05:19
  - title: 3m12rev
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdGltLzNtMTJyZXYgU3RNaXgubXAz
    duration: 00:38

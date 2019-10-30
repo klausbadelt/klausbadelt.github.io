@@ -7,7 +7,7 @@ categories: film
 tracks:
  - title: Hunger End
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHVuL0h1bmdlciBFbmQubXAz
-   duration: 01:02
+   duration: 01:01
  - title: Shooting 
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHVuL1Nob290aW5nLm1wMw==
    duration: 01:12

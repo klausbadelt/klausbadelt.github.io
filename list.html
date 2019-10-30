@@ -15,11 +15,16 @@ custom_include:
   </div>
   <section>
     <div class="col-left">
-      <img class="lazy" 
+      <img class="lazy"
            src=data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
            data-original="images/posters/{{ post.poster }}">
-      <caption>     
-        <a href="#" data-playlist="playlist-{{ post.poster | remove: '.jpg' }}" data-enqueue="no" class="fap-add-playlist btn glyphicons glyphicons_173_play" title="{{ post.title}}"> > </a>
+      <caption>
+        <a
+          href="#"
+          data-playlist="playlist-{{ post.poster | remove: '.jpg' }}"
+          data-enqueue="no"
+          class="fap-add-playlist btn glyphicons glyphicons_173_play"
+          title="{{ post.title}}"> > </a>
       {% if post.buy %}
         <a href="{{ post.buy }}" rel="_blank" class="btn">Buy Album</a>
       {% endif %}
@@ -27,14 +32,20 @@ custom_include:
     </div>
     <div class="col-right">
       <ul data-playlist="playlist-{{ post.poster | remove: '.jpg' }}">
-        
+
         {% for track in post.tracks %}
         <li>
           <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track">
-            {{ track.title | escape }}
+            {{ track.title | append: "" | escape }}
           </a>
           &nbsp;
-          <a href="{{ track.url }}" rel='images/posters/{{ post.poster }}' title="{{ post.title}}-{{ track.title }}" class="fap-single-track control" data-enqueue='yes' style="display: none;">
+          <a
+            href="{{ track.url }}"
+            rel='images/posters/{{ post.poster }}'
+            title="{{ post.title}}-{{ track.title }}"
+            class="fap-single-track control"
+            data-enqueue='yes'
+            style="display: none;">
             <span class='glyphicon glyphicon-plus'></span>
           </a>
         </li>

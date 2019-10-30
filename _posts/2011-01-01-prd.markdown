@@ -4,32 +4,32 @@ title: "The Prodigies"
 poster: prd.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/the-prodigies-soundtrack/id505858736
+buy: https://itunes.apple.com/us/album/the-prodigies-soundtrack/id505858736?ign-mpt=uo%3D4
 tracks:
  - title: Desperate City
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzAyIERlc3BlcmF0ZSBDaXR5Lm1wMw==
-   duration: 00:50
+   duration: 00:49
  - title: Jimbo's Act
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzAzIEppbWJvJ3MgQWN0Lm1wMw==
    duration: 02:37
  - title: Bringing them in
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA0IEJyaW5naW5nIHRoZW0gaW4ubXAz
-   duration: 03:10
+   duration: 03:09
  - title: Messages
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA1IE1lc3NhZ2VzLm1wMw==
-   duration: 02:24
+   duration: 02:23
  - title: Bird
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA2IEJpcmQubXAz
-   duration: 01:25
+   duration: 01:24
  - title: Killian Death
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA3IEtpbGxpYW4gRGVhdGgubXAz
-   duration: 01:48
+   duration: 01:47
  - title: Show Idea
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA4IFNob3cgSWRlYS5tcDM=
    duration: 01:54
  - title: The Prodigies Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzA5IFRoZSBQcm9kaWdpZXMgVGhlbWUubXAz
-   duration: 01:28
+   duration: 01:27
  - title: Park Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzEwIFBhcmsgQXR0YWNrLm1wMw==
    duration: 02:08
@@ -38,19 +38,19 @@ tracks:
    duration: 03:14
  - title: Are We Six
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzEyIEFyZSBXZSBTaXgubXAz
-   duration: 05:11
+   duration: 05:10
  - title: Jenkins Archive fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzE0IEplbmtpbnMgQXJjaGl2ZSBmaWdodC5tcDM=
-   duration: 01:09
+   duration: 01:08
  - title: White House arrival
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzE1IFdoaXRlIEhvdXNlIGFycml2YWwubXAz
-   duration: 01:53
+   duration: 01:52
  - title: Under Attack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzE2IFVuZGVyIEF0dGFjay5tcDM=
-   duration: 06:07
+   duration: 06:06
  - title: Mister President
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzE3IE1pc3RlciBQcmVzaWRlbnQubXAz
-   duration: 05:23
+   duration: 05:22
  - title: Prodigies ending theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcHJkLzE4IFByb2RpZ2llcyBlbmRpbmcgdGhlbWUubXAz
    duration: 03:27

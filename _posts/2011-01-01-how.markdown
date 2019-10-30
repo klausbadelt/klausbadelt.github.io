@@ -5,73 +5,73 @@ poster: how.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
 tracks:
- - title: Basement Attack
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0Jhc2VtZW50IEF0dGFjay5tcDM=
-   duration: 01:23
- - title: Bathroom Fight
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0JhdGhyb29tIEZpZ2h0Lm1wMw==
-   duration: 03:00
- - title: Building A Weapon
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0J1aWxkaW5nIEEgV2VhcG9uLm1wMw==
-   duration: 01:41
- - title: Building An Army
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0J1aWxkaW5nIEFuIEFybXkubXAz
-   duration: 02:30
- - title: Campus Lockdown
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0NhbXB1cyBMb2NrZG93bi5tcDM=
-   duration: 02:25
- - title: Elevator
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0VsZXZhdG9yLm1wMw==
-   duration: 04:34
- - title: Eliana's Choice
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0VsaWFuYSdzIENob2ljZS5tcDM=
-   duration: 02:06
- - title: Eliana
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0VsaWFuYS5tcDM=
-   duration: 01:26
- - title: Graduation Dogs
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0dyYWR1YXRpb24gRG9ncy5tcDM=
-   duration: 01:09
  - title: Intro
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0ludHJvLm1wMw==
-   duration: 04:22
- - title: Killing A Father
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0tpbGxpbmcgQSBGYXRoZXIubXAz
-   duration: 05:15
- - title: Library Jump
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0xpYnJhcnkgSnVtcC5tcDM=
-   duration: 02:08
- - title: Library Seduction
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L0xpYnJhcnkgU2VkdWN0aW9uLm1wMw==
-   duration: 05:57
- - title: Mom Fight
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L01vbSBGaWdodC5tcDM=
-   duration: 02:34
- - title: Mom Reveals
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L01vbSBSZXZlYWxzLm1wMw==
-   duration: 03:58
- - title: Rescuing Eliana
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1Jlc2N1aW5nIEVsaWFuYS5tcDM=
-   duration: 01:29
- - title: Researching Mom
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1Jlc2VhcmNoaW5nIE1vbS5tcDM=
-   duration: 00:54
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzAxIEludHJvLm1wMw==
+   duration: 04:21
  - title: Roland
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1JvbGFuZC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzAyIFJvbGFuZC5tcDM=
    duration: 01:41
+ - title: Eliana
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzAzIEVsaWFuYS5tcDM=
+   duration: 01:25
  - title: Silver Ring
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1NpbHZlciBSaW5nLm1wMw==
-   duration: 01:09
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA0IFNpbHZlciBSaW5nLm1wMw==
+   duration: 01:08
+ - title: Researching Mom
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA1IFJlc2VhcmNoaW5nIE1vbS5tcDM=
+   duration: 00:54
+ - title: Basement Attack
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA2IEJhc2VtZW50IEF0dGFjay5tcDM=
+   duration: 01:23
  - title: Tell Me About Werewolves
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1RlbGwgTWUgQWJvdXQgV2VyZXdvbHZlcy5tcDM=
-   duration: 03:17
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA3IFRlbGwgTWUgQWJvdXQgV2VyZXdvbHZlcy5tcDM=
+   duration: 03:16
+ - title: Bathroom Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA4IEJhdGhyb29tIEZpZ2h0Lm1wMw==
+   duration: 03:00
+ - title: Graduation Dogs
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzA5IEdyYWR1YXRpb24gRG9ncy5tcDM=
+   duration: 01:09
  - title: The Werewolf Test
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1RoZSBXZXJld29sZiBUZXN0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzEwIFRoZSBXZXJld29sZiBUZXN0Lm1wMw==
    duration: 03:05
+ - title: Library Seduction
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzExIExpYnJhcnkgU2VkdWN0aW9uLm1wMw==
+   duration: 05:56
+ - title: Mom Reveals
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzEyIE1vbSBSZXZlYWxzLm1wMw==
+   duration: 03:58
+ - title: Library Jump
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzEzIExpYnJhcnkgSnVtcC5tcDM=
+   duration: 02:07
+ - title: Campus Lockdown
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE0IENhbXB1cyBMb2NrZG93bi5tcDM=
+   duration: 02:24
  - title: Untitled Horror Project
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1VudGl0bGVkIEhvcnJvciBQcm9qZWN0Lm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE1IFVudGl0bGVkIEhvcnJvciBQcm9qZWN0Lm1wMw==
    duration: 01:43
+ - title: Building A Weapon
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE2IEJ1aWxkaW5nIEEgV2VhcG9uLm1wMw==
+   duration: 01:40
+ - title: Killing A Father
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE3IEtpbGxpbmcgQSBGYXRoZXIubXAz
+   duration: 05:15
+ - title: Rescuing Eliana
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE4IFJlc2N1aW5nIEVsaWFuYS5tcDM=
+   duration: 01:29
+ - title: Building An Army
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzE5IEJ1aWxkaW5nIEFuIEFybXkubXAz
+   duration: 02:29
+ - title: Elevator
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzIwIEVsZXZhdG9yLm1wMw==
+   duration: 04:33
  - title: You're The Alpha
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93L1lvdSdyZSBUaGUgQWxwaGEubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzIxIFlvdSdyZSBUaGUgQWxwaGEubXAz
    duration: 01:52
+ - title: Mom Fight
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzIyIE1vbSBGaWdodC5tcDM=
+   duration: 02:33
+ - title: Eliana's Choice
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaG93LzIzIEVsaWFuYSdzIENob2ljZS5tcDM=
+   duration: 02:05
 ---

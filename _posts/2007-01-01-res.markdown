@@ -4,26 +4,26 @@ title: "Rescue Dawn"
 poster: res.jpg
 date: 2007-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/rescue-dawn-music-from-motion/id257820391
+buy: https://itunes.apple.com/us/album/rescue-dawn-music-from-motion/id257820391?ign-mpt=uo%3D4
 tracks:
  - title: Dieter's Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAxIERpZXRlcidzIFRoZW1lLm1wMw==
    duration: 03:21
  - title: Journey
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAyIEpvdXJuZXkubXAz
-   duration: 01:22
+   duration: 01:21
  - title: Hope
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzAzIEhvcGUubXAz
    duration: 05:26
  - title: Sign This
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA0IFNpZ24gVGhpcy5tcDM=
-   duration: 01:32
+   duration: 01:31
  - title: Gathering Rice
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA1IEdhdGhlcmluZyBSaWNlLm1wMw==
    duration: 01:46
  - title: The Plan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA2IFRoZSBQbGFuLm1wMw==
-   duration: 02:23
+   duration: 02:22
  - title: After The Fire
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA3IEFmdGVyIFRoZSBGaXJlLm1wMw==
    duration: 01:54
@@ -32,10 +32,10 @@ tracks:
    duration: 02:56
  - title: Operation Rescue Dawn
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzA5IE9wZXJhdGlvbiBSZXNjdWUgRGF3bi5tcDM=
-   duration: 02:42
+   duration: 02:41
  - title: It's Him
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzEwIEl0J3MgSGltLm1wMw==
-   duration: 04:06
+   duration: 04:05
  - title: Keep Your Head Down
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzExIEtlZXAgWW91ciBIZWFkIERvd24ubXAz
    duration: 00:53
@@ -47,13 +47,13 @@ tracks:
    duration: 01:44
  - title: Sleepwalkers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE0IFNsZWVwd2Fsa2Vycy5tcDM=
-   duration: 02:41
+   duration: 02:40
  - title: Rescue
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE1IFJlc2N1ZS5tcDM=
-   duration: 04:44
+   duration: 04:43
  - title: Lights (Rescue Dawn Version)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE2IExpZ2h0cyAoUmVzY3VlIERhd24gVmVyc2lvbikubXAz
-   duration: 04:20
+   duration: 04:19
  - title: Dieter's Theme Reprise
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcmVzLzE3IERpZXRlcidzIFRoZW1lIFJlcHJpc2UubXAz
    duration: 01:47

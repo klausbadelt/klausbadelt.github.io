@@ -4,14 +4,13 @@ title: "TMNT"
 poster: tmnt.jpg
 date: 2007-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/tmnt-teenage-mutant-ninja/id217613224?uo=4&at=11lmv4
 tracks:
  - title: Story of TMNT
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wMSAxbTEgMS4xNyBTdG9yeSBvZiBUTU5ULm1wMw==
-   duration: 01:16
+   duration: 01:15
  - title: 3000 Years Ago
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wMiAxbTIgMS4xNyAzMDAwIFllYXJzIEFnby5tcDM=
-   duration: 02:43
+   duration: 02:42
  - title: Ghost of the Jungle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wMyAxbTMgMS4xNCBHaG9zdCBvZiB0aGUgSnVuZ2xlLm1wMw==
    duration: 03:25
@@ -20,40 +19,46 @@ tracks:
    duration: 01:49
  - title: Donatello
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wNSAxbTUgMS4xMCBEb25hdGVsbG8ubXAz
-   duration: 00:30
+   duration: 00:29
  - title: Nightwatcher
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wNiAxbTYgMS4xMyBOaWdodHdhdGNoZXIubXAz
-   duration: 02:28
+   duration: 02:27
  - title: Your Brothers Need You
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wNyAxbTcgMS43IFlvdXIgQnJvdGhlcnMgTmVlZCBZb3UubXAz
-   duration: 00:57
+   duration: 00:56
  - title: Those Glory Days
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wOCAybTkgMS43IFRob3NlIEdsb3J5IERheXMubXAz
-   duration: 02:09
+   duration: 02:08
  - title: These Guns
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8wOSAybTlhIDEuMiBUaGVzZSBHdW5zLm1wMw==
    duration: 00:28
  - title: Enter Winters Corp
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xMCAybTEwIDEuOSBFbnRlciBXaW50ZXJzIENvcnAubXAz
-   duration: 00:42
+   duration: 00:41
  - title: Winters Delivery
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xMSAybTExIDEuNiBXaW50ZXJzIERlbGl2ZXJ5Lm1wMw==
-   duration: 01:47
+   duration: 01:46
  - title: Foot Clan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xMiAybTEyIDEuMTEgRm9vdCBDbGFuLm1wMw==
    duration: 01:31
  - title: Sidekick
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xMyAybTEzIDEuMTYgU2lkZWtpY2subXAz
-   duration: 02:57
+   duration: 02:56
+ - title: I Love Being A Turtle
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xMyBJIExvdmUgQmVpbmcgQSBUdXJ0bGUubXAz
+   duration: 03:07
+ - title: Nightwatcher
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xNCBOaWdodHdhdGNoZXIubXAz
+   duration: 03:00
  - title: Arise Brothers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xNCAybTE0IDEuNyBBcmlzZSBCcm90aGVycy5tcDM=
-   duration: 00:45
+   duration: 00:44
  - title: Leo Returns
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xNSAybTE1IDEuMTIgTGVvIFJldHVybnMubXAz
    duration: 03:26
  - title: I-Beam Fight pt. 1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xNiAybTE3YS1BIDEuOCBJLUJlYW0gRmlnaHQgcHQuIDEubXAz
-   duration: 01:42
+   duration: 01:41
  - title: I-Beam Fight pt. 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xNyAybTE3YS1CIDEuMTAgSS1CZWFtIEZpZ2h0IHB0LiAyLm1wMw==
    duration: 01:18
@@ -62,22 +67,22 @@ tracks:
    duration: 01:25
  - title: Karai Complains
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8xOSAzbTE4IDEuOSBLYXJhaSBDb21wbGFpbnMubXAz
-   duration: 01:35
+   duration: 01:34
  - title: Splinter Briefing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yMCAzbTE5IDEuNyBTcGxpbnRlciBCcmllZmluZy5tcDM=
-   duration: 01:03
+   duration: 01:02
  - title: Gathering Monsters
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yMSAzbTIwIDEuOSBHYXRoZXJpbmcgTW9uc3RlcnMubXAz
    duration: 01:50
  - title: Watching Foot
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yMiAzbTIxIDEuMTYgV2F0Y2hpbmcgRm9vdC5tcDM=
-   duration: 02:39
+   duration: 02:38
  - title: Witnesses
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yMyAzbTIyIDEuMTAgV2l0bmVzc2VzLm1wMw==
    duration: 01:51
  - title: Raph Wounded
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yNCAzbTIzIDEuNyBSYXBoIFdvdW5kZWQubXAz
-   duration: 00:31
+   duration: 00:30
  - title: Legend of Yauto
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yNSAzbTI0IDEuOCBMZWdlbmQgb2YgWWF1dG8ubXAz
    duration: 01:53
@@ -89,19 +94,19 @@ tracks:
    duration: 00:41
  - title: Deli Monster
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yOCAzbTI3IDEuNyBEZWxpIE1vbnN0ZXIubXAz
-   duration: 00:58
+   duration: 00:57
  - title: Deli Help
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8yOSAzbTI4IDEuNiBEZWxpIEhlbHAubXAz
-   duration: 00:43
+   duration: 00:42
  - title: Nightwatcher Chase
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zMCA0bTI5IDEuMTUgTmlnaHR3YXRjaGVyIENoYXNlLm1wMw==
-   duration: 02:45
+   duration: 02:44
  - title: Raph Fights Leo
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zMSA0bTMwIDEuOCBSYXBoIEZpZ2h0cyBMZW8ubXAz
-   duration: 03:09
+   duration: 03:08
  - title: Leo Taken
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zMiA0bTMxIDEuNyBMZW8gVGFrZW4ubXAz
-   duration: 01:48
+   duration: 01:47
  - title: They Took Him
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zMyA0bTMyIDEuNCBUaGV5IFRvb2sgSGltLm1wMw==
    duration: 02:24
@@ -116,26 +121,26 @@ tracks:
    duration: 00:45
  - title: Freeing Leo
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zNyA0bTM3IDEuNiBGcmVlaW5nIExlby5tcDM=
-   duration: 01:09
+   duration: 01:08
  - title: Winters Feud
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zOCA0bTM5LTM5IDEuMTAgV2ludGVycyBGZXVkLm1wMw==
    duration: 03:02
  - title: Stones Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC8zOSA0bTQwIDEuOSBTdG9uZXMgRmlnaHQubXAz
-   duration: 02:03
+   duration: 02:02
  - title: Final Monster
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC80MCA1bTQzIDEuMTUgRmluYWwgTW9uc3Rlci5tcDM=
    duration: 01:25
  - title: We Did It
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC80MSA1bTQ0IDEuMTEgV2UgRGlkIEl0Lm1wMw==
-   duration: 01:35
+   duration: 01:34
  - title: Winters End
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC80MiA1bTQ1IDEuOCBXaW50ZXJzIEVuZC5tcDM=
-   duration: 01:44
+   duration: 01:43
  - title: Masks
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC80MyA1bTQ2IDEuMTMgTWFza3MubXAz
    duration: 01:27
  - title: Love Being A Turtle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdG1udC80NCA1bTQ3IDEuOCBMb3ZlIEJlaW5nIEEgVHVydGxlLm1wMw==
-   duration: 00:40
+   duration: 00:39
 ---

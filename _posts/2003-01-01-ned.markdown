@@ -20,7 +20,7 @@ tracks:
    duration: 04:24
  - title: The Light
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmVkLzA1IFRoZSBMaWdodC5tcDM=
-   duration: 02:01
+   duration: 02:00
  - title: Julia
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmVkLzA2IEp1bGlhLm1wMw==
    duration: 01:21
@@ -32,7 +32,7 @@ tracks:
    duration: 06:23
  - title: Moreton Bay
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmVkLzA5IE1vcmV0b24gQmF5Lm1wMw==
-   duration: 02:51
+   duration: 02:50
  - title: Doomed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmVkLzEwIERvb21lZC5tcDM=
    duration: 05:11
@@ -47,5 +47,5 @@ tracks:
    duration: 01:29
  - title: The Glenrowan Inn
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmVkLzE0IFRoZSBHbGVucm93YW4gSW5uLm1wMw==
-   duration: 07:02
+   duration: 07:01
 ---

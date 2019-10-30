@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Expo Shanghai 2010"
+poster: exp.jpg
+date: 2010-01-01 00:00:00 -0800
+categories: film
+tracks:
+ - title: IOF A 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzAxIElPRiBBLm1wMw==
+   duration: 01:44
+ - title: IOF B
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzAyIElPRiBCLm1wMw==
+   duration: 02:21
+ - title: IOF C
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzAzIElPRiBDLm1wMw==
+   duration: 01:45
+ - title: Loading Area
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzA0IExvYWRpbmcgQXJlYS5tcDM=
+   duration: 06:32
+ - title: Pre A
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzA1IFByZSBBLm1wMw==
+   duration: 02:28
+ - title: Pre C 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzA2IFByZSBDLm1wMw==
+   duration: 00:52
+ - title: Preshow B 
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzA3IFByZXNob3cgQi5tcDM=
+   duration: 08:49
+ - title: Walk In Out
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhwLzA4IFdhbGsgSW4gT3V0Lm1wMw==
+   duration: 00:53
+---

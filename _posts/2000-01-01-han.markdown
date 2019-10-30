@@ -12,19 +12,19 @@ tracks:
  - title: Face Peeling
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuL0ZhY2UgUGVlbGluZy5tcDM=
    duration: 01:41
- - title: Gourmet Valse Tartare
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuLzA0IEdvdXJtZXQgVmFsc2UgVGFydGFyZS5tcDM=
-   duration: 06:50
  - title: Gourmet Valse
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuL0dvdXJtZXQgVmFsc2UubXAz
    duration: 01:36
+ - title: Gourmet Valse Tartare
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuLzA0IEdvdXJtZXQgVmFsc2UgVGFydGFyZS5tcDM=
+   duration: 06:50
  - title: The Awakening
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuL1RoZSBBd2FrZW5pbmcubXAz
-   duration: 02:12
+   duration: 02:11
  - title: Valse Tartar alt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuL1ZhbHNlIFRhcnRhciBhbHQubXAz
    duration: 09:04
  - title: Valse Tartar
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaGFuL1ZhbHNlIFRhcnRhci5tcDM=
-   duration: 02:54
+   duration: 02:53
 ---

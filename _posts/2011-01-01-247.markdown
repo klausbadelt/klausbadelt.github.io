@@ -8,7 +8,7 @@ buy: http://store.klausbadelt.com/album/marco-w-original-score
 tracks:
  - title: Opening
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzAxIE9wZW5pbmcubXAz
-   duration: 01:12
+   duration: 01:11
  - title: Media Frenzy
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzAyIE1lZGlhIEZyZW56eS5tcDM=
    duration: 01:38
@@ -17,10 +17,10 @@ tracks:
    duration: 02:24
  - title: Prison Yard
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzA0IFByaXNvbiBZYXJkLm1wMw==
-   duration: 01:49
+   duration: 01:48
  - title: Taken To Doctor
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzA1IFRha2VuIFRvIERvY3Rvci5tcDM=
-   duration: 02:13
+   duration: 02:12
  - title: Alone With Her
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzA2IEFsb25lIFdpdGggSGVyLm1wMw==
    duration: 01:27
@@ -32,22 +32,22 @@ tracks:
    duration: 01:27
  - title: New Representative
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzA5IE5ldyBSZXByZXNlbnRhdGl2ZS5tcDM=
-   duration: 00:46
+   duration: 00:45
  - title: Through The Glass
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzEwIFRocm91Z2ggVGhlIEdsYXNzLm1wMw==
-   duration: 01:25
+   duration: 01:24
  - title: First Verdict
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzExIEZpcnN0IFZlcmRpY3QubXAz
-   duration: 07:47
+   duration: 07:46
  - title: Front Page
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzEyIEZyb250IFBhZ2UubXAz
    duration: 00:44
  - title: Packing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzEzIFBhY2tpbmcubXAz
-   duration: 03:04
+   duration: 03:03
  - title: Nice To Meet You
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzE0IE5pY2UgVG8gTWVldCBZb3UubXAz
-   duration: 01:02
+   duration: 01:01
  - title: Letter Home
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzE1IExldHRlciBIb21lLm1wMw==
    duration: 01:38
@@ -59,7 +59,7 @@ tracks:
    duration: 00:48
  - title: Overdose
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzE4IE92ZXJkb3NlLm1wMw==
-   duration: 03:07
+   duration: 03:06
  - title: Beaten
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzE5IEJlYXRlbi5tcDM=
    duration: 03:39
@@ -68,13 +68,13 @@ tracks:
    duration: 01:35
  - title: We Have Eachother
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzIxIFdlIEhhdmUgRWFjaG90aGVyLm1wMw==
-   duration: 02:47
+   duration: 02:46
  - title: Free
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzIyIEZyZWUubXAz
-   duration: 02:17
+   duration: 02:16
  - title: Van Ride
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzIzIFZhbiBSaWRlLm1wMw==
-   duration: 01:22
+   duration: 01:21
  - title: Together Again
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMjQ3LzI0IFRvZ2V0aGVyIEFnYWluLm1wMw==
    duration: 02:06

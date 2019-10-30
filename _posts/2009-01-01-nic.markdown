@@ -6,52 +6,52 @@ date: 2009-01-01 00:00:00 -0800
 categories: film
 tracks:
  - title: Un Drôle De Sujet De Rédaction
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzAxIFVuIERyw7RsZSBEZSBTdWpldCBEZSBSw6lkYWN0aW9uLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzAxIFVuIERyb8yCbGUgRGUgU3VqZXQgRGUgUmXMgWRhY3Rpb24ubXAz
    duration: 07:42
  - title: Le Petit Nicolas
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzAyIExlIFBldGl0IE5pY29sYXMubXAz
    duration: 02:46
  - title: Mord Aux Prof...
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzAzIE1vcmQgQXV4IFByb2YuLi4ubXAz
-   duration: 01:15
+   duration: 01:14
  - title: La Roulette
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA0IExhIFJvdWxldHRlLm1wMw==
-   duration: 00:59
+   duration: 00:58
  - title: Marie-Edwige
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA1IE1hcmllLUVkd2lnZS5tcDM=
-   duration: 01:01
+   duration: 01:00
  - title: Monsieur Moucheboume
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA2IE1vbnNpZXVyIE1vdWNoZWJvdW1lLm1wMw==
-   duration: 01:44
+   duration: 01:43
  - title: 3 Francs La Rose
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA3IDMgRnJhbmNzIExhIFJvc2UubXAz
    duration: 03:02
  - title: Un Jeu Drôlement Compliqué
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA4IFVuIEpldSBEcsO0bGVtZW50IENvbXBsaXF1w6kubXAz
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA4IFVuIEpldSBEcm/MgmxlbWVudCBDb21wbGlxdWXMgS5tcDM=
    duration: 01:40
  - title: Une Ballade En Forêt
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA5IFVuZSBCYWxsYWRlIEVuIEZvcsOqdC5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzA5IFVuZSBCYWxsYWRlIEVuIEZvcmXMgnQubXAz
    duration: 01:21
  - title: Le Spectacle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzEwIExlIFNwZWN0YWNsZS5tcDM=
    duration: 01:11
  - title: Je Vais Avoir Un Petit Frère!
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzExIEplIFZhaXMgQXZvaXIgVW4gUGV0aXQgRnLDqHJlIS5tcDM=
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzExIEplIFZhaXMgQXZvaXIgVW4gUGV0aXQgRnJlzIByZSEubXAz
    duration: 01:09
  - title: Ménage
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzEyIE3DqW5hZ2UubXAz
-   duration: 01:20
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzEyIE1lzIFuYWdlLm1wMw==
+   duration: 01:19
  - title: Gangster-À-Louer
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzEzIEdhbmdzdGVyLcOALUxvdWVyLm1wMw==
-   duration: 01:09
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzEzIEdhbmdzdGVyLUHMgC1Mb3Vlci5tcDM=
+   duration: 01:08
  - title: Le Procès d'Agnan
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE0IExlIFByb2PDqHMgZCdBZ25hbi5tcDM=
-   duration: 01:12
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE0IExlIFByb2NlzIBzIGQnQWduYW4ubXAz
+   duration: 01:11
  - title: Potion Magique
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE1IFBvdGlvbiBNYWdpcXVlLm1wMw==
    duration: 03:50
  - title: Rivalités Fraternelles
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE2IFJpdmFsaXTDqXMgRnJhdGVybmVsbGVzLm1wMw==
+   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE2IFJpdmFsaXRlzIFzIEZyYXRlcm5lbGxlcy5tcDM=
    duration: 02:05
  - title: Rolls Folle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmljLzE3IFJvbGxzIEZvbGxlLm1wMw==

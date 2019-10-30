@@ -4,17 +4,17 @@ title: "Poseidon"
 poster: pos.jpg
 date: 2006-01-01 00:00:00 -0800
 categories: film
-buy: https://itunes.apple.com/us/album/poseidon-music-from-motion/id151910191
+buy: https://itunes.apple.com/us/album/poseidon-music-from-motion/id151910191?ign-mpt=uo%3D4
 tracks:
  - title: The Poseidon
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA0IFRoZSBQb3NlaWRvbi5tcDM=
-   duration: 03:19
+   duration: 03:18
  - title: The Wave
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA1IFRoZSBXYXZlLm1wMw==
    duration: 04:37
  - title: A Map and a Plan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA2IEEgTWFwIGFuZCBhIFBsYW4ubXAz
-   duration: 02:30
+   duration: 02:29
  - title: Fire Drive
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA3IEZpcmUgRHJpdmUubXAz
    duration: 02:48
@@ -23,11 +23,11 @@ tracks:
    duration: 07:09
  - title: Drowning
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzA5IERyb3duaW5nLm1wMw==
-   duration: 03:05
+   duration: 03:04
  - title: Don't Look Down
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzEwIERvbid0IExvb2sgRG93bi5tcDM=
-   duration: 03:44
+   duration: 03:43
  - title: Escape
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvcG9zLzExIEVzY2FwZS5tcDM=
-   duration: 02:42
+   duration: 02:41
 ---

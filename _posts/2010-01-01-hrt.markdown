@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Heartbreaker"
+title: "L'Arnacoeur (Heartbreaker)"
 poster: hrt.jpg
 date: 2010-01-01 00:00:00 -0800
 categories: film
@@ -8,25 +8,25 @@ buy: http://store.klausbadelt.com/album/larnacoeur-original-score
 tracks:
  - title: Love Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzAxIExvdmUgVGhlbWUubXAz
-   duration: 01:51
+   duration: 01:50
  - title: Bodyguard
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzAyIEJvZHlndWFyZC5tcDM=
-   duration: 01:07
+   duration: 01:06
  - title: Juliette's Theme
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzAzIEp1bGlldHRlJ3MgVGhlbWUubXAz
    duration: 00:42
  - title: Going For A Ride
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzA0IEdvaW5nIEZvciBBIFJpZGUubXAz
-   duration: 00:30
+   duration: 00:29
  - title: Bicycle Chase
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzA1IEJpY3ljbGUgQ2hhc2UubXAz
-   duration: 02:07
+   duration: 02:06
  - title: Rapproachment
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzA2IFJhcHByb2FjaG1lbnQubXAz
    duration: 01:44
  - title: Plane to Vegas
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzA3IFBsYW5lIHRvIFZlZ2FzLm1wMw==
-   duration: 03:27
+   duration: 03:26
  - title: Beginning to Fall
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzA4IEJlZ2lubmluZyB0byBGYWxsLm1wMw==
    duration: 00:32
@@ -38,22 +38,22 @@ tracks:
    duration: 01:01
  - title: Wedding Dress
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzExIFdlZGRpbmcgRHJlc3MubXAz
-   duration: 00:52
+   duration: 00:51
  - title: Monaco
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzEyIE1vbmFjby5tcDM=
-   duration: 01:10
+   duration: 01:09
  - title: Don't Cry
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzEzIERvbid0IENyeS5tcDM=
    duration: 00:50
  - title: Debts
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzE0IERlYnRzLm1wMw==
-   duration: 01:12
+   duration: 01:11
  - title: Near Kiss
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzE1IE5lYXIgS2lzcy5tcDM=
-   duration: 00:56
+   duration: 00:55
  - title: Nuts
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzE2IE51dHMubXAz
-   duration: 00:55
+   duration: 00:54
  - title: Matteo
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzE3IE1hdHRlby5tcDM=
    duration: 00:40
@@ -71,5 +71,5 @@ tracks:
    duration: 00:52
  - title: Elevator
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvaHJ0LzIyIEVsZXZhdG9yLm1wMw==
-   duration: 01:04
+   duration: 01:03
 ---

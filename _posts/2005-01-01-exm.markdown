@@ -1,25 +1,26 @@
 ---
 layout: post
-title: "Directors Cuts"
+title: "The Extra Man (Original Score)"
 poster: exm.jpg
 date: 2005-01-01 00:00:00 -0800
 categories: film
+buy: http://music.labelzero.com/album/the-extra-man-original-score
 tracks:
  - title: Doom Service
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAxIERvb20gU2VydmljZS5tcDM=
-   duration: 03:03
+   duration: 03:02
  - title: Hellstorm
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAyIEhlbGxzdG9ybS5tcDM=
    duration: 02:31
  - title: Deep Seize
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzAzIERlZXAgU2VpemUubXAz
-   duration: 02:06
+   duration: 02:05
  - title: Dark Horse
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA1IERhcmsgSG9yc2UubXAz
-   duration: 02:06
+   duration: 02:05
  - title: Door Of Destiny
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA2IERvb3IgT2YgRGVzdGlueS5tcDM=
-   duration: 02:29
+   duration: 02:28
  - title: Hammer & Tongs
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzA3IEhhbW1lciAmIFRvbmdzLm1wMw==
    duration: 03:26
@@ -31,7 +32,7 @@ tracks:
    duration: 02:30
  - title: Next Of Sin
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzEwIE5leHQgT2YgU2luLm1wMw==
-   duration: 02:02
+   duration: 02:01
  - title: Crunch Moment
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZXhtLzExIENydW5jaCBNb21lbnQubXAz
    duration: 02:18

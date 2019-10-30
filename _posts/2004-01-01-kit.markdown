@@ -19,16 +19,16 @@ tracks:
    duration: 03:40
  - title: Boy Sleeps/Army Attacks
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0JveSBTbGVlcHNfQXJteSBBdHRhY2tzLm1wMw==
-   duration: 07:01
+   duration: 07:00
  - title: Brunhild Confronts Sigf
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0JydW5oaWxkIENvbmZyb250cyBTaWdmLm1wMw==
-   duration: 03:56
+   duration: 03:55
  - title: Brunhild Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0JydW5oaWxkIEZpZ2h0Lm1wMw==
-   duration: 01:11
+   duration: 01:10
  - title: Come To Iceland
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0NvbWUgVG8gSWNlbGFuZC5tcDM=
-   duration: 01:08
+   duration: 01:07
  - title: Confession
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0NvbmZlc3Npb24ubXAz
    duration: 05:01
@@ -40,10 +40,10 @@ tracks:
    duration: 04:36
  - title: Dark Powers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0RhcmsgUG93ZXJzLm1wMw==
-   duration: 01:00
+   duration: 00:59
  - title: Destiny
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0Rlc3RpbnkubXAz
-   duration: 04:34
+   duration: 04:33
  - title: Dragon Feast
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0RyYWdvbiBGZWFzdC5tcDM=
    duration: 02:21
@@ -61,10 +61,10 @@ tracks:
    duration: 03:03
  - title: Final Death
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0ZpbmFsIERlYXRoLm1wMw==
-   duration: 03:05
+   duration: 03:04
  - title: Forest Killing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0ZvcmVzdCBLaWxsaW5nLm1wMw==
-   duration: 01:30
+   duration: 01:29
  - title: Forest
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0ZvcmVzdC5tcDM=
    duration: 03:08
@@ -73,16 +73,16 @@ tracks:
    duration: 04:41
  - title: Going To Church
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0dvaW5nIFRvIENodXJjaC5tcDM=
-   duration: 03:16
+   duration: 03:15
  - title: Hagen Killed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0hhZ2VuIEtpbGxlZC5tcDM=
    duration: 01:07
  - title: Hagens Herbs
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0hhZ2VucyBIZXJicy5tcDM=
-   duration: 01:53
+   duration: 01:52
  - title: Journey To Iceland
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0pvdXJuZXkgVG8gSWNlbGFuZC5tcDM=
-   duration: 05:21
+   duration: 05:20
  - title: King Queen Return
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L0tpbmcgUXVlZW4gUmV0dXJuLm1wMw==
    duration: 03:02
@@ -103,16 +103,16 @@ tracks:
    duration: 02:57
  - title: Sigfried Killed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1NpZ2ZyaWVkIEtpbGxlZC5tcDM=
-   duration: 06:36
+   duration: 06:35
  - title: Slaying The Dragon
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1NsYXlpbmcgVGhlIERyYWdvbi5tcDM=
    duration: 06:42
  - title: Sneaking Back To Bed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1NuZWFraW5nIEJhY2sgVG8gQmVkLm1wMw==
-   duration: 02:01
+   duration: 02:00
  - title: Sword Fight Against Two
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1N3b3JkIEZpZ2h0IEFnYWluc3QgVHdvLm1wMw==
-   duration: 01:18
+   duration: 01:17
  - title: Sword Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1N3b3JkIEZpZ2h0Lm1wMw==
    duration: 00:44
@@ -127,16 +127,16 @@ tracks:
    duration: 02:31
  - title: Treasure Is Yours
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1RyZWFzdXJlIElzIFlvdXJzLm1wMw==
-   duration: 02:05
+   duration: 02:04
  - title: Two Against One
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1R3byBBZ2FpbnN0IE9uZS5tcDM=
-   duration: 03:57
+   duration: 03:56
  - title: Wedding alt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1dlZGRpbmcgYWx0Lm1wMw==
-   duration: 02:52
+   duration: 02:51
  - title: Wedding Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1dlZGRpbmcgRmlnaHQubXAz
-   duration: 02:17
+   duration: 02:16
  - title: Wedding Party
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wva2l0L1dlZGRpbmcgUGFydHkubXAz
    duration: 01:20

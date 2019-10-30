@@ -1,27 +1,27 @@
 ---
 layout: post
-title: "Gladiator"
+title: "Gladiator More Music From The Motion Picture"
 poster: gld.jpg
 date: 2000-01-01 00:00:00 -0800
 categories: film
-buy: http://www.amazon.com/Gladiator-Hans-Zimmer/dp/B00004STPT
+buy: https://itunes.apple.com/us/album/gladiator-soundtrack-from/id5795921?ign-mpt=uo%3D4
 tracks:
  - title: Now We Are Free (Juba's Mix)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzAyIE5vdyBXZSBBcmUgRnJlZSAoSnViYSdzIE1peCkubXAz
-   duration: 04:48
+   duration: 04:47
  - title: Secrets
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzA3IFNlY3JldHMubXAz
    duration: 01:59
  - title: Rome Is The Light
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzA4IFJvbWUgSXMgVGhlIExpZ2h0Lm1wMw==
-   duration: 02:44
+   duration: 02:43
  - title: Busy Little Bee
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzE1IEJ1c3kgTGl0dGxlIEJlZS5tcDM=
-   duration: 03:48
+   duration: 03:47
  - title: Death Smiles At Us All
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzE2IERlYXRoIFNtaWxlcyBBdCBVcyBBbGwubXAz
-   duration: 02:30
+   duration: 02:29
  - title: Now We Are Free (Maximus Mix)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvZ2xkLzE4IE5vdyBXZSBBcmUgRnJlZSAoTWF4aW11cyBNaXgpLm1wMw==
-   duration: 03:50
+   duration: 03:49
 ---

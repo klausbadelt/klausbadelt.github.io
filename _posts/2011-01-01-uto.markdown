@@ -14,13 +14,13 @@ tracks:
    duration: 01:14
  - title: Drop Off (Eyes On You)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzAzIERyb3AgT2ZmIChFeWVzIE9uIFlvdSkubXAz
-   duration: 01:45
+   duration: 01:44
  - title: San Antonio Open
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzA0IFNhbiBBbnRvbmlvIE9wZW4ubXAz
-   duration: 02:33
+   duration: 02:32
  - title: Greenskeeper
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzA1IEdyZWVuc2tlZXBlci5tcDM=
-   duration: 00:57
+   duration: 00:56
  - title: Proposition Overlay
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzA2IFByb3Bvc2l0aW9uIE92ZXJsYXkubXAz
    duration: 00:54
@@ -35,22 +35,22 @@ tracks:
    duration: 01:27
  - title: First Cast pt 1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzEwIEZpcnN0IENhc3QgcHQgMS5tcDM=
-   duration: 01:06
+   duration: 01:05
  - title: First Cast pt 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzExIEZpcnN0IENhc3QgcHQgMi5tcDM=
-   duration: 01:22
+   duration: 01:21
  - title: Late Rise
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzEyIExhdGUgUmlzZS5tcDM=
-   duration: 00:32
+   duration: 00:31
  - title: Painting
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzEzIFBhaW50aW5nLm1wMw==
-   duration: 01:26
+   duration: 01:25
  - title: Painted Shot
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzE0IFBhaW50ZWQgU2hvdC5tcDM=
-   duration: 01:39
+   duration: 01:38
  - title: Riding
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzE1IFJpZGluZy5tcDM=
-   duration: 01:47
+   duration: 01:46
  - title: Fight and Rodeo
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzE2IEZpZ2h0IGFuZCBSb2Rlby5tcDM=
    duration: 01:19
@@ -62,28 +62,28 @@ tracks:
    duration: 01:19
  - title: Flying
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzE5IEZseWluZy5tcDM=
-   duration: 02:19
+   duration: 02:18
  - title: alt Flying
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzIwIGFsdCBGbHlpbmcubXAz
-   duration: 01:48
+   duration: 01:47
  - title: alt Father's Daughter
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzIxIGFsdCBGYXRoZXIncyBEYXVnaHRlci5tcDM=
-   duration: 01:58
+   duration: 01:57
  - title: Fifty-Nine
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzIyIEZpZnR5LU5pbmUubXAz
-   duration: 02:13
+   duration: 02:12
  - title: ALT Born Again
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzIzIEFMVCBCb3JuIEFnYWluLm1wMw==
-   duration: 04:41
+   duration: 04:40
  - title: Leaving Utopia
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzI0IExlYXZpbmcgVXRvcGlhLm1wMw==
-   duration: 02:47
+   duration: 02:46
  - title: Caddy
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzI1IENhZGR5Lm1wMw==
    duration: 01:49
  - title: Texas Open
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzI2IFRleGFzIE9wZW4ubXAz
-   duration: 01:21
+   duration: 01:20
  - title: Back To The Tee
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvdXRvLzI3IEJhY2sgVG8gVGhlIFRlZS5tcDM=
    duration: 01:25

@@ -11,13 +11,13 @@ tracks:
    duration: 00:53
  - title: alt 1.1
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL2FsdCAxLjEubXAz
-   duration: 00:37
+   duration: 00:36
  - title: Bachmann Refuses
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JhY2htYW5uIFJlZnVzZXMubXAz
    duration: 01:28
  - title: Because It's Fun
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JlY2F1c2UgSXQncyBGdW4ubXAz
-   duration: 01:11
+   duration: 01:10
  - title: Beneath the Gate (alt)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JlbmVhdGggdGhlIEdhdGUgKGFsdCkubXAz
    duration: 01:54
@@ -26,25 +26,25 @@ tracks:
    duration: 01:48
  - title: Billboard
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JpbGxib2FyZC5tcDM=
-   duration: 00:51
+   duration: 00:50
  - title: Brandenburg Gate 2
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JyYW5kZW5idXJnIEdhdGUgMi5tcDM=
-   duration: 03:00
+   duration: 02:59
  - title: Brandenburg Gate
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0JyYW5kZW5idXJnIEdhdGUubXAz
    duration: 00:52
  - title: Cattle Boat
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NhdHRsZSBCb2F0Lm1wMw==
-   duration: 00:23
+   duration: 00:22
  - title: Cemetery
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NlbWV0ZXJ5Lm1wMw==
-   duration: 01:13
+   duration: 01:12
  - title: Church Escape Alt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NodXJjaCBFc2NhcGUgQWx0Lm1wMw==
-   duration: 01:12
+   duration: 01:11
  - title: Church Escape
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NodXJjaCBFc2NhcGUubXAz
-   duration: 01:11
+   duration: 01:10
  - title: Church Mouse
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NodXJjaCBNb3VzZS5tcDM=
    duration: 01:38
@@ -53,25 +53,25 @@ tracks:
    duration: 02:42
  - title: Competition Arrives
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0NvbXBldGl0aW9uIEFycml2ZXMubXAz
-   duration: 01:29
+   duration: 01:28
  - title: Driving Skull
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0RyaXZpbmcgU2t1bGwubXAz
    duration: 00:16
  - title: Duty and Destiny
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0R1dHkgYW5kIERlc3RpbnkubXAz
-   duration: 02:39
+   duration: 02:38
  - title: Erlanger Phonecall
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0VybGFuZ2VyIFBob25lY2FsbC5tcDM=
    duration: 00:59
  - title: Erlanger Returns
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0VybGFuZ2VyIFJldHVybnMubXAz
-   duration: 02:05
+   duration: 02:04
  - title: Exchange
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0V4Y2hhbmdlLm1wMw==
-   duration: 02:29
+   duration: 02:28
  - title: Falling
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0ZhbGxpbmcubXAz
-   duration: 00:42
+   duration: 00:41
  - title: Fight
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0ZpZ2h0Lm1wMw==
    duration: 00:40
@@ -83,7 +83,7 @@ tracks:
    duration: 02:28
  - title: First Pitch
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0ZpcnN0IFBpdGNoLm1wMw==
-   duration: 00:37
+   duration: 00:36
  - title: Garden Party
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0dhcmRlbiBQYXJ0eS5tcDM=
    duration: 03:41
@@ -95,16 +95,16 @@ tracks:
    duration: 01:48
  - title: Helicopter
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0hlbGljb3B0ZXIubXAz
-   duration: 00:29
+   duration: 00:28
  - title: Holy Lance
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0hvbHkgTGFuY2UubXAz
-   duration: 03:32
+   duration: 03:31
  - title: Interrogation
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0ludGVycm9nYXRpb24ubXAz
-   duration: 01:46
+   duration: 01:45
  - title: Journey to Church
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0pvdXJuZXkgdG8gQ2h1cmNoLm1wMw==
-   duration: 01:29
+   duration: 01:28
  - title: Justus' Girlfriend
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0p1c3R1cycgR2lybGZyaWVuZC5tcDM=
    duration: 01:05
@@ -113,10 +113,10 @@ tracks:
    duration: 00:35
  - title: Krimi to School
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0tyaW1pIHRvIFNjaG9vbC5tcDM=
-   duration: 01:26
+   duration: 01:25
  - title: Krimi's Breakup alt
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0tyaW1pJ3MgQnJlYWt1cCBhbHQubXAz
-   duration: 01:22
+   duration: 01:21
  - title: Laboratory
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL0xhYm9yYXRvcnkubXAz
    duration: 03:51
@@ -125,52 +125,52 @@ tracks:
    duration: 00:46
  - title: Phone Call
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Bob25lIENhbGwubXAz
-   duration: 01:43
+   duration: 01:42
  - title: Projection
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Byb2plY3Rpb24ubXAz
    duration: 02:33
  - title: Proposal
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Byb3Bvc2FsLm1wMw==
-   duration: 01:13
+   duration: 01:12
  - title: Reception
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1JlY2VwdGlvbi5tcDM=
    duration: 01:02
  - title: Rescuing Bachmann
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Jlc2N1aW5nIEJhY2htYW5uLm1wMw==
-   duration: 02:08
+   duration: 02:07
  - title: Saving the Lance
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NhdmluZyB0aGUgTGFuY2UubXAz
    duration: 01:13
  - title: Schiller's Tomb
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NjaGlsbGVyJ3MgVG9tYi5tcDM=
-   duration: 01:10
+   duration: 01:09
  - title: Search Begins
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NlYXJjaCBCZWdpbnMubXAz
    duration: 03:34
  - title: Skull Projector
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NrdWxsIFByb2plY3Rvci5tcDM=
-   duration: 03:06
+   duration: 03:05
  - title: Skull
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NrdWxsLm1wMw==
    duration: 01:11
  - title: Spikes
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NwaWtlcy5tcDM=
-   duration: 03:19
+   duration: 03:18
  - title: Spyglass
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1NweWdsYXNzLm1wMw==
-   duration: 01:33
+   duration: 01:32
  - title: Stealing the Helicopter
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1N0ZWFsaW5nIHRoZSBIZWxpY29wdGVyLm1wMw==
    duration: 02:02
  - title: Subway Escape
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1N1YndheSBFc2NhcGUubXAz
-   duration: 01:15
+   duration: 01:14
  - title: Tesla Machine
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Rlc2xhIE1hY2hpbmUubXAz
-   duration: 01:15
+   duration: 01:14
  - title: Theater Room
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1RoZWF0ZXIgUm9vbS5tcDM=
-   duration: 03:33
+   duration: 03:32
  - title: Through the Flames
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1Rocm91Z2ggdGhlIEZsYW1lcy5tcDM=
    duration: 04:34
@@ -179,13 +179,13 @@ tracks:
    duration: 01:21
  - title: Undressed (alt2)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1VuZHJlc3NlZCAoYWx0MikubXAz
-   duration: 01:19
+   duration: 01:18
  - title: Undressed (alt3)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1VuZHJlc3NlZCAoYWx0MykubXAz
    duration: 01:22
  - title: Undressed (alt4)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1VuZHJlc3NlZCAoYWx0NCkubXAz
-   duration: 01:14
+   duration: 01:13
  - title: Undressed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1VuZHJlc3NlZC5tcDM=
    duration: 01:23
@@ -203,8 +203,8 @@ tracks:
    duration: 00:38
  - title: Wedding
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1dlZGRpbmcubXAz
-   duration: 02:08
+   duration: 02:07
  - title: X Marks The Spot
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmliL1ggTWFya3MgVGhlIFNwb3QubXAz
-   duration: 04:25
+   duration: 04:24
 ---

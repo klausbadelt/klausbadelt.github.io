@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Motorstorm Apocalypse"
+title: "Motorstorm Apocalypse (Shockland)"
 poster: mot.jpg
 date: 2011-01-01 00:00:00 -0800
 categories: film
+buy: https://itunes.apple.com/us/album/shockland/id441418007?ign-mpt=uo%3D4
 tracks:
  - title: Mercury Man
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzAxIE1lcmN1cnkgTWFuLm1wMw==
@@ -16,23 +17,23 @@ tracks:
    duration: 06:28
  - title: Headlong & Deepdown
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA0IEhlYWRsb25nICYgRGVlcGRvd24ubXAz
-   duration: 05:49
+   duration: 05:48
  - title: Spazm
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA1IFNwYXptLm1wMw==
    duration: 05:57
  - title: Neurofunk
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA2IE5ldXJvZnVuay5tcDM=
-   duration: 06:40
+   duration: 06:39
  - title: Speedball
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA3IFNwZWVkYmFsbC5tcDM=
    duration: 06:46
  - title: The Horror&
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA4IFRoZSBIb3Jyb3ImLm1wMw==
-   duration: 07:47
+   duration: 07:46
  - title: BRKNCK
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzA5IEJSS05DSy5tcDM=
-   duration: 05:23
+   duration: 05:22
  - title: Shockland
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbW90LzEwIFNob2NrbGFuZC5tcDM=
-   duration: 07:37
+   duration: 07:36
 ---

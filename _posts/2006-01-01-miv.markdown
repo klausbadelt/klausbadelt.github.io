@@ -8,13 +8,13 @@ buy: http://www.amazon.com/Miami-Vice/dp/B000GH3CWA
 tracks:
  - title: A-500
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWl2L0EtNTAwLm1wMw==
-   duration: 02:34
+   duration: 02:33
  - title: Dope on a Rope
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWl2L0RvcGUgb24gYSBSb3BlLm1wMw==
    duration: 01:36
  - title: One of These
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWl2L09uZSBvZiBUaGVzZS5tcDM=
-   duration: 03:57
+   duration: 03:56
  - title: Sonny Showers
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbWl2L1Nvbm55IFNob3dlcnMubXAz
    duration: 01:01

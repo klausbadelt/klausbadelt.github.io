@@ -1,40 +1,40 @@
 ---
 layout: post
-title: "Spear of Destiny"
+title: "Die Jagd nach dem Schatz der Nibelungen"
 poster: nb2.jpg
 date: 2008-01-01 00:00:00 -0800
 categories: film
 tracks:
  - title: Betrayal
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0JldHJheWFsLm1wMw==
-   duration: 01:29
+   duration: 01:28
  - title: Break In
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0JyZWFrIEluLm1wMw==
    duration: 01:56
  - title: Breathing Difficulty
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0JyZWF0aGluZyBEaWZmaWN1bHR5Lm1wMw==
-   duration: 00:54
+   duration: 00:53
  - title: Caesar's Destiny
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0NhZXNhcidzIERlc3RpbnkubXAz
    duration: 01:44
  - title: Cathedral
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0NhdGhlZHJhbC5tcDM=
-   duration: 00:59
+   duration: 00:58
  - title: Climbing The Mountain
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0NsaW1iaW5nIFRoZSBNb3VudGFpbi5tcDM=
    duration: 05:07
  - title: Dark Tension
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0RhcmsgVGVuc2lvbi5tcDM=
-   duration: 01:00
+   duration: 00:59
  - title: Descent
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0Rlc2NlbnQubXAz
-   duration: 01:15
+   duration: 01:14
  - title: Downriver
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0Rvd25yaXZlci5tcDM=
    duration: 01:01
  - title: Dragon's Head
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0RyYWdvbidzIEhlYWQubXAz
-   duration: 02:07
+   duration: 02:06
  - title: Eight Years Later
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0VpZ2h0IFllYXJzIExhdGVyLm1wMw==
    duration: 01:18
@@ -43,7 +43,7 @@ tracks:
    duration: 03:01
  - title: Escaping Bust
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0VzY2FwaW5nIEJ1c3QubXAz
-   duration: 01:02
+   duration: 01:01
  - title: Finding The King
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0ZpbmRpbmcgVGhlIEtpbmcubXAz
    duration: 01:33
@@ -58,25 +58,25 @@ tracks:
    duration: 03:49
  - title: Insert The Key
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0luc2VydCBUaGUgS2V5Lm1wMw==
-   duration: 00:55
+   duration: 00:54
  - title: Lunch Meeting
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL0x1bmNoIE1lZXRpbmcubXAz
-   duration: 02:42
+   duration: 02:41
  - title: Museum Tour
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL011c2V1bSBUb3VyLm1wMw==
-   duration: 01:17
+   duration: 01:16
  - title: Orb
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL09yYi5tcDM=
    duration: 01:58
  - title: Parallels
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1BhcmFsbGVscy5tcDM=
-   duration: 02:58
+   duration: 02:57
  - title: Picking Up The Ring
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1BpY2tpbmcgVXAgVGhlIFJpbmcubXAz
-   duration: 00:30
+   duration: 00:29
  - title: Picnic
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1BpY25pYy5tcDM=
-   duration: 01:38
+   duration: 01:37
  - title: Pull The Handle
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1B1bGwgVGhlIEhhbmRsZS5tcDM=
    duration: 01:55
@@ -85,7 +85,7 @@ tracks:
    duration: 02:50
  - title: Redecorating
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1JlZGVjb3JhdGluZy5tcDM=
-   duration: 01:54
+   duration: 01:53
  - title: Research
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1Jlc2VhcmNoLm1wMw==
    duration: 00:44
@@ -94,34 +94,34 @@ tracks:
    duration: 03:20
  - title: Shootout
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1Nob290b3V0Lm1wMw==
-   duration: 03:21
+   duration: 03:20
  - title: Sign Of The Swan
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1NpZ24gT2YgVGhlIFN3YW4ubXAz
-   duration: 00:57
+   duration: 00:56
  - title: Sleeping In The Attic
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1NsZWVwaW5nIEluIFRoZSBBdHRpYy5tcDM=
-   duration: 02:45
+   duration: 02:44
  - title: Standoff
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1N0YW5kb2ZmLm1wMw==
    duration: 01:20
  - title: Stealing The Bust
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1N0ZWFsaW5nIFRoZSBCdXN0Lm1wMw==
-   duration: 00:54
+   duration: 00:53
  - title: Story of Nibelungen
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1N0b3J5IG9mIE5pYmVsdW5nZW4ubXAz
    duration: 02:00
  - title: Sunbathing
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1N1bmJhdGhpbmcubXAz
-   duration: 02:34
+   duration: 02:33
  - title: Task Is Set
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1Rhc2sgSXMgU2V0Lm1wMw==
-   duration: 00:53
+   duration: 00:52
  - title: The Dome
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1RoZSBEb21lLm1wMw==
-   duration: 00:40
+   duration: 00:39
  - title: Thief
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1RoaWVmLm1wMw==
-   duration: 02:20
+   duration: 02:19
  - title: View The Relic
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvbmIyL1ZpZXcgVGhlIFJlbGljLm1wMw==
    duration: 00:36
