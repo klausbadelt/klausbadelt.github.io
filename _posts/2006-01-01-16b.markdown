@@ -8,216 +8,105 @@ tracks:
  - title: Opening
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAxIE9wZW5pbmcubXAz
    duration: 00:56
- - title: 1m0 Opening
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAxIDFtMCBPcGVuaW5nLm1wMw==
-   duration: 00:55
- - title: 1m0V Opening
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAyIDFtMFYgT3BlbmluZy5tcDM=
-   duration: 01:01
- - title: Opening
+ - title: Opening (alternate version)
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAyIE9wZW5pbmcgKGFsdCkubXAz
    duration: 01:01
- - title: 1m1 Raid
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAzIDFtMSBSYWlkLm1wMw==
-   duration: 00:32
  - title: Raid
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzAzIFJhaWQubXAz
    duration: 00:32
- - title: 1m2 MeetJack
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA0IDFtMiBNZWV0SmFjay5tcDM=
-   duration: 01:36
  - title: MeetJack
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA0IE1lZXRKYWNrLm1wMw==
    duration: 01:36
- - title: 1m3 Van
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA1IDFtMyBWYW4ubXAz
-   duration: 00:49
  - title: Van
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA1IFZhbi5tcDM=
    duration: 00:49
- - title: 1m4 Followed
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA2IDFtNCBGb2xsb3dlZC5tcDM=
-   duration: 00:45
  - title: Followed
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA2IEZvbGxvd2VkLm1wMw==
    duration: 00:45
  - title: Millerintro
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA3IE1pbGxlcmludHJvLm1wMw==
    duration: 00:20
- - title: 1m4 Millerintro
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA3IDFtNCBNaWxsZXJpbnRyby5tcDM=
-   duration: 00:20
- - title: 1m5 Millertime
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA4IDFtNSBNaWxsZXJ0aW1lLm1wMw==
-   duration: 02:10
  - title: Millertime
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA4IE1pbGxlcnRpbWUubXAz
    duration: 02:10
- - title: 2m10 Chase Eddie
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA5IDJtMTAgQ2hhc2UgRWRkaWUubXAz
-   duration: 01:51
  - title: Chase Eddie
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzA5IENoYXNlIEVkZGllLm1wMw==
    duration: 01:51
- - title: 2m6 End of Millertime
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEwIDJtNiBFbmQgb2YgTWlsbGVydGltZS5tcDM=
-   duration: 00:38
  - title: End of Millertime
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEwIEVuZCBvZiBNaWxsZXJ0aW1lLm1wMw==
    duration: 00:38
- - title: 2m7 Gun
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzExIDJtNyBHdW4ubXAz
-   duration: 04:35
  - title: Gun
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzExIEd1bi5tcDM=
    duration: 04:35
  - title: Chased
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEyIENoYXNlZC5tcDM=
    duration: 01:12
- - title: 2m8 Chased
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEyIDJtOCBDaGFzZWQubXAz
-   duration: 01:12
- - title: 2m9 Seat Up
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEzIDJtOSBTZWF0IFVwLm1wMw==
-   duration: 02:09
  - title: Seat Up
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzEzIFNlYXQgVXAubXAz
    duration: 02:09
- - title: 3m11 Subway
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE0IDNtMTEgU3Vid2F5Lm1wMw==
-   duration: 03:58
  - title: Subway
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE0IFN1YndheS5tcDM=
    duration: 03:58
  - title: Rooftop
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE1IFJvb2Z0b3AubXAz
    duration: 03:14
- - title: 3m12 Rooftop
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE1IDNtMTIgUm9vZnRvcC5tcDM=
-   duration: 03:14
- - title: 16 3m13 Playing You
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE2IDE2IDNtMTMgUGxheWluZyBZb3UubXAz
-   duration: 04:10
  - title: Playing You
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE2IFBsYXlpbmcgWW91Lm1wMw==
    duration: 04:10
  - title: Phone Box
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE3IFBob25lIEJveC5tcDM=
    duration: 01:57
- - title: 17 3m14 Phone Box
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE3IDE3IDNtMTQgUGhvbmUgQm94Lm1wMw==
-   duration: 01:57
- - title: 18 4m15 Go
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE4IDE4IDRtMTUgR28ubXAz
-   duration: 01:31
  - title: Go
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE4IEdvLm1wMw==
    duration: 01:31
  - title: Stealing a Bus
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE5IFN0ZWFsaW5nIGEgQnVzLm1wMw==
    duration: 04:24
- - title: 19 4m16 Stealing a Bus
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzE5IDE5IDRtMTYgU3RlYWxpbmcgYSBCdXMubXAz
-   duration: 04:24
- - title: 20 4m17 Standoff 
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIwIDIwIDRtMTcgU3RhbmRvZmYubXAz
-   duration: 01:37
- - title: Standoff 
+ - title: Standoff
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIwIFN0YW5kb2ZmLm1wMw==
    duration: 01:37
- - title: 21 4m18 Negotiator
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIxIDIxIDRtMTggTmVnb3RpYXRvci5tcDM=
-   duration: 02:21
  - title: Negotiator
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIxIE5lZ290aWF0b3IubXAz
    duration: 02:21
- - title: 22 4m19 Birthday
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIyIDIyIDRtMTkgQmlydGhkYXkubXAz
-   duration: 02:22
  - title: Birthday
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIyIEJpcnRoZGF5Lm1wMw==
    duration: 02:22
  - title: Birthday
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIzIEJpcnRoZGF5Lm1wMw==
    duration: 02:22
- - title: 23 4m19V Birthday
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzIzIDIzIDRtMTlWIEJpcnRoZGF5Lm1wMw==
-   duration: 02:22
- - title: 24 4m21 Requiem
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI0IDI0IDRtMjEgUmVxdWllbS5tcDM=
-   duration: 02:38
  - title: Requiem
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI0IFJlcXVpZW0ubXAz
    duration: 02:38
- - title: 25 4m21V Requiem
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI1IDI1IDRtMjFWIFJlcXVpZW0ubXAz
-   duration: 02:33
- - title: Requiem
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI1IDRtMjFWIFJlcXVpZW0ubXAz
-   duration: 02:33
- - title: 26 5m22 Tape Recorder
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI2IDI2IDVtMjIgVGFwZSBSZWNvcmRlci5tcDM=
-   duration: 02:34
  - title: Tape Recorder
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI2IFRhcGUgUmVjb3JkZXIubXAz
    duration: 02:34
- - title: 27 5m23 Eddie Comes Back Tk4
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI3IDI3IDVtMjMgRWRkaWUgQ29tZXMgQmFjayBUazQubXAz
-   duration: 01:33
  - title: Eddie Comes Back Tk4
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI3IEVkZGllIENvbWVzIEJhY2sgVGs0Lm1wMw==
    duration: 01:33
- - title: 28 5m23 Eddie Comes Back Tk5
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI4IDI4IDVtMjMgRWRkaWUgQ29tZXMgQmFjayBUazUubXAz
-   duration: 01:27
  - title: Eddie Comes Back Tk5
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI4IEVkZGllIENvbWVzIEJhY2sgVGs1Lm1wMw==
    duration: 01:27
- - title: 29 5m24 Moving the Bus
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI5IDI5IDVtMjQgTW92aW5nIHRoZSBCdXMubXAz
-   duration: 01:13
  - title: Moving the Bus
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzI5IE1vdmluZyB0aGUgQnVzLm1wMw==
    duration: 01:13
- - title: 30 5m25 Eddie Bleeds
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMwIDMwIDVtMjUgRWRkaWUgQmxlZWRzLm1wMw==
-   duration: 02:39
  - title: Eddie Bleeds
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMwIEVkZGllIEJsZWVkcy5tcDM=
    duration: 02:39
- - title: 31 5m26 Not a Good Guy
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMxIDMxIDVtMjYgTm90IGEgR29vZCBHdXkubXAz
-   duration: 01:06
  - title: Not a Good Guy
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMxIE5vdCBhIEdvb2QgR3V5Lm1wMw==
    duration: 01:06
- - title: 32 6m27 I Was One of Them
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMyIDMyIDZtMjcgSSBXYXMgT25lIG9mIFRoZW0ubXAz
-   duration: 02:14
  - title: I Was One of Them
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMyIEkgV2FzIE9uZSBvZiBUaGVtLm1wMw==
    duration: 02:14
  - title: Confrontation
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMzIENvbmZyb250YXRpb24ubXAz
    duration: 01:13
- - title: 33 6m28a Confrontation
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzMzIDMzIDZtMjhhIENvbmZyb250YXRpb24ubXAz
-   duration: 01:13
- - title: 34 6m28b Confrontation
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM0IDM0IDZtMjhiIENvbmZyb250YXRpb24ubXAz
-   duration: 02:17
  - title: Confrontation
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM0IENvbmZyb250YXRpb24ubXAz
    duration: 02:17
  - title: Take Him Out
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM1IFRha2UgSGltIE91dC5tcDM=
    duration: 04:00
- - title: 35 6m29 Take Him Out
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM1IDM1IDZtMjkgVGFrZSBIaW0gT3V0Lm1wMw==
-   duration: 04:00
- - title: 36 6m30 Cake
-   url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM2IDM2IDZtMzAgQ2FrZS5tcDM=
-   duration: 01:40
  - title: Cake
    url: aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsYXVzYmFkZWx0LXBvb2wvMTZiLzM2IENha2UubXAz
    duration: 01:40
