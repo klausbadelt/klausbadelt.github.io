@@ -1,1 +1,1 @@
-bundle exec jekyll serve --watch $1
+bundle exec jekyll serve --watch --host 0.0.0.0 $1
