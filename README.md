@@ -1,6 +1,6 @@
 # klausbadelt.github.io
 
-My personal website - http://klausbadelt.com
+My personal website - https://klausbadelt.com
 
 # Development
 
