@@ -1,0 +1,2 @@
+brew 'taglib'
+brew 'ruby'
